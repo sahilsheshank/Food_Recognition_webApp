@@ -1,0 +1,8114 @@
+[
+  {
+    "name": "Hot tea (Garam Chai)",
+    "calories": "16.14",
+    "carbohydrates": "2.58",
+    "protein": "0.39",
+    "fat": "0.53",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Instant coffee",
+    "calories": "23.16",
+    "carbohydrates": "3.65",
+    "protein": "0.64",
+    "fat": "0.75",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Espreso coffee",
+    "calories": "51.54",
+    "carbohydrates": "6.62",
+    "protein": "1.75",
+    "fat": "2.14",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Iced tea",
+    "calories": "10.34",
+    "carbohydrates": "2.70",
+    "protein": "0.03",
+    "fat": "0.01",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Raw mango drink (Aam panna)",
+    "calories": "35.92",
+    "carbohydrates": "9.05",
+    "protein": "0.16",
+    "fat": "0.03",
+    "fibre": "0.61"
+  },
+  {
+    "name": "Fruit Punch (with fresh juices)",
+    "calories": "36.12",
+    "carbohydrates": "9.38",
+    "protein": "0.14",
+    "fat": "0.03",
+    "fibre": "0.06"
+  },
+  {
+    "name": "Fruit Punch (with squashes)",
+    "calories": "23.13",
+    "carbohydrates": "5.99",
+    "protein": "0.07",
+    "fat": "0.02",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Lemonade",
+    "calories": "20.80",
+    "carbohydrates": "5.48",
+    "protein": "0.03",
+    "fat": "0.01",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Lem-o-gin",
+    "calories": "21.52",
+    "carbohydrates": "5.55",
+    "protein": "0.08",
+    "fat": "0.03",
+    "fibre": "0.13"
+  },
+  {
+    "name": "Cumin infused water (Jeere/Zeere ka pani)",
+    "calories": "9.09",
+    "carbohydrates": "1.86",
+    "protein": "0.17",
+    "fat": "0.11",
+    "fibre": "0.46"
+  },
+  {
+    "name": "Coco pine cooler",
+    "calories": "32.75",
+    "carbohydrates": "5.72",
+    "protein": "0.56",
+    "fat": "1.00",
+    "fibre": "0.26"
+  },
+  {
+    "name": "Summer cooler",
+    "calories": "22.43",
+    "carbohydrates": "5.43",
+    "protein": "0.37",
+    "fat": "0.04",
+    "fibre": "0.20"
+  },
+  {
+    "name": "Hot cocoa",
+    "calories": "90.10",
+    "carbohydrates": "9.23",
+    "protein": "3.36",
+    "fat": "4.56",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cold coffee with ice cream",
+    "calories": "67.85",
+    "carbohydrates": "11.24",
+    "protein": "1.57",
+    "fat": "2.11",
+    "fibre": "0.01"
+  },
+  {
+    "name": "Banana milkshake (Kele milkshake)",
+    "calories": "65.31",
+    "carbohydrates": "9.15",
+    "protein": "1.84",
+    "fat": "2.37",
+    "fibre": "0.26"
+  },
+  {
+    "name": "Mango milkshake (Aam milkshake)",
+    "calories": "56.90",
+    "carbohydrates": "7.23",
+    "protein": "1.73",
+    "fat": "2.35",
+    "fibre": "0.26"
+  },
+  {
+    "name": "Pineapple milkshake (Ananas milkshake)",
+    "calories": "55.72",
+    "carbohydrates": "7.62",
+    "protein": "1.66",
+    "fat": "2.23",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Orange milkshake (Narangi milkshake)",
+    "calories": "57.42",
+    "carbohydrates": "7.11",
+    "protein": "1.86",
+    "fat": "2.52",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Egg nog",
+    "calories": "97.14",
+    "carbohydrates": "8.15",
+    "protein": "4.78",
+    "fat": "5.11",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Sweet Lassi (Meethi lassi)",
+    "calories": "35.66",
+    "carbohydrates": "6.51",
+    "protein": "1.29",
+    "fat": "0.68",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Lassi (salted)",
+    "calories": "18.84",
+    "carbohydrates": "1.86",
+    "protein": "1.35",
+    "fat": "0.72",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Cheese and chilli sandwich ",
+    "calories": "218.11",
+    "carbohydrates": "27.40",
+    "protein": "6.80",
+    "fat": "9.78",
+    "fibre": "2.08"
+  },
+  {
+    "name": "Egg sandwich (Ande ka sandwich)",
+    "calories": "285.96",
+    "carbohydrates": "29.16",
+    "protein": "8.69",
+    "fat": "15.80",
+    "fibre": "1.88"
+  },
+  {
+    "name": "Cucumber sandwich (Kheere ka sandwich)",
+    "calories": "188.60",
+    "carbohydrates": "25.77",
+    "protein": "4.80",
+    "fat": "8.00",
+    "fibre": "2.45"
+  },
+  {
+    "name": "Cheese and pineapple sandwich (Cheese aur ananas ka sandwich)",
+    "calories": "257.71",
+    "carbohydrates": "29.10",
+    "protein": "8.20",
+    "fat": "12.80",
+    "fibre": "2.33"
+  },
+  {
+    "name": "Cheese and tomato sandwich (Cheese aur tamatar ke sandwich)",
+    "calories": "243.32",
+    "carbohydrates": "26.92",
+    "protein": "7.92",
+    "fat": "12.27",
+    "fibre": "1.97"
+  },
+  {
+    "name": "Chicken sandwich",
+    "calories": "253.27",
+    "carbohydrates": "25.38",
+    "protein": "13.12",
+    "fat": "11.75",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Peanut and tomato sandwich (Moongfali aur tamatar ka sandwich)",
+    "calories": "291.43",
+    "carbohydrates": "28.54",
+    "protein": "9.53",
+    "fat": "16.14",
+    "fibre": "4.03"
+  },
+  {
+    "name": "Rainbow sandwich",
+    "calories": "272.75",
+    "carbohydrates": "34.26",
+    "protein": "7.75",
+    "fat": "12.54",
+    "fibre": "2.10"
+  },
+  {
+    "name": "Club sandwich ",
+    "calories": "235.32",
+    "carbohydrates": "18.51",
+    "protein": "7.31",
+    "fat": "15.12",
+    "fibre": "1.81"
+  },
+  {
+    "name": "Vegetarian club sandwich",
+    "calories": "198.33",
+    "carbohydrates": "19.68",
+    "protein": "5.45",
+    "fat": "11.33",
+    "fibre": "2.06"
+  },
+  {
+    "name": "Pin wheel sandwich",
+    "calories": "311.52",
+    "carbohydrates": "14.00",
+    "protein": "8.77",
+    "fat": "24.93",
+    "fibre": "0.93"
+  },
+  {
+    "name": "Carrot apple sandwich (Gajar aur seb ka sandwich)",
+    "calories": "214.11",
+    "carbohydrates": "29.04",
+    "protein": "5.30",
+    "fat": "9.12",
+    "fibre": "3.66"
+  },
+  {
+    "name": "Salami sandwich",
+    "calories": "255.59",
+    "carbohydrates": "21.54",
+    "protein": "8.70",
+    "fat": "15.51",
+    "fibre": "1.97"
+  },
+  {
+    "name": "Vegetable and mayonnaise sandwich",
+    "calories": "244.26",
+    "carbohydrates": "23.20",
+    "protein": "4.47",
+    "fat": "15.40",
+    "fibre": "2.35"
+  },
+  {
+    "name": "Egg and tomato sandwich (Ande aur tamatar ka sandwich)",
+    "calories": "222.11",
+    "carbohydrates": "25.90",
+    "protein": "7.66",
+    "fat": "10.51",
+    "fibre": "1.77"
+  },
+  {
+    "name": "Sweet open sandwich",
+    "calories": "244.25",
+    "carbohydrates": "39.24",
+    "protein": "4.99",
+    "fat": "8.15",
+    "fibre": "2.36"
+  },
+  {
+    "name": "Mushroom and cheese sandwich (toasted)",
+    "calories": "227.42",
+    "carbohydrates": "21.01",
+    "protein": "7.79",
+    "fat": "13.01",
+    "fibre": "2.28"
+  },
+  {
+    "name": "Cheese and tomato sandwich (toasted) (Cheese aur tamatar ke sandwich (toasted))",
+    "calories": "224.58",
+    "carbohydrates": "21.42",
+    "protein": "6.82",
+    "fat": "12.95",
+    "fibre": "1.78"
+  },
+  {
+    "name": "Pea potato sandwich (toasted) (Matar aloo ka sandwich)",
+    "calories": "164.90",
+    "carbohydrates": "25.17",
+    "protein": "4.60",
+    "fat": "5.43",
+    "fibre": "2.89"
+  },
+  {
+    "name": "Paneer pea sandwich (toasted) (Paneer matar ka sandwich)",
+    "calories": "249.56",
+    "carbohydrates": "24.05",
+    "protein": "12.40",
+    "fat": "11.98",
+    "fibre": "2.12"
+  },
+  {
+    "name": "Chicken sandwich (toasted)",
+    "calories": "167.37",
+    "carbohydrates": "18.82",
+    "protein": "12.08",
+    "fat": "5.32",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Pea keema sandwich (toasted) (Matar aur keema ka sandwich)",
+    "calories": "171.78",
+    "carbohydrates": "20.26",
+    "protein": "11.06",
+    "fat": "5.61",
+    "fibre": "2.45"
+  },
+  {
+    "name": "Classic club sandwich",
+    "calories": "200.83",
+    "carbohydrates": "18.49",
+    "protein": "6.74",
+    "fat": "11.56",
+    "fibre": "1.62"
+  },
+  {
+    "name": "Sesame toast",
+    "calories": "495.19",
+    "carbohydrates": "11.15",
+    "protein": "1.90",
+    "fat": "49.38",
+    "fibre": "1.32"
+  },
+  {
+    "name": "Cracked wheat porridge (Meetha daliya)",
+    "calories": "81.57",
+    "carbohydrates": "8.87",
+    "protein": "2.64",
+    "fat": "4.08",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Semolina porridge (Suji/Rava daliya)",
+    "calories": "100.89",
+    "carbohydrates": "12.39",
+    "protein": "3.75",
+    "fat": "4.08",
+    "fibre": "0.70"
+  },
+  {
+    "name": "Oatmeal Porridge",
+    "calories": "72.85",
+    "carbohydrates": "8.77",
+    "protein": "2.60",
+    "fat": "3.22",
+    "fibre": "0.39"
+  },
+  {
+    "name": "Cornflakes with milk",
+    "calories": "117.33",
+    "carbohydrates": "14.95",
+    "protein": "3.59",
+    "fat": "5.12",
+    "fibre": "0.78"
+  },
+  {
+    "name": "Rice flakes (Chiwda/Aval)",
+    "calories": "112.44",
+    "carbohydrates": "15.57",
+    "protein": "3.62",
+    "fat": "3.99",
+    "fibre": "0.37"
+  },
+  {
+    "name": "Wheat flakes",
+    "calories": "112.44",
+    "carbohydrates": "15.57",
+    "protein": "3.62",
+    "fat": "3.99",
+    "fibre": "0.37"
+  },
+  {
+    "name": "Murmura (Puffed rice)",
+    "calories": "113.32",
+    "carbohydrates": "15.67",
+    "protein": "3.62",
+    "fat": "4.04",
+    "fibre": "0.28"
+  },
+  {
+    "name": "Puffed wheat (Murmure/Moori)",
+    "calories": "113.32",
+    "carbohydrates": "15.67",
+    "protein": "3.62",
+    "fat": "4.04",
+    "fibre": "0.28"
+  },
+  {
+    "name": "Boiled egg (Ubla anda)",
+    "calories": "45.35",
+    "carbohydrates": "0.12",
+    "protein": "4.43",
+    "fat": "3.04",
+    "fibre": "0.11"
+  },
+  {
+    "name": "Fried Egg ",
+    "calories": "223.67",
+    "carbohydrates": "0.31",
+    "protein": "11.59",
+    "fat": "19.62",
+    "fibre": "0.29"
+  },
+  {
+    "name": "Poached egg",
+    "calories": "123.87",
+    "carbohydrates": "0.37",
+    "protein": "11.98",
+    "fat": "8.19",
+    "fibre": "0.30"
+  },
+  {
+    "name": "Scrambled egg (Ande ki bhurji)",
+    "calories": "155.97",
+    "carbohydrates": "1.35",
+    "protein": "10.29",
+    "fat": "12.21",
+    "fibre": "0.24"
+  },
+  {
+    "name": "Baked egg ",
+    "calories": "218.85",
+    "carbohydrates": "15.42",
+    "protein": "11.88",
+    "fat": "12.65",
+    "fibre": "1.03"
+  },
+  {
+    "name": "Plain omelette/omlet",
+    "calories": "272.41",
+    "carbohydrates": "0.64",
+    "protein": "9.66",
+    "fat": "25.74",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Stuffed egg omelette/omlet",
+    "calories": "203.51",
+    "carbohydrates": "2.30",
+    "protein": "8.60",
+    "fat": "17.77",
+    "fibre": "0.75"
+  },
+  {
+    "name": "Pancake",
+    "calories": "203.36",
+    "carbohydrates": "20.49",
+    "protein": "5.68",
+    "fat": "10.82",
+    "fibre": "0.65"
+  },
+  {
+    "name": "Keema pancake",
+    "calories": "176.27",
+    "carbohydrates": "9.56",
+    "protein": "9.01",
+    "fat": "11.25",
+    "fibre": "0.84"
+  },
+  {
+    "name": "Vegetable pancake",
+    "calories": "125.18",
+    "carbohydrates": "12.24",
+    "protein": "3.87",
+    "fat": "6.57",
+    "fibre": "2.48"
+  },
+  {
+    "name": "Jam and fruit pancake",
+    "calories": "162.02",
+    "carbohydrates": "20.73",
+    "protein": "3.79",
+    "fat": "7.01",
+    "fibre": "1.21"
+  },
+  {
+    "name": "Khoa and coconut pancake",
+    "calories": "271.98",
+    "carbohydrates": "27.32",
+    "protein": "6.98",
+    "fat": "15.29",
+    "fibre": "1.65"
+  },
+  {
+    "name": "Brown stock",
+    "calories": "21.32",
+    "carbohydrates": "0.25",
+    "protein": "1.95",
+    "fat": "1.38",
+    "fibre": "0.09"
+  },
+  {
+    "name": "Vegetable stock",
+    "calories": "17.60",
+    "carbohydrates": "0.96",
+    "protein": "0.30",
+    "fat": "1.38",
+    "fibre": "0.38"
+  },
+  {
+    "name": "Chicken stock",
+    "calories": "29.88",
+    "carbohydrates": "0.37",
+    "protein": "3.69",
+    "fat": "1.51",
+    "fibre": "0.10"
+  },
+  {
+    "name": "Clear tomato soup (Tamatar ka soup)",
+    "calories": "80.07",
+    "carbohydrates": "3.45",
+    "protein": "4.79",
+    "fat": "12.22",
+    "fibre": "1.96"
+  },
+  {
+    "name": "Lentil soup",
+    "calories": "31.17",
+    "carbohydrates": "3.94",
+    "protein": "9.65",
+    "fat": "11.68",
+    "fibre": "2.57"
+  },
+  {
+    "name": "Chicken consomme (Clear chicken soup)",
+    "calories": "47.94",
+    "carbohydrates": "1.19",
+    "protein": "11.47",
+    "fat": "12.02",
+    "fibre": "1.57"
+  },
+  {
+    "name": "Cream of tomato soup",
+    "calories": "97.81",
+    "carbohydrates": "3.93",
+    "protein": "4.61",
+    "fat": "13.12",
+    "fibre": "1.38"
+  },
+  {
+    "name": "Cream of green peas soup",
+    "calories": "127.84",
+    "carbohydrates": "6.75",
+    "protein": "7.13",
+    "fat": "14.78",
+    "fibre": "2.95"
+  },
+  {
+    "name": "Cream of spinach soup",
+    "calories": "100.54",
+    "carbohydrates": "3.45",
+    "protein": "5.21",
+    "fat": "13.31",
+    "fibre": "1.74"
+  },
+  {
+    "name": "Cream of mixed vegetable soup",
+    "calories": "59.65",
+    "carbohydrates": "4.93",
+    "protein": "6.84",
+    "fat": "9.05",
+    "fibre": "2.14"
+  },
+  {
+    "name": "Cream of mushroom soup",
+    "calories": "117.28",
+    "carbohydrates": "3.74",
+    "protein": "6.64",
+    "fat": "15.50",
+    "fibre": "1.34"
+  },
+  {
+    "name": "Chicken sweet corn soup",
+    "calories": "28.32",
+    "carbohydrates": "1.63",
+    "protein": "14.48",
+    "fat": "12.59",
+    "fibre": "0.47"
+  },
+  {
+    "name": "Minestrone soup",
+    "calories": "42.66",
+    "carbohydrates": "3.71",
+    "protein": "9.30",
+    "fat": "11.09",
+    "fibre": "1.92"
+  },
+  {
+    "name": "Egg drop soup",
+    "calories": "26.64",
+    "carbohydrates": "1.10",
+    "protein": "12.93",
+    "fat": "13.52",
+    "fibre": "0.81"
+  },
+  {
+    "name": "Chinese cabbage and meat ball soup",
+    "calories": "484.31",
+    "carbohydrates": "1.43",
+    "protein": "5.21",
+    "fat": "56.57",
+    "fibre": "0.57"
+  },
+  {
+    "name": "French onion soup",
+    "calories": "55.61",
+    "carbohydrates": "4.28",
+    "protein": "11.41",
+    "fat": "14.39",
+    "fibre": "1.01"
+  },
+  {
+    "name": "Hot and sour soup",
+    "calories": "31.51",
+    "carbohydrates": "1.78",
+    "protein": "3.12",
+    "fat": "1.31",
+    "fibre": "0.60"
+  },
+  {
+    "name": "Talaumein soup",
+    "calories": "35.63",
+    "carbohydrates": "4.17",
+    "protein": "10.12",
+    "fat": "12.78",
+    "fibre": "1.94"
+  },
+  {
+    "name": "Cold cucumber soup (Thanda kheere ka soup)",
+    "calories": "48.03",
+    "carbohydrates": "4.58",
+    "protein": "2.99",
+    "fat": "1.99",
+    "fibre": "0.88"
+  },
+  {
+    "name": "Cold summer garden soup",
+    "calories": "49.19",
+    "carbohydrates": "2.65",
+    "protein": "8.57",
+    "fat": "14.08",
+    "fibre": "1.86"
+  },
+  {
+    "name": "Chapati/Roti",
+    "calories": "202.31",
+    "carbohydrates": "35.65",
+    "protein": "5.88",
+    "fat": "3.56",
+    "fibre": "6.31"
+  },
+  {
+    "name": "Plain parantha/paratha",
+    "calories": "298.30",
+    "carbohydrates": "30.69",
+    "protein": "5.06",
+    "fat": "16.86",
+    "fibre": "5.43"
+  },
+  {
+    "name": "Potato parantha/paratha (Aloo ka parantha/paratha)",
+    "calories": "205.04",
+    "carbohydrates": "23.92",
+    "protein": "3.70",
+    "fat": "10.22",
+    "fibre": "4.18"
+  },
+  {
+    "name": "Radish parantha/paratha (Mooli ka parantha/paratha)",
+    "calories": "183.52",
+    "carbohydrates": "20.54",
+    "protein": "3.30",
+    "fat": "9.53",
+    "fibre": "4.32"
+  },
+  {
+    "name": "Cauliflower parantha/paratha (Phoolgobhi ka parantha/paratha)",
+    "calories": "178.07",
+    "carbohydrates": "18.84",
+    "protein": "3.73",
+    "fat": "9.47",
+    "fibre": "4.68"
+  },
+  {
+    "name": "Dal parantha/paratha",
+    "calories": "268.24",
+    "carbohydrates": "30.03",
+    "protein": "6.78",
+    "fat": "13.05",
+    "fibre": "6.46"
+  },
+  {
+    "name": "Sprouted moong parantha/paratha",
+    "calories": "228.59",
+    "carbohydrates": "24.31",
+    "protein": "4.29",
+    "fat": "12.43",
+    "fibre": "4.49"
+  },
+  {
+    "name": "Pea parantha/paratha (Matar ka parantha/paratha)",
+    "calories": "190.73",
+    "carbohydrates": "21.51",
+    "protein": "5.59",
+    "fat": "8.80",
+    "fibre": "5.61"
+  },
+  {
+    "name": "Keema parantha/paratha",
+    "calories": "238.09",
+    "carbohydrates": "18.36",
+    "protein": "9.41",
+    "fat": "13.91",
+    "fibre": "3.44"
+  },
+  {
+    "name": "Paneer parantha/paratha",
+    "calories": "262.97",
+    "carbohydrates": "24.33",
+    "protein": "7.98",
+    "fat": "14.62",
+    "fibre": "4.00"
+  },
+  {
+    "name": "Besan and spinach parantha/paratha (Besan aur palak ka parantha/paratha)",
+    "calories": "216.49",
+    "carbohydrates": "21.39",
+    "protein": "5.54",
+    "fat": "12.09",
+    "fibre": "4.39"
+  },
+  {
+    "name": "Poori",
+    "calories": "737.63",
+    "carbohydrates": "8.22",
+    "protein": "1.35",
+    "fat": "77.61",
+    "fibre": "1.46"
+  },
+  {
+    "name": "Spinach poori (Palak poori)",
+    "calories": "684.25",
+    "carbohydrates": "7.76",
+    "protein": "1.42",
+    "fat": "71.86",
+    "fibre": "1.55"
+  },
+  {
+    "name": "Methi poori",
+    "calories": "710.02",
+    "carbohydrates": "7.98",
+    "protein": "1.45",
+    "fat": "74.60",
+    "fibre": "1.61"
+  },
+  {
+    "name": "Dal stuffed poori",
+    "calories": "785.16",
+    "carbohydrates": "10.14",
+    "protein": "2.08",
+    "fat": "81.69",
+    "fibre": "1.96"
+  },
+  {
+    "name": "Potato stuffed poori (Aloo ki poori)",
+    "calories": "776.74",
+    "carbohydrates": "9.40",
+    "protein": "1.52",
+    "fat": "81.35",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Tandoori parantha/paratha",
+    "calories": "295.37",
+    "carbohydrates": "30.74",
+    "protein": "5.08",
+    "fat": "16.51",
+    "fibre": "5.44"
+  },
+  {
+    "name": "Boiled rice (Uble chawal)",
+    "calories": "117.19",
+    "carbohydrates": "25.72",
+    "protein": "2.60",
+    "fat": "0.18",
+    "fibre": "1.25"
+  },
+  {
+    "name": "Plain pulao",
+    "calories": "140.21",
+    "carbohydrates": "21.82",
+    "protein": "2.34",
+    "fat": "4.62",
+    "fibre": "1.69"
+  },
+  {
+    "name": "Mixed vegetable pulao",
+    "calories": "113.05",
+    "carbohydrates": "17.49",
+    "protein": "2.72",
+    "fat": "3.33",
+    "fibre": "2.67"
+  },
+  {
+    "name": "Mushroom pulao",
+    "calories": "124.29",
+    "carbohydrates": "19.02",
+    "protein": "2.52",
+    "fat": "4.03",
+    "fibre": "1.88"
+  },
+  {
+    "name": "Sprouted moong pulao",
+    "calories": "112.97",
+    "carbohydrates": "17.49",
+    "protein": "2.19",
+    "fat": "3.61",
+    "fibre": "1.78"
+  },
+  {
+    "name": "Paneer pulao",
+    "calories": "581.91",
+    "carbohydrates": "8.76",
+    "protein": "1.98",
+    "fat": "59.81",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Peanut pulao ",
+    "calories": "193.28",
+    "carbohydrates": "21.18",
+    "protein": "5.32",
+    "fat": "9.51",
+    "fibre": "2.90"
+  },
+  {
+    "name": "Navratan pulao",
+    "calories": "261.71",
+    "carbohydrates": "36.98",
+    "protein": "6.20",
+    "fat": "9.45",
+    "fibre": "3.82"
+  },
+  {
+    "name": "Green chickpeas pulao (Choliya pulao/Hare chane ka pulao)",
+    "calories": "173.43",
+    "carbohydrates": "27.57",
+    "protein": "4.88",
+    "fat": "4.82",
+    "fibre": "3.15"
+  },
+  {
+    "name": "Mutton biryani/biriyani",
+    "calories": "190.76",
+    "carbohydrates": "22.50",
+    "protein": "7.38",
+    "fat": "7.72",
+    "fibre": "2.42"
+  },
+  {
+    "name": "Vegetable biryani/biriyani",
+    "calories": "174.61",
+    "carbohydrates": "18.56",
+    "protein": "3.16",
+    "fat": "9.51",
+    "fibre": "3.31"
+  },
+  {
+    "name": "Lemon rice (Pulihora, Elumichai sadam, Chitranna)",
+    "calories": "176.30",
+    "carbohydrates": "21.62",
+    "protein": "4.26",
+    "fat": "7.88",
+    "fibre": "2.52"
+  },
+  {
+    "name": "Sweet rice (Meethe chawal)",
+    "calories": "215.41",
+    "carbohydrates": "42.59",
+    "protein": "2.10",
+    "fat": "4.57",
+    "fibre": "1.13"
+  },
+  {
+    "name": "Curd rice (Dahi bhaat/Dahi chawal/ Perugu annam/Daddojanam/Thayir saadam)",
+    "calories": "195.74",
+    "carbohydrates": "32.93",
+    "protein": "5.75",
+    "fat": "4.32",
+    "fibre": "2.13"
+  },
+  {
+    "name": "Tamarind rice (Chintapandu pulihora/Puliyodharai/Puli sadam/Huli anna)",
+    "calories": "373.04",
+    "carbohydrates": "65.08",
+    "protein": "7.45",
+    "fat": "8.53",
+    "fibre": "5.12"
+  },
+  {
+    "name": "Spanish rice",
+    "calories": "164.24",
+    "carbohydrates": "31.10",
+    "protein": "4.19",
+    "fat": "2.23",
+    "fibre": "2.78"
+  },
+  {
+    "name": "Chinese fried rice",
+    "calories": "120.58",
+    "carbohydrates": "13.40",
+    "protein": "4.05",
+    "fat": "5.43",
+    "fibre": "2.31"
+  },
+  {
+    "name": "Macroni cheese pie",
+    "calories": "170.63",
+    "carbohydrates": "21.10",
+    "protein": "5.85",
+    "fat": "7.48",
+    "fibre": "0.40"
+  },
+  {
+    "name": "Vegetable chowmein",
+    "calories": "129.71",
+    "carbohydrates": "15.44",
+    "protein": "3.07",
+    "fat": "6.36",
+    "fibre": "1.86"
+  },
+  {
+    "name": "Chicken chowmein",
+    "calories": "151.33",
+    "carbohydrates": "13.30",
+    "protein": "6.33",
+    "fat": "8.23",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Cheese noodle ring",
+    "calories": "133.67",
+    "carbohydrates": "13.96",
+    "protein": "6.22",
+    "fat": "6.12",
+    "fibre": "1.27"
+  },
+  {
+    "name": "Spaghetti and cheese balls in tomato sauce",
+    "calories": "508.32",
+    "carbohydrates": "7.82",
+    "protein": "2.41",
+    "fat": "52.08",
+    "fibre": "0.59"
+  },
+  {
+    "name": "Penne platter",
+    "calories": "177.40",
+    "carbohydrates": "20.87",
+    "protein": "5.04",
+    "fat": "8.71",
+    "fibre": "1.09"
+  },
+  {
+    "name": "Pasta hot pot",
+    "calories": "125.17",
+    "carbohydrates": "11.60",
+    "protein": "5.84",
+    "fat": "6.47",
+    "fibre": "0.80"
+  },
+  {
+    "name": "Chicken lasagne",
+    "calories": "187.49",
+    "carbohydrates": "13.90",
+    "protein": "10.45",
+    "fat": "10.36",
+    "fibre": "0.11"
+  },
+  {
+    "name": "Fettuccine with spinach sauce",
+    "calories": "129.21",
+    "carbohydrates": "12.19",
+    "protein": "3.10",
+    "fat": "7.83",
+    "fibre": "0.77"
+  },
+  {
+    "name": "Naan",
+    "calories": "286.45",
+    "carbohydrates": "51.75",
+    "protein": "8.05",
+    "fat": "4.99",
+    "fibre": "1.91"
+  },
+  {
+    "name": "Bhatura",
+    "calories": "793.20",
+    "carbohydrates": "10.73",
+    "protein": "1.63",
+    "fat": "82.56",
+    "fibre": "0.38"
+  },
+  {
+    "name": "Idli",
+    "calories": "137.54",
+    "carbohydrates": "28.18",
+    "protein": "4.64",
+    "fat": "0.33",
+    "fibre": "2.31"
+  },
+  {
+    "name": "Masala dosa",
+    "calories": "164.58",
+    "carbohydrates": "19.57",
+    "protein": "3.29",
+    "fat": "7.84",
+    "fibre": "2.52"
+  },
+  {
+    "name": "Semolina dosa (Suji/Rava dosa)",
+    "calories": "227.05",
+    "carbohydrates": "32.84",
+    "protein": "7.30",
+    "fat": "7.12",
+    "fibre": "4.04"
+  },
+  {
+    "name": "Onion tomato uttapam",
+    "calories": "462.02",
+    "carbohydrates": "11.32",
+    "protein": "1.91",
+    "fat": "45.30",
+    "fibre": "1.26"
+  },
+  {
+    "name": "Paneer kaathi roll",
+    "calories": "285.94",
+    "carbohydrates": "20.10",
+    "protein": "6.92",
+    "fat": "19.55",
+    "fibre": "2.40"
+  },
+  {
+    "name": "Makki ki roti",
+    "calories": "263.97",
+    "carbohydrates": "24.19",
+    "protein": "3.49",
+    "fat": "16.85",
+    "fibre": "5.19"
+  },
+  {
+    "name": "Washed moong dal (Dhuli moong ki dal)",
+    "calories": "50.00",
+    "carbohydrates": "5.91",
+    "protein": "2.68",
+    "fat": "1.68",
+    "fibre": "1.17"
+  },
+  {
+    "name": "Washed urad dal (Dhuli urad ki dal)",
+    "calories": "61.32",
+    "carbohydrates": "5.84",
+    "protein": "2.51",
+    "fat": "2.98",
+    "fibre": "1.53"
+  },
+  {
+    "name": "Split bengal gram with bottle gourd (Channa dal with ghiya/lauki)",
+    "calories": "73.25",
+    "carbohydrates": "7.10",
+    "protein": "2.79",
+    "fat": "3.60",
+    "fibre": "2.72"
+  },
+  {
+    "name": "Dry washed urad",
+    "calories": "124.71",
+    "carbohydrates": "15.66",
+    "protein": "6.85",
+    "fat": "3.50",
+    "fibre": "4.06"
+  },
+  {
+    "name": "Mixed dal",
+    "calories": "61.93",
+    "carbohydrates": "5.79",
+    "protein": "2.51",
+    "fat": "3.10",
+    "fibre": "1.62"
+  },
+  {
+    "name": "Whole moong (Moong ki dal)",
+    "calories": "53.70",
+    "carbohydrates": "5.22",
+    "protein": "2.25",
+    "fat": "2.56",
+    "fibre": "2.02"
+  },
+  {
+    "name": "Whole masoor (Masoor ki dal)",
+    "calories": "54.05",
+    "carbohydrates": "5.37",
+    "protein": "2.28",
+    "fat": "2.52",
+    "fibre": "1.98"
+  },
+  {
+    "name": "Whole moth (Moth ki dal)",
+    "calories": "55.00",
+    "carbohydrates": "5.74",
+    "protein": "2.01",
+    "fat": "2.62",
+    "fibre": "1.85"
+  },
+  {
+    "name": "Whole urad (Urad ki dal)",
+    "calories": "53.80",
+    "carbohydrates": "5.05",
+    "protein": "2.21",
+    "fat": "2.62",
+    "fibre": "2.32"
+  },
+  {
+    "name": "Moti mahal dal (Urad rajmah mix dal)",
+    "calories": "103.13",
+    "carbohydrates": "8.74",
+    "protein": "3.93",
+    "fat": "5.66",
+    "fibre": "3.38"
+  },
+  {
+    "name": "Black channa curry/Bengal gram curry (Kale chane ki curry)",
+    "calories": "140.68",
+    "carbohydrates": "14.11",
+    "protein": "5.67",
+    "fat": "6.61",
+    "fibre": "7.99"
+  },
+  {
+    "name": "Chickpeas curry (Safed channa curry)",
+    "calories": "163.43",
+    "carbohydrates": "19.98",
+    "protein": "6.10",
+    "fat": "6.84",
+    "fibre": "4.73"
+  },
+  {
+    "name": "Lobia curry",
+    "calories": "148.99",
+    "carbohydrates": "17.88",
+    "protein": "6.06",
+    "fat": "5.62",
+    "fibre": "4.57"
+  },
+  {
+    "name": "Soyabean curry",
+    "calories": "163.28",
+    "carbohydrates": "6.76",
+    "protein": "10.43",
+    "fat": "10.19",
+    "fibre": "7.34"
+  },
+  {
+    "name": "Kidney bean curry (Rajmah curry)",
+    "calories": "143.73",
+    "carbohydrates": "16.38",
+    "protein": "5.95",
+    "fat": "5.77",
+    "fibre": "5.83"
+  },
+  {
+    "name": "Sambar",
+    "calories": "96.92",
+    "carbohydrates": "10.57",
+    "protein": "3.35",
+    "fat": "4.38",
+    "fibre": "3.52"
+  },
+  {
+    "name": "Besan kadhi with pakodies",
+    "calories": "403.35",
+    "carbohydrates": "3.56",
+    "protein": "1.64",
+    "fat": "42.59",
+    "fibre": "0.81"
+  },
+  {
+    "name": "Khatta channa",
+    "calories": "202.57",
+    "carbohydrates": "21.14",
+    "protein": "6.30",
+    "fat": "10.56",
+    "fibre": "5.26"
+  },
+  {
+    "name": "Sprouted moong dal chat",
+    "calories": "32.47",
+    "carbohydrates": "6.01",
+    "protein": "1.35",
+    "fat": "0.32",
+    "fibre": "1.35"
+  },
+  {
+    "name": "Potato cauliflower (Aloo gobhi)",
+    "calories": "106.18",
+    "carbohydrates": "5.99",
+    "protein": "1.90",
+    "fat": "8.13",
+    "fibre": "3.02"
+  },
+  {
+    "name": "Potato capsicum (Shimla mirch aloo)",
+    "calories": "125.53",
+    "carbohydrates": "8.72",
+    "protein": "1.41",
+    "fat": "9.33",
+    "fibre": "2.02"
+  },
+  {
+    "name": "Cabbage and peas (Pattagobhi aur matar)",
+    "calories": "63.88",
+    "carbohydrates": "6.24",
+    "protein": "3.24",
+    "fat": "2.64",
+    "fibre": "3.99"
+  },
+  {
+    "name": "Carrot and fenugreek leaves (Gajar methi)",
+    "calories": "61.92",
+    "carbohydrates": "4.17",
+    "protein": "2.10",
+    "fat": "3.81",
+    "fibre": "4.43"
+  },
+  {
+    "name": "Potato fenugreek (Aloo methi)",
+    "calories": "135.15",
+    "carbohydrates": "8.47",
+    "protein": "2.25",
+    "fat": "10.04",
+    "fibre": "2.93"
+  },
+  {
+    "name": "Brinjal bhartha (Baingan ka bhartha)",
+    "calories": "65.12",
+    "carbohydrates": "4.40",
+    "protein": "1.38",
+    "fat": "4.48",
+    "fibre": "3.27"
+  },
+  {
+    "name": "Dry potato (Sookhe aloo)",
+    "calories": "103.15",
+    "carbohydrates": "14.38",
+    "protein": "1.62",
+    "fat": "4.18",
+    "fibre": "1.88"
+  },
+  {
+    "name": "Beans with coconut (Nariyal aur sem/phali; Beans thoran)",
+    "calories": "131.63",
+    "carbohydrates": "4.39",
+    "protein": "2.62",
+    "fat": "11.39",
+    "fibre": "5.59"
+  },
+  {
+    "name": "Cauliflower with coconut (Nariyal ke saath phoolgobhi)",
+    "calories": "132.11",
+    "carbohydrates": "3.99",
+    "protein": "2.64",
+    "fat": "11.56",
+    "fibre": "5.27"
+  },
+  {
+    "name": "Carrot and cabbage with coconut (Nariyal ke saath pattagobhi aur gajar)",
+    "calories": "106.61",
+    "carbohydrates": "4.99",
+    "protein": "1.82",
+    "fat": "8.62",
+    "fibre": "4.52"
+  },
+  {
+    "name": "Raw turnip with coconut ",
+    "calories": "132.15",
+    "carbohydrates": "5.78",
+    "protein": "1.80",
+    "fat": "11.47",
+    "fibre": "2.79"
+  },
+  {
+    "name": "Raw papaya with coconut (Papaya thoran)",
+    "calories": "132.75",
+    "carbohydrates": "5.58",
+    "protein": "1.54",
+    "fat": "11.42",
+    "fibre": "4.31"
+  },
+  {
+    "name": "Stuffed okra (Bharwa bhindi)",
+    "calories": "94.34",
+    "carbohydrates": "3.85",
+    "protein": "2.08",
+    "fat": "7.66",
+    "fibre": "4.15"
+  },
+  {
+    "name": "Stuffed round gourd (Bharwa tinde)",
+    "calories": "72.80",
+    "carbohydrates": "4.02",
+    "protein": "1.10",
+    "fat": "5.75",
+    "fibre": "2.10"
+  },
+  {
+    "name": "Stuffed capsicum (Bharwa shimla mirch)",
+    "calories": "90.94",
+    "carbohydrates": "8.26",
+    "protein": "1.34",
+    "fat": "5.70",
+    "fibre": "2.01"
+  },
+  {
+    "name": "Stuffed brinjal (Bharwa baingan)",
+    "calories": "93.00",
+    "carbohydrates": "3.96",
+    "protein": "1.53",
+    "fat": "7.73",
+    "fibre": "4.09"
+  },
+  {
+    "name": "Stuffed tomatoes (Bharwa tamatar)",
+    "calories": "93.35",
+    "carbohydrates": "6.19",
+    "protein": "3.28",
+    "fat": "6.06",
+    "fibre": "2.20"
+  },
+  {
+    "name": "Pea potato curry (Aloo matar)",
+    "calories": "100.92",
+    "carbohydrates": "9.74",
+    "protein": "3.48",
+    "fat": "5.13",
+    "fibre": "3.61"
+  },
+  {
+    "name": "Pea paneer curry (Matar paneer)",
+    "calories": "134.83",
+    "carbohydrates": "9.29",
+    "protein": "6.61",
+    "fat": "7.75",
+    "fibre": "3.30"
+  },
+  {
+    "name": "Pea mushroom curry (Matar mushroom)",
+    "calories": "93.30",
+    "carbohydrates": "7.41",
+    "protein": "3.87",
+    "fat": "5.16",
+    "fibre": "3.86"
+  },
+  {
+    "name": "Pea curry (Matar ki sabzi)",
+    "calories": "102.99",
+    "carbohydrates": "9.20",
+    "protein": "4.51",
+    "fat": "5.11",
+    "fibre": "4.44"
+  },
+  {
+    "name": "Pea vadi curry",
+    "calories": "101.95",
+    "carbohydrates": "8.90",
+    "protein": "4.64",
+    "fat": "5.08",
+    "fibre": "4.28"
+  },
+  {
+    "name": "Paneer curry",
+    "calories": "176.52",
+    "carbohydrates": "8.40",
+    "protein": "7.80",
+    "fat": "12.38",
+    "fibre": "1.40"
+  },
+  {
+    "name": "Lotus stem curry (Kamal kakdi curry)",
+    "calories": "110.34",
+    "carbohydrates": "9.24",
+    "protein": "1.53",
+    "fat": "7.25",
+    "fibre": "3.14"
+  },
+  {
+    "name": "Gravy for kofta",
+    "calories": "125.59",
+    "carbohydrates": "6.31",
+    "protein": "1.75",
+    "fat": "10.35",
+    "fibre": "1.96"
+  },
+  {
+    "name": "Pea kofta curry (Matar kofta curry)",
+    "calories": "595.66",
+    "carbohydrates": "4.17",
+    "protein": "2.01",
+    "fat": "63.39",
+    "fibre": "1.70"
+  },
+  {
+    "name": "Spinach kofta curry (Palak kofta curry)",
+    "calories": "571.78",
+    "carbohydrates": "3.56",
+    "protein": "1.09",
+    "fat": "61.49",
+    "fibre": "0.92"
+  },
+  {
+    "name": "Paneer kofta curry",
+    "calories": "670.91",
+    "carbohydrates": "3.27",
+    "protein": "2.39",
+    "fat": "72.06",
+    "fibre": "0.40"
+  },
+  {
+    "name": "Lotus stem kofta curry (Kamal kakdi kofta curry)",
+    "calories": "633.56",
+    "carbohydrates": "5.01",
+    "protein": "0.96",
+    "fat": "67.76",
+    "fibre": "1.01"
+  },
+  {
+    "name": "Raw banana kofta curry (Kela kofta curry)",
+    "calories": "627.27",
+    "carbohydrates": "3.40",
+    "protein": "0.62",
+    "fat": "67.98",
+    "fibre": "0.59"
+  },
+  {
+    "name": "Cauliflower kofta curry (Phoolgobhi kofta curry)",
+    "calories": "641.10",
+    "carbohydrates": "2.62",
+    "protein": "1.04",
+    "fat": "69.62",
+    "fibre": "1.00"
+  },
+  {
+    "name": "Cabbage kofta curry (Pattagobhi kofta curry)",
+    "calories": "639.81",
+    "carbohydrates": "2.87",
+    "protein": "0.98",
+    "fat": "69.40",
+    "fibre": "0.90"
+  },
+  {
+    "name": "Ghiya/Lauki Kofta Curry",
+    "calories": "638.71",
+    "carbohydrates": "2.71",
+    "protein": "0.89",
+    "fat": "69.40",
+    "fibre": "0.83"
+  },
+  {
+    "name": "Spinach paneer kofta curry (Palak paneer kofta curry)",
+    "calories": "606.03",
+    "carbohydrates": "2.94",
+    "protein": "1.43",
+    "fat": "65.41",
+    "fibre": "0.75"
+  },
+  {
+    "name": "Vegetarian egg kofta curry",
+    "calories": "627.41",
+    "carbohydrates": "4.26",
+    "protein": "1.33",
+    "fat": "67.24",
+    "fibre": "0.64"
+  },
+  {
+    "name": "Baked vegetables",
+    "calories": "88.99",
+    "carbohydrates": "8.44",
+    "protein": "3.67",
+    "fat": "4.44",
+    "fibre": "2.34"
+  },
+  {
+    "name": "Cauliflower musallam (Phoolgobhi musallam)",
+    "calories": "58.83",
+    "carbohydrates": "4.48",
+    "protein": "1.89",
+    "fat": "3.55",
+    "fibre": "3.06"
+  },
+  {
+    "name": "Baked vegetables with spinach ",
+    "calories": "77.79",
+    "carbohydrates": "6.93",
+    "protein": "3.22",
+    "fat": "4.03",
+    "fibre": "2.33"
+  },
+  {
+    "name": "Baked potato with skin ",
+    "calories": "135.77",
+    "carbohydrates": "11.11",
+    "protein": "3.43",
+    "fat": "8.50",
+    "fibre": "1.20"
+  },
+  {
+    "name": "Shepherd's pie (vegetarian)",
+    "calories": "135.63",
+    "carbohydrates": "12.03",
+    "protein": "5.04",
+    "fat": "7.30",
+    "fibre": "2.23"
+  },
+  {
+    "name": "Baked brinjal in tomato sauce",
+    "calories": "38.63",
+    "carbohydrates": "4.13",
+    "protein": "1.58",
+    "fat": "1.62",
+    "fibre": "2.34"
+  },
+  {
+    "name": "Dum aloo",
+    "calories": "682.33",
+    "carbohydrates": "3.33",
+    "protein": "0.70",
+    "fat": "74.01",
+    "fibre": "0.68"
+  },
+  {
+    "name": "Spinach paneer (Palak paneer)",
+    "calories": "77.68",
+    "carbohydrates": "4.43",
+    "protein": "4.03",
+    "fat": "4.76",
+    "fibre": "1.91"
+  },
+  {
+    "name": "Methi chaman",
+    "calories": "475.62",
+    "carbohydrates": "2.78",
+    "protein": "1.54",
+    "fat": "50.91",
+    "fibre": "0.53"
+  },
+  {
+    "name": "Sarson ka saag",
+    "calories": "87.84",
+    "carbohydrates": "5.33",
+    "protein": "3.00",
+    "fat": "5.86",
+    "fibre": "3.69"
+  },
+  {
+    "name": "Jackfruit sabzi (Kathal ki sabzi)",
+    "calories": "625.40",
+    "carbohydrates": "3.40",
+    "protein": "0.69",
+    "fat": "67.60",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Avial",
+    "calories": "124.56",
+    "carbohydrates": "8.47",
+    "protein": "2.46",
+    "fat": "8.94",
+    "fibre": "5.44"
+  },
+  {
+    "name": "Al yakhani",
+    "calories": "147.54",
+    "carbohydrates": "4.65",
+    "protein": "2.86",
+    "fat": "13.14",
+    "fibre": "1.27"
+  },
+  {
+    "name": "Shahi paneer",
+    "calories": "156.50",
+    "carbohydrates": "6.64",
+    "protein": "5.06",
+    "fat": "12.34",
+    "fibre": "1.40"
+  },
+  {
+    "name": "Paneer in butter sauce",
+    "calories": "145.61",
+    "carbohydrates": "9.70",
+    "protein": "6.99",
+    "fat": "8.81",
+    "fibre": "1.50"
+  },
+  {
+    "name": "Methi malai paneer",
+    "calories": "194.98",
+    "carbohydrates": "8.15",
+    "protein": "7.34",
+    "fat": "14.76",
+    "fibre": "1.47"
+  },
+  {
+    "name": "Chilli paneer",
+    "calories": "777.51",
+    "carbohydrates": "3.31",
+    "protein": "2.10",
+    "fat": "84.01",
+    "fibre": "0.50"
+  },
+  {
+    "name": "Paneer makhana korma",
+    "calories": "775.82",
+    "carbohydrates": "4.63",
+    "protein": "3.24",
+    "fat": "82.76",
+    "fibre": "0.21"
+  },
+  {
+    "name": "Kadhai Paneer",
+    "calories": "107.99",
+    "carbohydrates": "7.34",
+    "protein": "4.33",
+    "fat": "6.81",
+    "fibre": "2.07"
+  },
+  {
+    "name": "Roghan josh",
+    "calories": "139.59",
+    "carbohydrates": "4.93",
+    "protein": "9.56",
+    "fat": "9.02",
+    "fibre": "2.08"
+  },
+  {
+    "name": "Spinach mutton (Palak mutton)",
+    "calories": "80.32",
+    "carbohydrates": "3.45",
+    "protein": "5.74",
+    "fat": "4.71",
+    "fibre": "2.23"
+  },
+  {
+    "name": "Pea keema curry (Matar keema ki sabzi)",
+    "calories": "133.00",
+    "carbohydrates": "6.24",
+    "protein": "8.43",
+    "fat": "8.14",
+    "fibre": "2.96"
+  },
+  {
+    "name": "Keema kofta curry",
+    "calories": "154.45",
+    "carbohydrates": "5.64",
+    "protein": "9.77",
+    "fat": "10.39",
+    "fibre": "1.51"
+  },
+  {
+    "name": "Kashmiri mutton koftas (Gushtaba)",
+    "calories": "97.42",
+    "carbohydrates": "3.04",
+    "protein": "6.33",
+    "fat": "6.77",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Mutton yakhni",
+    "calories": "104.13",
+    "carbohydrates": "0.84",
+    "protein": "8.27",
+    "fat": "7.70",
+    "fibre": "0.67"
+  },
+  {
+    "name": "Chicken yakhni",
+    "calories": "99.00",
+    "carbohydrates": "0.78",
+    "protein": "10.66",
+    "fat": "6.10",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Mutton do piaza",
+    "calories": "183.30",
+    "carbohydrates": "4.14",
+    "protein": "9.39",
+    "fat": "14.41",
+    "fibre": "1.93"
+  },
+  {
+    "name": "Mutton chops",
+    "calories": "663.64",
+    "carbohydrates": "1.48",
+    "protein": "4.03",
+    "fat": "71.31",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Shammi kebab",
+    "calories": "685.69",
+    "carbohydrates": "3.54",
+    "protein": "4.52",
+    "fat": "72.61",
+    "fibre": "1.05"
+  },
+  {
+    "name": "Scotch egg",
+    "calories": "676.89",
+    "carbohydrates": "1.91",
+    "protein": "4.05",
+    "fat": "72.62",
+    "fibre": "0.36"
+  },
+  {
+    "name": "Shepherd's pie (with minced meat)",
+    "calories": "142.78",
+    "carbohydrates": "8.06",
+    "protein": "7.45",
+    "fat": "8.88",
+    "fibre": "1.05"
+  },
+  {
+    "name": "Chicken curry",
+    "calories": "129.22",
+    "carbohydrates": "3.38",
+    "protein": "11.79",
+    "fat": "7.57",
+    "fibre": "1.41"
+  },
+  {
+    "name": "Tandoori chicken",
+    "calories": "145.20",
+    "carbohydrates": "2.34",
+    "protein": "16.26",
+    "fat": "7.93",
+    "fibre": "0.50"
+  },
+  {
+    "name": "Butter chicken",
+    "calories": "137.00",
+    "carbohydrates": "3.74",
+    "protein": "10.92",
+    "fat": "8.70",
+    "fibre": "1.32"
+  },
+  {
+    "name": "Chicken kebab",
+    "calories": "729.41",
+    "carbohydrates": "1.11",
+    "protein": "3.71",
+    "fat": "78.89",
+    "fibre": "0.21"
+  },
+  {
+    "name": "Chilli chicken",
+    "calories": "198.83",
+    "carbohydrates": "2.86",
+    "protein": "9.57",
+    "fat": "16.56",
+    "fibre": "0.99"
+  },
+  {
+    "name": "Fried chicken with tomato sauce (Fried chicken tamatar ki chutney kay saath)",
+    "calories": "125.03",
+    "carbohydrates": "2.51",
+    "protein": "11.48",
+    "fat": "7.61",
+    "fibre": "1.13"
+  },
+  {
+    "name": "Fish curry (Machli curry)",
+    "calories": "111.13",
+    "carbohydrates": "3.77",
+    "protein": "8.76",
+    "fat": "6.69",
+    "fibre": "1.89"
+  },
+  {
+    "name": "Fried fish (Indian style) (Tali hui machli)",
+    "calories": "658.54",
+    "carbohydrates": "5.40",
+    "protein": "4.35",
+    "fat": "68.88",
+    "fibre": "0.61"
+  },
+  {
+    "name": "Fried fish and Chips (English Style) (Tali hui machli aur chips)",
+    "calories": "651.75",
+    "carbohydrates": "2.77",
+    "protein": "3.36",
+    "fat": "69.69",
+    "fibre": "0.29"
+  },
+  {
+    "name": "Tomato fish",
+    "calories": "489.79",
+    "carbohydrates": "3.18",
+    "protein": "2.39",
+    "fat": "51.91",
+    "fibre": "0.72"
+  },
+  {
+    "name": "Baked fish with cheese sauce",
+    "calories": "113.96",
+    "carbohydrates": "4.06",
+    "protein": "8.64",
+    "fat": "7.02",
+    "fibre": "0.08"
+  },
+  {
+    "name": "Fish tikka",
+    "calories": "117.33",
+    "carbohydrates": "3.91",
+    "protein": "16.00",
+    "fat": "4.15",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Tandoori fish",
+    "calories": "95.98",
+    "carbohydrates": "2.37",
+    "protein": "11.19",
+    "fat": "4.64",
+    "fibre": "0.58"
+  },
+  {
+    "name": "Paneer, apple and pineapple salad",
+    "calories": "95.08",
+    "carbohydrates": "8.35",
+    "protein": "3.88",
+    "fat": "5.07",
+    "fibre": "1.65"
+  },
+  {
+    "name": "Russian salad",
+    "calories": "114.83",
+    "carbohydrates": "6.50",
+    "protein": "4.26",
+    "fat": "7.84",
+    "fibre": "2.57"
+  },
+  {
+    "name": "Pasta salad",
+    "calories": "190.36",
+    "carbohydrates": "12.70",
+    "protein": "4.15",
+    "fat": "13.92",
+    "fibre": "0.96"
+  },
+  {
+    "name": "Deviled egg",
+    "calories": "98.56",
+    "carbohydrates": "2.23",
+    "protein": "4.97",
+    "fat": "7.72",
+    "fibre": "1.15"
+  },
+  {
+    "name": "Hawain salad",
+    "calories": "175.23",
+    "carbohydrates": "14.35",
+    "protein": "4.27",
+    "fat": "11.37",
+    "fibre": "3.93"
+  },
+  {
+    "name": "Mixed pulse and vegetable salad",
+    "calories": "83.12",
+    "carbohydrates": "13.96",
+    "protein": "4.74",
+    "fat": "0.84",
+    "fibre": "2.96"
+  },
+  {
+    "name": "Sprouted moong salad ",
+    "calories": "37.81",
+    "carbohydrates": "5.48",
+    "protein": "2.29",
+    "fat": "0.74",
+    "fibre": "0.95"
+  },
+  {
+    "name": "Tossed salad",
+    "calories": "62.96",
+    "carbohydrates": "4.95",
+    "protein": "1.02",
+    "fat": "4.22",
+    "fibre": "2.15"
+  },
+  {
+    "name": "Mixed vegetable salad with curd sauce",
+    "calories": "60.28",
+    "carbohydrates": "7.03",
+    "protein": "4.23",
+    "fat": "1.50",
+    "fibre": "3.79"
+  },
+  {
+    "name": "Potato salad (Aloo ka salaad)",
+    "calories": "89.91",
+    "carbohydrates": "11.19",
+    "protein": "1.40",
+    "fat": "4.40",
+    "fibre": "1.32"
+  },
+  {
+    "name": "Waldroff salad",
+    "calories": "141.75",
+    "carbohydrates": "11.02",
+    "protein": "1.47",
+    "fat": "10.05",
+    "fibre": "1.87"
+  },
+  {
+    "name": "Coleslaw",
+    "calories": "76.71",
+    "carbohydrates": "5.59",
+    "protein": "1.24",
+    "fat": "5.32",
+    "fibre": "2.34"
+  },
+  {
+    "name": "Fruit salad (Phalon ka salaad)",
+    "calories": "78.14",
+    "carbohydrates": "15.96",
+    "protein": "0.91",
+    "fat": "1.22",
+    "fibre": "1.58"
+  },
+  {
+    "name": "Tomato onion raita (Tamatar aur pyaaz ka raita)",
+    "calories": "59.00",
+    "carbohydrates": "7.08",
+    "protein": "3.74",
+    "fat": "1.84",
+    "fibre": "0.97"
+  },
+  {
+    "name": "Peanut raita (Mungfali ka raita)",
+    "calories": "150.39",
+    "carbohydrates": "9.30",
+    "protein": "8.59",
+    "fat": "8.98",
+    "fibre": "1.89"
+  },
+  {
+    "name": "Sprouted moong raita ",
+    "calories": "60.89",
+    "carbohydrates": "6.13",
+    "protein": "4.62",
+    "fat": "2.19",
+    "fibre": "0.16"
+  },
+  {
+    "name": "Bottle gourd raita (Ghiya/Lauki ka raita)",
+    "calories": "56.31",
+    "carbohydrates": "5.76",
+    "protein": "3.98",
+    "fat": "2.07",
+    "fibre": "0.85"
+  },
+  {
+    "name": "Cucumber raita (Kheere ka raita)",
+    "calories": "59.13",
+    "carbohydrates": "6.35",
+    "protein": "4.04",
+    "fat": "2.08",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Carrot and spinach raita (Gajar aur palak ka raita)",
+    "calories": "56.83",
+    "carbohydrates": "5.83",
+    "protein": "4.00",
+    "fat": "1.99",
+    "fibre": "1.39"
+  },
+  {
+    "name": "Mint raita (Pudinay ka raita)",
+    "calories": "77.59",
+    "carbohydrates": "7.65",
+    "protein": "5.64",
+    "fat": "2.96",
+    "fibre": "0.34"
+  },
+  {
+    "name": "Potato raita (Aloo ka raita)",
+    "calories": "75.38",
+    "carbohydrates": "10.24",
+    "protein": "4.22",
+    "fat": "2.04",
+    "fibre": "0.75"
+  },
+  {
+    "name": "Boondi raita",
+    "calories": "687.72",
+    "carbohydrates": "3.96",
+    "protein": "2.19",
+    "fat": "73.83",
+    "fibre": "0.46"
+  },
+  {
+    "name": "Sweet raita (Meetha raita)",
+    "calories": "99.24",
+    "carbohydrates": "17.93",
+    "protein": "3.24",
+    "fat": "1.78",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Dahi vadas/Dahi bhalla",
+    "calories": "667.73",
+    "carbohydrates": "5.49",
+    "protein": "2.96",
+    "fat": "70.40",
+    "fibre": "0.97"
+  },
+  {
+    "name": "Gunjia",
+    "calories": "667.34",
+    "carbohydrates": "5.68",
+    "protein": "2.98",
+    "fat": "70.28",
+    "fibre": "1.13"
+  },
+  {
+    "name": "Saunth/Sonth chutney with tamarind/imli",
+    "calories": "141.53",
+    "carbohydrates": "33.55",
+    "protein": "1.01",
+    "fat": "0.15",
+    "fibre": "0.93"
+  },
+  {
+    "name": "Rice kheer (Chawal ki kheer)",
+    "calories": "75.03",
+    "carbohydrates": "10.05",
+    "protein": "2.30",
+    "fat": "2.97",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Makhana kheer",
+    "calories": "107.85",
+    "carbohydrates": "12.88",
+    "protein": "3.31",
+    "fat": "5.00",
+    "fibre": "0.11"
+  },
+  {
+    "name": "Vermicelli kheer (Semiya/Seviyan ki kheer)",
+    "calories": "120.07",
+    "carbohydrates": "15.87",
+    "protein": "3.35",
+    "fat": "5.00",
+    "fibre": "0.50"
+  },
+  {
+    "name": "Semolina kheer (Suji/Rava kheer)",
+    "calories": "113.21",
+    "carbohydrates": "15.88",
+    "protein": "3.43",
+    "fat": "4.20",
+    "fibre": "0.51"
+  },
+  {
+    "name": "Paneer kheer",
+    "calories": "105.31",
+    "carbohydrates": "10.03",
+    "protein": "4.53",
+    "fat": "5.37",
+    "fibre": "0.07"
+  },
+  {
+    "name": "Cabbage kheer (Pattagobhi ki kheer)",
+    "calories": "83.51",
+    "carbohydrates": "9.73",
+    "protein": "2.87",
+    "fat": "3.80",
+    "fibre": "0.51"
+  },
+  {
+    "name": "Carrot kheer (Gajar ki kheer)",
+    "calories": "85.35",
+    "carbohydrates": "10.09",
+    "protein": "2.81",
+    "fat": "3.85",
+    "fibre": "0.73"
+  },
+  {
+    "name": "Cauliflower kheer (Phoolgobhi ki kheer)",
+    "calories": "81.95",
+    "carbohydrates": "8.78",
+    "protein": "3.04",
+    "fat": "3.95",
+    "fibre": "0.55"
+  },
+  {
+    "name": "Moong dal kheer",
+    "calories": "77.16",
+    "carbohydrates": "9.89",
+    "protein": "2.95",
+    "fat": "2.97",
+    "fibre": "0.40"
+  },
+  {
+    "name": "Phirni",
+    "calories": "116.12",
+    "carbohydrates": "16.11",
+    "protein": "3.49",
+    "fat": "4.34",
+    "fibre": "0.36"
+  },
+  {
+    "name": "Semolina halwa (Suji ka halwa)",
+    "calories": "225.65",
+    "carbohydrates": "24.67",
+    "protein": "2.16",
+    "fat": "13.38",
+    "fibre": "1.86"
+  },
+  {
+    "name": "Shahi suji halwa",
+    "calories": "382.34",
+    "carbohydrates": "44.44",
+    "protein": "3.48",
+    "fat": "21.73",
+    "fibre": "2.96"
+  },
+  {
+    "name": "Carrot halwa (Gajar ka halwa)",
+    "calories": "172.64",
+    "carbohydrates": "18.53",
+    "protein": "3.11",
+    "fat": "9.73",
+    "fibre": "2.65"
+  },
+  {
+    "name": "Egg halwa (Ande ka halwa)",
+    "calories": "299.74",
+    "carbohydrates": "39.59",
+    "protein": "7.85",
+    "fat": "13.41",
+    "fibre": "0.49"
+  },
+  {
+    "name": "Potato halwa (Aloo ka halwa)",
+    "calories": "151.66",
+    "carbohydrates": "29.18",
+    "protein": "1.53",
+    "fat": "3.48",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Pumpkin halwa (Kaddu ka halwa)",
+    "calories": "190.27",
+    "carbohydrates": "27.60",
+    "protein": "1.33",
+    "fat": "8.81",
+    "fibre": "2.97"
+  },
+  {
+    "name": "Moong dal halwa",
+    "calories": "349.80",
+    "carbohydrates": "40.23",
+    "protein": "8.35",
+    "fat": "17.68",
+    "fibre": "2.65"
+  },
+  {
+    "name": "Caramel custard (steamed)",
+    "calories": "121.58",
+    "carbohydrates": "15.02",
+    "protein": "4.97",
+    "fat": "4.87",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Baked custard",
+    "calories": "106.53",
+    "carbohydrates": "9.45",
+    "protein": "5.41",
+    "fat": "5.30",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Soft Custard (stirred)",
+    "calories": "109.18",
+    "carbohydrates": "11.19",
+    "protein": "5.01",
+    "fat": "5.07",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Chocolate ice cream",
+    "calories": "177.70",
+    "carbohydrates": "15.41",
+    "protein": "4.47",
+    "fat": "11.25",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Mango ice cream",
+    "calories": "125.69",
+    "carbohydrates": "11.14",
+    "protein": "3.40",
+    "fat": "7.62",
+    "fibre": "0.52"
+  },
+  {
+    "name": "Fruit Ice cream (Phalon ka Ice cream)",
+    "calories": "171.46",
+    "carbohydrates": "16.05",
+    "protein": "4.37",
+    "fat": "10.38",
+    "fibre": "0.33"
+  },
+  {
+    "name": "Caramel ice cream",
+    "calories": "173.52",
+    "carbohydrates": "14.81",
+    "protein": "4.31",
+    "fat": "11.15",
+    "fibre": "0.08"
+  },
+  {
+    "name": "Lemon souffle",
+    "calories": "168.51",
+    "carbohydrates": "13.43",
+    "protein": "6.95",
+    "fat": "10.02",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Orange souffle",
+    "calories": "168.28",
+    "carbohydrates": "14.20",
+    "protein": "6.80",
+    "fat": "9.73",
+    "fibre": "0.22"
+  },
+  {
+    "name": "Vanilla souffle",
+    "calories": "187.85",
+    "carbohydrates": "14.78",
+    "protein": "7.71",
+    "fat": "11.19",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Chocolate souffle",
+    "calories": "189.32",
+    "carbohydrates": "14.74",
+    "protein": "7.88",
+    "fat": "11.36",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Pineapple souffle ",
+    "calories": "196.14",
+    "carbohydrates": "15.52",
+    "protein": "8.06",
+    "fat": "11.72",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Apple mousse",
+    "calories": "106.92",
+    "carbohydrates": "12.77",
+    "protein": "4.21",
+    "fat": "4.27",
+    "fibre": "1.60"
+  },
+  {
+    "name": "Rich chocolate mousse",
+    "calories": "188.26",
+    "carbohydrates": "10.84",
+    "protein": "7.96",
+    "fat": "12.19",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Mango mousse",
+    "calories": "124.98",
+    "carbohydrates": "9.14",
+    "protein": "3.21",
+    "fat": "8.47",
+    "fibre": "0.88"
+  },
+  {
+    "name": "Orange and pineapple cream",
+    "calories": "101.18",
+    "carbohydrates": "11.96",
+    "protein": "1.44",
+    "fat": "5.43",
+    "fibre": "1.03"
+  },
+  {
+    "name": "Charlotte rousse",
+    "calories": "188.29",
+    "carbohydrates": "34.08",
+    "protein": "3.95",
+    "fat": "4.78",
+    "fibre": "1.01"
+  },
+  {
+    "name": "Triffle pudding",
+    "calories": "116.97",
+    "carbohydrates": "18.24",
+    "protein": "2.93",
+    "fat": "3.93",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Snow flakes pudding",
+    "calories": "95.21",
+    "carbohydrates": "8.07",
+    "protein": "4.67",
+    "fat": "4.97",
+    "fibre": "0.03"
+  },
+  {
+    "name": "Kulfi",
+    "calories": "98.43",
+    "carbohydrates": "11.30",
+    "protein": "3.21",
+    "fat": "4.70",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Steamed orange pudding",
+    "calories": "278.03",
+    "carbohydrates": "41.53",
+    "protein": "2.34",
+    "fat": "12.04",
+    "fibre": "0.58"
+  },
+  {
+    "name": "Meringue and rice pudding",
+    "calories": "112.93",
+    "carbohydrates": "14.60",
+    "protein": "4.84",
+    "fat": "4.05",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Cheese pudding",
+    "calories": "285.01",
+    "carbohydrates": "19.27",
+    "protein": "11.29",
+    "fat": "18.37",
+    "fibre": "0.05"
+  },
+  {
+    "name": "Chocolate pudding",
+    "calories": "211.96",
+    "carbohydrates": "29.59",
+    "protein": "3.55",
+    "fat": "9.48",
+    "fibre": "0.53"
+  },
+  {
+    "name": "Bread and butter pudding ",
+    "calories": "167.94",
+    "carbohydrates": "19.63",
+    "protein": "5.59",
+    "fat": "7.88",
+    "fibre": "0.98"
+  },
+  {
+    "name": "Queen of pudding",
+    "calories": "132.92",
+    "carbohydrates": "16.35",
+    "protein": "5.51",
+    "fat": "5.38",
+    "fibre": "0.27"
+  },
+  {
+    "name": "Pineapple upside down pudding",
+    "calories": "257.73",
+    "carbohydrates": "35.73",
+    "protein": "3.15",
+    "fat": "11.91",
+    "fibre": "0.80"
+  },
+  {
+    "name": "Date and nut pie",
+    "calories": "322.42",
+    "carbohydrates": "46.86",
+    "protein": "3.93",
+    "fat": "13.31",
+    "fibre": "4.13"
+  },
+  {
+    "name": "Stewed apple with custard",
+    "calories": "92.87",
+    "carbohydrates": "18.36",
+    "protein": "1.27",
+    "fat": "1.82",
+    "fibre": "1.01"
+  },
+  {
+    "name": "Apple snowballs",
+    "calories": "101.51",
+    "carbohydrates": "24.58",
+    "protein": "0.86",
+    "fat": "0.31",
+    "fibre": "1.25"
+  },
+  {
+    "name": "Hot orange souffle",
+    "calories": "179.97",
+    "carbohydrates": "18.77",
+    "protein": "6.87",
+    "fat": "8.95",
+    "fibre": "0.29"
+  },
+  {
+    "name": "Hot chocolate souffle",
+    "calories": "226.09",
+    "carbohydrates": "26.21",
+    "protein": "6.70",
+    "fat": "11.10",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Hot vanilla souffle",
+    "calories": "192.93",
+    "carbohydrates": "21.77",
+    "protein": "6.87",
+    "fat": "9.07",
+    "fibre": "0.13"
+  },
+  {
+    "name": "Plain burfi (Burfi)",
+    "calories": "408.32",
+    "carbohydrates": "30.88",
+    "protein": "9.82",
+    "fat": "27.96",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Coconut burfi (Nariyal ki burfi)",
+    "calories": "467.64",
+    "carbohydrates": "32.15",
+    "protein": "8.81",
+    "fat": "34.63",
+    "fibre": "3.50"
+  },
+  {
+    "name": "Bottle gourd burfi (Ghiya/Lauki burfi)",
+    "calories": "275.96",
+    "carbohydrates": "24.51",
+    "protein": "5.86",
+    "fat": "17.68",
+    "fibre": "0.73"
+  },
+  {
+    "name": "Chocolate burfi",
+    "calories": "339.33",
+    "carbohydrates": "33.15",
+    "protein": "13.00",
+    "fat": "17.86",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cashewnut burfi (Kaju burfi/Kaju katli)",
+    "calories": "421.74",
+    "carbohydrates": "37.92",
+    "protein": "5.48",
+    "fat": "28.46",
+    "fibre": "1.12"
+  },
+  {
+    "name": "Gram flour burfi (Besan burfi)",
+    "calories": "421.79",
+    "carbohydrates": "46.59",
+    "protein": "11.19",
+    "fat": "22.41",
+    "fibre": "3.41"
+  },
+  {
+    "name": "Semolina ladoo with khoya (Suji/Rava aur khoye ke ladoo )",
+    "calories": "428.71",
+    "carbohydrates": "52.86",
+    "protein": "6.71",
+    "fat": "21.86",
+    "fibre": "4.68"
+  },
+  {
+    "name": "Semolina ladoo with coconut (Suji/Rava aur nariyal ke ladoo )",
+    "calories": "464.43",
+    "carbohydrates": "50.90",
+    "protein": "5.68",
+    "fat": "27.03",
+    "fibre": "6.69"
+  },
+  {
+    "name": "Gram flour ladoo (Besan ladoo)",
+    "calories": "476.91",
+    "carbohydrates": "62.61",
+    "protein": "8.93",
+    "fat": "22.76",
+    "fibre": "4.43"
+  },
+  {
+    "name": "Sesame ladoo (Til ke ladoo)",
+    "calories": "396.96",
+    "carbohydrates": "43.50",
+    "protein": "10.70",
+    "fat": "19.64",
+    "fibre": "7.72"
+  },
+  {
+    "name": "Chenna murki",
+    "calories": "252.69",
+    "carbohydrates": "36.01",
+    "protein": "10.46",
+    "fat": "8.20",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Milk cake",
+    "calories": "127.41",
+    "carbohydrates": "9.13",
+    "protein": "3.01",
+    "fat": "8.93",
+    "fibre": "0.06"
+  },
+  {
+    "name": "Ghujia/Lavang latika",
+    "calories": "768.98",
+    "carbohydrates": "13.00",
+    "protein": "1.86",
+    "fat": "78.93",
+    "fibre": "0.52"
+  },
+  {
+    "name": "Gulab Jamun with khoya",
+    "calories": "586.06",
+    "carbohydrates": "26.09",
+    "protein": "2.03",
+    "fat": "53.23",
+    "fibre": "0.07"
+  },
+  {
+    "name": "Mal pua",
+    "calories": "566.68",
+    "carbohydrates": "17.56",
+    "protein": "1.71",
+    "fat": "54.64",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Shahi tukre",
+    "calories": "189.81",
+    "carbohydrates": "41.46",
+    "protein": "2.76",
+    "fat": "2.54",
+    "fibre": "0.51"
+  },
+  {
+    "name": "Potato pakora/pakoda (Aloo pakoda)",
+    "calories": "677.19",
+    "carbohydrates": "6.04",
+    "protein": "1.90",
+    "fat": "71.84",
+    "fibre": "1.03"
+  },
+  {
+    "name": "Onion pakora/pakoda (Pyaaz ke pakode)",
+    "calories": "674.61",
+    "carbohydrates": "5.41",
+    "protein": "1.90",
+    "fat": "71.84",
+    "fibre": "1.11"
+  },
+  {
+    "name": "Cauliflower pakora/pakoda (Phoolgobhi ke pakode)",
+    "calories": "671.63",
+    "carbohydrates": "4.52",
+    "protein": "1.98",
+    "fat": "71.86",
+    "fibre": "1.26"
+  },
+  {
+    "name": "Mixed vegetable pakora/pakoda",
+    "calories": "673.81",
+    "carbohydrates": "5.12",
+    "protein": "1.94",
+    "fat": "71.86",
+    "fibre": "1.13"
+  },
+  {
+    "name": "Spinach pakora/pakoda (Palak pakoda)",
+    "calories": "712.62",
+    "carbohydrates": "4.68",
+    "protein": "1.96",
+    "fat": "76.38",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Methi pakora/pakoda (Methi ke pakode)",
+    "calories": "713.25",
+    "carbohydrates": "4.68",
+    "protein": "2.06",
+    "fat": "76.39",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Egg pakora/pakoda (Ande ke pakode)",
+    "calories": "710.51",
+    "carbohydrates": "4.48",
+    "protein": "2.83",
+    "fat": "75.86",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Bread pakora/pakoda",
+    "calories": "710.99",
+    "carbohydrates": "8.87",
+    "protein": "2.57",
+    "fat": "74.20",
+    "fibre": "1.11"
+  },
+  {
+    "name": "Paneer pakora/pakoda",
+    "calories": "718.12",
+    "carbohydrates": "5.52",
+    "protein": "3.27",
+    "fat": "76.05",
+    "fibre": "0.89"
+  },
+  {
+    "name": "Potato bonda (Aloo bonda)",
+    "calories": "632.84",
+    "carbohydrates": "4.53",
+    "protein": "1.09",
+    "fat": "67.80",
+    "fibre": "0.83"
+  },
+  {
+    "name": "Potato samosa (Aloo ka samosa)",
+    "calories": "577.39",
+    "carbohydrates": "9.21",
+    "protein": "1.71",
+    "fat": "59.19",
+    "fibre": "1.19"
+  },
+  {
+    "name": "Minced meat samosa (Keema ka samosa)",
+    "calories": "620.99",
+    "carbohydrates": "6.14",
+    "protein": "4.43",
+    "fat": "64.26",
+    "fibre": "0.39"
+  },
+  {
+    "name": "Paneer and pea samosa (Paneer matar ka samosa)",
+    "calories": "623.81",
+    "carbohydrates": "8.55",
+    "protein": "4.02",
+    "fat": "63.65",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Mathri",
+    "calories": "805.12",
+    "carbohydrates": "12.32",
+    "protein": "1.75",
+    "fat": "83.10",
+    "fibre": "0.60"
+  },
+  {
+    "name": "Khasta kachori",
+    "calories": "712.73",
+    "carbohydrates": "12.81",
+    "protein": "2.51",
+    "fat": "72.27",
+    "fibre": "0.97"
+  },
+  {
+    "name": "Vegetable cutlet",
+    "calories": "665.45",
+    "carbohydrates": "4.68",
+    "protein": "1.25",
+    "fat": "71.33",
+    "fibre": "0.93"
+  },
+  {
+    "name": "Flattened rice cutlet (Chirwa cutlet/Chivda cutlet/Poha cutlet)",
+    "calories": "701.71",
+    "carbohydrates": "7.39",
+    "protein": "1.76",
+    "fat": "73.89",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Peanut cutlet (Mungfali ke cutlet)",
+    "calories": "698.77",
+    "carbohydrates": "5.68",
+    "protein": "2.63",
+    "fat": "74.00",
+    "fibre": "1.21"
+  },
+  {
+    "name": "Fish cutlet (Machli ka cutlet)",
+    "calories": "654.64",
+    "carbohydrates": "3.13",
+    "protein": "2.77",
+    "fat": "70.11",
+    "fibre": "0.54"
+  },
+  {
+    "name": "Paneer potato cutlet (Paneer aloo cutlet)",
+    "calories": "672.94",
+    "carbohydrates": "5.23",
+    "protein": "2.47",
+    "fat": "71.40",
+    "fibre": "0.41"
+  },
+  {
+    "name": "Spinach chickpeas cutlet (Palak channa dal cutlet)",
+    "calories": "688.03",
+    "carbohydrates": "4.93",
+    "protein": "1.44",
+    "fat": "73.60",
+    "fibre": "0.93"
+  },
+  {
+    "name": "Cheese toast",
+    "calories": "785.37",
+    "carbohydrates": "5.49",
+    "protein": "1.98",
+    "fat": "84.11",
+    "fibre": "0.31"
+  },
+  {
+    "name": "Vegetable burger",
+    "calories": "519.93",
+    "carbohydrates": "13.69",
+    "protein": "3.26",
+    "fat": "50.63",
+    "fibre": "1.70"
+  },
+  {
+    "name": "Cheese pizza",
+    "calories": "249.50",
+    "carbohydrates": "30.62",
+    "protein": "5.79",
+    "fat": "12.43",
+    "fibre": "1.95"
+  },
+  {
+    "name": "Vegetable seekh kebab",
+    "calories": "690.73",
+    "carbohydrates": "5.32",
+    "protein": "1.57",
+    "fat": "73.72",
+    "fibre": "0.59"
+  },
+  {
+    "name": "Masala vada",
+    "calories": "826.02",
+    "carbohydrates": "4.06",
+    "protein": "1.69",
+    "fat": "89.15",
+    "fibre": "1.07"
+  },
+  {
+    "name": "Peanut sago vada (Sabudana mungfali vada)",
+    "calories": "749.89",
+    "carbohydrates": "7.14",
+    "protein": "1.01",
+    "fat": "79.82",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Vegeterian scotch egg",
+    "calories": "681.67",
+    "carbohydrates": "4.64",
+    "protein": "2.16",
+    "fat": "72.77",
+    "fibre": "0.58"
+  },
+  {
+    "name": "Paneer shaslik/tikka",
+    "calories": "93.85",
+    "carbohydrates": "7.98",
+    "protein": "5.11",
+    "fat": "4.49",
+    "fibre": "1.23"
+  },
+  {
+    "name": "Peanut brittle (Moongfali ki chikki)",
+    "calories": "320.46",
+    "carbohydrates": "47.46",
+    "protein": "6.94",
+    "fat": "11.13",
+    "fibre": "2.63"
+  },
+  {
+    "name": "Spring roll",
+    "calories": "623.87",
+    "carbohydrates": "8.56",
+    "protein": "1.81",
+    "fat": "64.63",
+    "fibre": "0.67"
+  },
+  {
+    "name": "Dry mango chutney (Sookhe aam ki chutney)",
+    "calories": "298.13",
+    "carbohydrates": "69.17",
+    "protein": "2.43",
+    "fat": "0.70",
+    "fibre": "3.74"
+  },
+  {
+    "name": "Peanut chutney (Mungfali ki chutney)",
+    "calories": "258.37",
+    "carbohydrates": "9.87",
+    "protein": "11.80",
+    "fat": "19.06",
+    "fibre": "5.73"
+  },
+  {
+    "name": "Coconut chutney (Nariyal ki chutney)",
+    "calories": "265.92",
+    "carbohydrates": "8.29",
+    "protein": "3.59",
+    "fat": "25.00",
+    "fibre": "6.73"
+  },
+  {
+    "name": "Mint and coriander chutney (Pudinay aur dhaniye ki chutney)",
+    "calories": "102.60",
+    "carbohydrates": "21.18",
+    "protein": "2.81",
+    "fat": "0.51",
+    "fibre": "4.33"
+  },
+  {
+    "name": "Custard tart",
+    "calories": "225.60",
+    "carbohydrates": "28.66",
+    "protein": "3.72",
+    "fat": "10.73",
+    "fibre": "0.91"
+  },
+  {
+    "name": "Lemon tart",
+    "calories": "303.35",
+    "carbohydrates": "30.68",
+    "protein": "6.12",
+    "fat": "17.45",
+    "fibre": "0.81"
+  },
+  {
+    "name": "Jam tart",
+    "calories": "360.72",
+    "carbohydrates": "46.18",
+    "protein": "4.42",
+    "fat": "17.35",
+    "fibre": "1.14"
+  },
+  {
+    "name": "Orange cream tart",
+    "calories": "197.16",
+    "carbohydrates": "27.43",
+    "protein": "2.58",
+    "fat": "8.72",
+    "fibre": "0.64"
+  },
+  {
+    "name": "Pineapple tart",
+    "calories": "195.40",
+    "carbohydrates": "28.62",
+    "protein": "2.29",
+    "fat": "8.21",
+    "fibre": "0.87"
+  },
+  {
+    "name": "Cheese and mushroom tart",
+    "calories": "246.10",
+    "carbohydrates": "21.43",
+    "protein": "5.51",
+    "fat": "15.28",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Cottage cheese pie",
+    "calories": "238.98",
+    "carbohydrates": "20.66",
+    "protein": "7.45",
+    "fat": "13.83",
+    "fibre": "2.21"
+  },
+  {
+    "name": "Minced meat pie",
+    "calories": "221.55",
+    "carbohydrates": "18.11",
+    "protein": "7.38",
+    "fat": "13.04",
+    "fibre": "2.33"
+  },
+  {
+    "name": "Apple cinnamon pie",
+    "calories": "258.73",
+    "carbohydrates": "33.68",
+    "protein": "3.35",
+    "fat": "12.21",
+    "fibre": "1.77"
+  },
+  {
+    "name": "Lemon meringue pie",
+    "calories": "224.43",
+    "carbohydrates": "35.11",
+    "protein": "3.88",
+    "fat": "8.16",
+    "fibre": "0.44"
+  },
+  {
+    "name": "Chocolate meringue pie",
+    "calories": "214.76",
+    "carbohydrates": "28.80",
+    "protein": "4.98",
+    "fat": "9.17",
+    "fibre": "0.37"
+  },
+  {
+    "name": "Cream puffs",
+    "calories": "221.33",
+    "carbohydrates": "16.00",
+    "protein": "4.70",
+    "fat": "15.48",
+    "fibre": "0.38"
+  },
+  {
+    "name": "Chocolate eclairs",
+    "calories": "239.42",
+    "carbohydrates": "26.22",
+    "protein": "4.24",
+    "fat": "13.50",
+    "fibre": "0.33"
+  },
+  {
+    "name": "Cheese balls",
+    "calories": "681.28",
+    "carbohydrates": "4.81",
+    "protein": "2.21",
+    "fat": "72.57",
+    "fibre": "0.18"
+  },
+  {
+    "name": "Minced meat patties",
+    "calories": "265.72",
+    "carbohydrates": "15.25",
+    "protein": "6.88",
+    "fat": "19.57",
+    "fibre": "0.77"
+  },
+  {
+    "name": "Cheese patties",
+    "calories": "324.01",
+    "carbohydrates": "22.23",
+    "protein": "7.38",
+    "fat": "22.67",
+    "fibre": "1.24"
+  },
+  {
+    "name": "Hot cheese souffle",
+    "calories": "177.10",
+    "carbohydrates": "5.41",
+    "protein": "9.18",
+    "fat": "13.23",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Hot potato souffle",
+    "calories": "125.64",
+    "carbohydrates": "8.56",
+    "protein": "5.51",
+    "fat": "7.64",
+    "fibre": "0.66"
+  },
+  {
+    "name": "Hot fish souffle",
+    "calories": "142.92",
+    "carbohydrates": "3.69",
+    "protein": "11.23",
+    "fat": "9.24",
+    "fibre": "0.10"
+  },
+  {
+    "name": "Hot spinach souffle",
+    "calories": "104.25",
+    "carbohydrates": "4.19",
+    "protein": "5.43",
+    "fat": "7.24",
+    "fibre": "0.99"
+  },
+  {
+    "name": "Plain cream cake",
+    "calories": "353.94",
+    "carbohydrates": "47.18",
+    "protein": "6.18",
+    "fat": "16.17",
+    "fibre": "0.71"
+  },
+  {
+    "name": "Apple cake (Seb ka cake)",
+    "calories": "290.08",
+    "carbohydrates": "39.48",
+    "protein": "4.94",
+    "fat": "12.87",
+    "fibre": "1.22"
+  },
+  {
+    "name": "Marble cake",
+    "calories": "354.11",
+    "carbohydrates": "46.88",
+    "protein": "6.30",
+    "fat": "16.27",
+    "fibre": "0.71"
+  },
+  {
+    "name": "Chocolate cake",
+    "calories": "335.61",
+    "carbohydrates": "45.14",
+    "protein": "6.01",
+    "fat": "15.18",
+    "fibre": "0.64"
+  },
+  {
+    "name": "Orange cake",
+    "calories": "357.61",
+    "carbohydrates": "48.28",
+    "protein": "6.10",
+    "fat": "16.21",
+    "fibre": "0.83"
+  },
+  {
+    "name": "Fruit Loaf ",
+    "calories": "324.19",
+    "carbohydrates": "46.49",
+    "protein": "5.36",
+    "fat": "13.31",
+    "fibre": "0.87"
+  },
+  {
+    "name": "Banana cake (Kele ka cake)",
+    "calories": "389.51",
+    "carbohydrates": "40.00",
+    "protein": "5.77",
+    "fat": "23.31",
+    "fibre": "1.14"
+  },
+  {
+    "name": "Chocolate chiffon cake",
+    "calories": "311.71",
+    "carbohydrates": "37.87",
+    "protein": "5.76",
+    "fat": "15.80",
+    "fibre": "0.70"
+  },
+  {
+    "name": "Christmas cake",
+    "calories": "372.95",
+    "carbohydrates": "48.29",
+    "protein": "5.49",
+    "fat": "16.88",
+    "fibre": "1.49"
+  },
+  {
+    "name": "Strawberry and vanilla cake with butter icing",
+    "calories": "370.54",
+    "carbohydrates": "44.25",
+    "protein": "3.89",
+    "fat": "20.39",
+    "fibre": "0.79"
+  },
+  {
+    "name": "Eggless cake",
+    "calories": "318.08",
+    "carbohydrates": "46.14",
+    "protein": "8.12",
+    "fat": "11.75",
+    "fibre": "0.68"
+  },
+  {
+    "name": "Swiss roll",
+    "calories": "251.87",
+    "carbohydrates": "48.34",
+    "protein": "7.30",
+    "fat": "3.77",
+    "fibre": "0.55"
+  },
+  {
+    "name": "Pineapple pastry ",
+    "calories": "208.21",
+    "carbohydrates": "29.04",
+    "protein": "6.06",
+    "fat": "7.87",
+    "fibre": "0.72"
+  },
+  {
+    "name": "Black forest pastry",
+    "calories": "233.55",
+    "carbohydrates": "34.48",
+    "protein": "6.09",
+    "fat": "8.46",
+    "fibre": "0.54"
+  },
+  {
+    "name": "Coconut finger",
+    "calories": "274.86",
+    "carbohydrates": "42.56",
+    "protein": "7.09",
+    "fat": "8.86",
+    "fibre": "1.87"
+  },
+  {
+    "name": "Pineapple cake ",
+    "calories": "195.57",
+    "carbohydrates": "23.51",
+    "protein": "5.01",
+    "fat": "9.34",
+    "fibre": "0.76"
+  },
+  {
+    "name": "Chocolate walnut cookies (Chocolate aur akhrot ke cookies)",
+    "calories": "424.80",
+    "carbohydrates": "47.10",
+    "protein": "6.56",
+    "fat": "23.62",
+    "fibre": "1.54"
+  },
+  {
+    "name": "Chocolate chip cookies",
+    "calories": "425.29",
+    "carbohydrates": "57.98",
+    "protein": "5.79",
+    "fat": "19.38",
+    "fibre": "1.05"
+  },
+  {
+    "name": "Sweet plain biscuit",
+    "calories": "380.76",
+    "carbohydrates": "50.29",
+    "protein": "5.86",
+    "fat": "17.67",
+    "fibre": "1.07"
+  },
+  {
+    "name": "Chocolate biscuit",
+    "calories": "379.76",
+    "carbohydrates": "51.56",
+    "protein": "5.88",
+    "fat": "17.09",
+    "fibre": "1.01"
+  },
+  {
+    "name": "Coconut biscuit (Nariyal ke biscuit)",
+    "calories": "434.98",
+    "carbohydrates": "42.90",
+    "protein": "5.78",
+    "fat": "27.16",
+    "fibre": "3.64"
+  },
+  {
+    "name": "Sweet and salty biscuit (Meethay aur namkeen biscuit)",
+    "calories": "407.96",
+    "carbohydrates": "45.09",
+    "protein": "6.15",
+    "fat": "22.39",
+    "fibre": "1.68"
+  },
+  {
+    "name": "Peanut biscuit",
+    "calories": "401.05",
+    "carbohydrates": "46.72",
+    "protein": "8.45",
+    "fat": "20.41",
+    "fibre": "2.48"
+  },
+  {
+    "name": "Pin wheel biscuit",
+    "calories": "404.60",
+    "carbohydrates": "54.56",
+    "protein": "5.40",
+    "fat": "18.66",
+    "fibre": "1.16"
+  },
+  {
+    "name": "Saffron biscuit (Kesar biscuit)",
+    "calories": "458.61",
+    "carbohydrates": "59.70",
+    "protein": "6.05",
+    "fat": "22.01",
+    "fibre": "1.90"
+  },
+  {
+    "name": "Masala biscuit",
+    "calories": "393.64",
+    "carbohydrates": "45.18",
+    "protein": "6.06",
+    "fat": "20.75",
+    "fibre": "2.14"
+  },
+  {
+    "name": "Ice box cookies",
+    "calories": "374.24",
+    "carbohydrates": "56.09",
+    "protein": "5.70",
+    "fat": "14.44",
+    "fibre": "1.28"
+  },
+  {
+    "name": "Ginger bread man",
+    "calories": "365.00",
+    "carbohydrates": "60.26",
+    "protein": "6.61",
+    "fat": "11.01",
+    "fibre": "1.60"
+  },
+  {
+    "name": "Danish cookies",
+    "calories": "475.33",
+    "carbohydrates": "58.00",
+    "protein": "5.33",
+    "fat": "24.92",
+    "fibre": "1.37"
+  },
+  {
+    "name": "Short bread cookies",
+    "calories": "443.09",
+    "carbohydrates": "64.82",
+    "protein": "6.03",
+    "fat": "17.98",
+    "fibre": "1.57"
+  },
+  {
+    "name": "Coffee biscuit",
+    "calories": "416.57",
+    "carbohydrates": "46.55",
+    "protein": "6.90",
+    "fat": "23.00",
+    "fibre": "1.59"
+  },
+  {
+    "name": "Melting moments",
+    "calories": "437.91",
+    "carbohydrates": "55.84",
+    "protein": "5.71",
+    "fat": "21.78",
+    "fibre": "1.88"
+  },
+  {
+    "name": "Ginger biscuit (Adarak ke biscuit)",
+    "calories": "417.91",
+    "carbohydrates": "58.44",
+    "protein": "5.98",
+    "fat": "18.31",
+    "fibre": "1.49"
+  },
+  {
+    "name": "Soyabean muthias",
+    "calories": "839.33",
+    "carbohydrates": "3.70",
+    "protein": "2.46",
+    "fat": "90.45",
+    "fibre": "1.47"
+  },
+  {
+    "name": "Soyabean tikki",
+    "calories": "698.17",
+    "carbohydrates": "4.39",
+    "protein": "3.53",
+    "fat": "74.02",
+    "fibre": "2.20"
+  },
+  {
+    "name": "Soyabean namak paras",
+    "calories": "838.46",
+    "carbohydrates": "4.65",
+    "protein": "2.65",
+    "fat": "89.83",
+    "fibre": "1.41"
+  },
+  {
+    "name": "Peanut burfi (Moongfali ki burfi)",
+    "calories": "550.99",
+    "carbohydrates": "48.14",
+    "protein": "9.31",
+    "fat": "36.84",
+    "fibre": "4.09"
+  },
+  {
+    "name": "Spinach peanut namak paras (Palak moongfali namak paras)",
+    "calories": "740.16",
+    "carbohydrates": "6.62",
+    "protein": "1.65",
+    "fat": "78.51",
+    "fibre": "0.81"
+  },
+  {
+    "name": "Gram flour and semolina chilla/cheela/savory pancake (Besan suji chilla/cheela)",
+    "calories": "758.89",
+    "carbohydrates": "7.63",
+    "protein": "2.08",
+    "fat": "80.04",
+    "fibre": "1.39"
+  },
+  {
+    "name": "Rice moong dal cheela (Chawal aur moong dal ka cheela)",
+    "calories": "798.26",
+    "carbohydrates": "11.13",
+    "protein": "2.74",
+    "fat": "82.44",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Split bengal gram sweet rice (Channa dal sweet rice)",
+    "calories": "190.21",
+    "carbohydrates": "41.07",
+    "protein": "4.15",
+    "fat": "0.64",
+    "fibre": "2.23"
+  },
+  {
+    "name": "Sweet poori (Meethi poori)",
+    "calories": "782.75",
+    "carbohydrates": "14.26",
+    "protein": "2.12",
+    "fat": "79.63",
+    "fibre": "1.54"
+  },
+  {
+    "name": "Wheat flour and moong dal burfi (Atta aur moong dal ki burfi)",
+    "calories": "441.08",
+    "carbohydrates": "60.00",
+    "protein": "9.84",
+    "fat": "18.41",
+    "fibre": "6.02"
+  },
+  {
+    "name": "Spinach burfi (Palak burfi)",
+    "calories": "121.17",
+    "carbohydrates": "12.76",
+    "protein": "2.71",
+    "fat": "6.81",
+    "fibre": "1.17"
+  },
+  {
+    "name": "Sweet split chickpea roti (Sweet channa dal roti/Puranpoli)",
+    "calories": "366.59",
+    "carbohydrates": "62.66",
+    "protein": "9.51",
+    "fat": "7.93",
+    "fibre": "8.16"
+  },
+  {
+    "name": "Sprouted moong daliya ",
+    "calories": "111.56",
+    "carbohydrates": "14.77",
+    "protein": "2.81",
+    "fat": "4.71",
+    "fibre": "3.12"
+  },
+  {
+    "name": "Sprouted moong poha ",
+    "calories": "192.60",
+    "carbohydrates": "26.60",
+    "protein": "5.59",
+    "fat": "6.89",
+    "fibre": "3.13"
+  },
+  {
+    "name": "Pearl millet ladoo (Bajra ladoo)",
+    "calories": "319.66",
+    "carbohydrates": "50.98",
+    "protein": "9.61",
+    "fat": "8.06",
+    "fibre": "6.00"
+  },
+  {
+    "name": "Paushtik ladoo",
+    "calories": "485.87",
+    "carbohydrates": "60.34",
+    "protein": "7.65",
+    "fat": "24.98",
+    "fibre": "4.57"
+  },
+  {
+    "name": "Paushtik roti",
+    "calories": "149.26",
+    "carbohydrates": "26.59",
+    "protein": "7.17",
+    "fat": "1.51",
+    "fibre": "5.74"
+  },
+  {
+    "name": "Semolina carrot vada (Suji gajar vada)",
+    "calories": "699.53",
+    "carbohydrates": "6.52",
+    "protein": "1.56",
+    "fat": "74.07",
+    "fibre": "1.07"
+  },
+  {
+    "name": "Dhokla",
+    "calories": "216.49",
+    "carbohydrates": "30.68",
+    "protein": "13.45",
+    "fat": "5.28",
+    "fibre": "4.95"
+  },
+  {
+    "name": "Kashmiri tea (Kehwa)",
+    "calories": "24.90",
+    "carbohydrates": "5.23",
+    "protein": "0.17",
+    "fat": "0.51",
+    "fibre": "0.16"
+  },
+  {
+    "name": "Steeped hot coffee",
+    "calories": "15.91",
+    "carbohydrates": "3.01",
+    "protein": "0.39",
+    "fat": "0.33",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Hot chocolate",
+    "calories": "90.01",
+    "carbohydrates": "9.02",
+    "protein": "3.43",
+    "fat": "4.61",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cold coffee (with cream)",
+    "calories": "82.76",
+    "carbohydrates": "11.98",
+    "protein": "1.93",
+    "fat": "3.29",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Banana milkshake with ice cream (Kele ka milkshake ice cream ke saath)",
+    "calories": "76.45",
+    "carbohydrates": "11.15",
+    "protein": "2.01",
+    "fat": "2.77",
+    "fibre": "0.27"
+  },
+  {
+    "name": "Flavoured milkshake",
+    "calories": "66.78",
+    "carbohydrates": "8.65",
+    "protein": "2.06",
+    "fat": "2.83",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Jal jeera",
+    "calories": "30.24",
+    "carbohydrates": "6.70",
+    "protein": "0.44",
+    "fat": "0.26",
+    "fibre": "0.95"
+  },
+  {
+    "name": "Gingo",
+    "calories": "48.02",
+    "carbohydrates": "12.42",
+    "protein": "0.14",
+    "fat": "0.06",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Mintade",
+    "calories": "40.32",
+    "carbohydrates": "10.59",
+    "protein": "0.03",
+    "fat": "0.02",
+    "fibre": "0.03"
+  },
+  {
+    "name": "Canjee",
+    "calories": "6.61",
+    "carbohydrates": "0.44",
+    "protein": "0.24",
+    "fat": "0.42",
+    "fibre": "0.36"
+  },
+  {
+    "name": "Cauliflower canjee (Phoolgobhi ki canjee)",
+    "calories": "6.90",
+    "carbohydrates": "0.35",
+    "protein": "0.39",
+    "fat": "0.42",
+    "fibre": "0.49"
+  },
+  {
+    "name": "Potato canjee (Aloo canjee)",
+    "calories": "16.26",
+    "carbohydrates": "2.69",
+    "protein": "0.44",
+    "fat": "0.39",
+    "fibre": "0.43"
+  },
+  {
+    "name": "Vermicelli porridge (Semiya/Seviyan porridge)",
+    "calories": "78.40",
+    "carbohydrates": "10.56",
+    "protein": "2.50",
+    "fat": "2.98",
+    "fibre": "0.48"
+  },
+  {
+    "name": "Semolina upma (Suji/Rava upma)",
+    "calories": "147.89",
+    "carbohydrates": "16.31",
+    "protein": "3.30",
+    "fat": "7.49",
+    "fibre": "3.24"
+  },
+  {
+    "name": "Vermicelli upma (Semiya/Seviyan upma)",
+    "calories": "149.11",
+    "carbohydrates": "16.88",
+    "protein": "3.11",
+    "fat": "7.45",
+    "fibre": "3.21"
+  },
+  {
+    "name": "Rice upma",
+    "calories": "151.27",
+    "carbohydrates": "17.96",
+    "protein": "2.63",
+    "fat": "7.46",
+    "fibre": "2.12"
+  },
+  {
+    "name": "Bread upma",
+    "calories": "129.51",
+    "carbohydrates": "12.60",
+    "protein": "2.80",
+    "fat": "7.75",
+    "fibre": "1.96"
+  },
+  {
+    "name": "Vegetable upma",
+    "calories": "146.47",
+    "carbohydrates": "16.46",
+    "protein": "4.73",
+    "fat": "6.63",
+    "fibre": "4.19"
+  },
+  {
+    "name": "Poha",
+    "calories": "294.53",
+    "carbohydrates": "35.05",
+    "protein": "6.09",
+    "fat": "14.14",
+    "fibre": "3.72"
+  },
+  {
+    "name": "Vegetable poha",
+    "calories": "180.52",
+    "carbohydrates": "21.52",
+    "protein": "4.89",
+    "fat": "8.07",
+    "fibre": "3.76"
+  },
+  {
+    "name": "Moong dal stuffed cheela/chilla (Moong dal ka cheela/chilla)",
+    "calories": "154.89",
+    "carbohydrates": "19.42",
+    "protein": "6.97",
+    "fat": "5.11",
+    "fibre": "4.25"
+  },
+  {
+    "name": "Paneer stuffed cheela/chilla",
+    "calories": "205.19",
+    "carbohydrates": "19.16",
+    "protein": "11.44",
+    "fat": "8.89",
+    "fibre": "4.03"
+  },
+  {
+    "name": "Indian style egg bhujia (Anda bhujia (Indian style))",
+    "calories": "102.83",
+    "carbohydrates": "3.76",
+    "protein": "6.10",
+    "fat": "7.02",
+    "fibre": "1.53"
+  },
+  {
+    "name": "French omelette/omlet",
+    "calories": "211.04",
+    "carbohydrates": "0.41",
+    "protein": "10.03",
+    "fat": "18.86",
+    "fibre": "0.38"
+  },
+  {
+    "name": "Puffy omelette/omlet",
+    "calories": "188.15",
+    "carbohydrates": "0.08",
+    "protein": "8.82",
+    "fat": "16.84",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Orange omelette/omlet",
+    "calories": "194.66",
+    "carbohydrates": "1.68",
+    "protein": "8.93",
+    "fat": "16.84",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cheese and mushroom omelette/omlet",
+    "calories": "205.63",
+    "carbohydrates": "1.68",
+    "protein": "9.69",
+    "fat": "17.82",
+    "fibre": "0.93"
+  },
+  {
+    "name": "Spanish omelette/omlet",
+    "calories": "157.45",
+    "carbohydrates": "5.10",
+    "protein": "8.25",
+    "fat": "11.44",
+    "fibre": "2.54"
+  },
+  {
+    "name": "Mixed stock",
+    "calories": "25.19",
+    "carbohydrates": "0.33",
+    "protein": "2.06",
+    "fat": "1.71",
+    "fibre": "0.15"
+  },
+  {
+    "name": "Meat stock",
+    "calories": "24.48",
+    "carbohydrates": "0.00",
+    "protein": "2.10",
+    "fat": "1.78",
+    "fibre": "0.00"
+  },
+  {
+    "name": "White stock",
+    "calories": "6.99",
+    "carbohydrates": "0.40",
+    "protein": "0.07",
+    "fat": "0.56",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Meat consomme (with mutton)",
+    "calories": "29.76",
+    "carbohydrates": "0.51",
+    "protein": "14.86",
+    "fat": "13.68",
+    "fibre": "0.71"
+  },
+  {
+    "name": "Consomme au julienne",
+    "calories": "27.76",
+    "carbohydrates": "1.49",
+    "protein": "12.49",
+    "fat": "10.66",
+    "fibre": "1.38"
+  },
+  {
+    "name": "Consomme au vermicelli",
+    "calories": "29.94",
+    "carbohydrates": "1.30",
+    "protein": "15.23",
+    "fat": "12.98",
+    "fibre": "0.81"
+  },
+  {
+    "name": "Green pea soup (Matar ka soup)",
+    "calories": "39.81",
+    "carbohydrates": "3.63",
+    "protein": "11.06",
+    "fat": "12.90",
+    "fibre": "2.49"
+  },
+  {
+    "name": "Spinach soup (Palak ka soup)",
+    "calories": "32.59",
+    "carbohydrates": "3.03",
+    "protein": "10.54",
+    "fat": "14.26",
+    "fibre": "1.98"
+  },
+  {
+    "name": "Mixed vegetable soup",
+    "calories": "35.71",
+    "carbohydrates": "2.95",
+    "protein": "8.22",
+    "fat": "11.66",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Cheese soup",
+    "calories": "41.13",
+    "carbohydrates": "1.87",
+    "protein": "12.39",
+    "fat": "17.07",
+    "fibre": "1.80"
+  },
+  {
+    "name": "Mulligatawny soup",
+    "calories": "54.42",
+    "carbohydrates": "8.24",
+    "protein": "11.26",
+    "fat": "13.28",
+    "fibre": "2.60"
+  },
+  {
+    "name": "Cream of carrot soup",
+    "calories": "59.77",
+    "carbohydrates": "5.69",
+    "protein": "8.27",
+    "fat": "12.35",
+    "fibre": "1.98"
+  },
+  {
+    "name": "Cream of broccoli soup",
+    "calories": "56.14",
+    "carbohydrates": "3.72",
+    "protein": "8.97",
+    "fat": "12.75",
+    "fibre": "1.89"
+  },
+  {
+    "name": "Cream of potato soup",
+    "calories": "60.20",
+    "carbohydrates": "6.14",
+    "protein": "8.10",
+    "fat": "12.05",
+    "fibre": "1.51"
+  },
+  {
+    "name": "Almond soup (Badam ka soup)",
+    "calories": "78.65",
+    "carbohydrates": "3.68",
+    "protein": "10.13",
+    "fat": "13.80",
+    "fibre": "0.91"
+  },
+  {
+    "name": "Cold cucumber cream soup ",
+    "calories": "11.88",
+    "carbohydrates": "1.76",
+    "protein": "0.34",
+    "fat": "0.34",
+    "fibre": "0.73"
+  },
+  {
+    "name": "Cold tomato soup",
+    "calories": "16.90",
+    "carbohydrates": "0.59",
+    "protein": "0.11",
+    "fat": "1.56",
+    "fibre": "0.16"
+  },
+  {
+    "name": "Chicken stew",
+    "calories": "127.55",
+    "carbohydrates": "4.44",
+    "protein": "7.19",
+    "fat": "8.91",
+    "fibre": "1.82"
+  },
+  {
+    "name": "Veg paneer stew",
+    "calories": "145.55",
+    "carbohydrates": "10.22",
+    "protein": "6.98",
+    "fat": "8.41",
+    "fibre": "3.08"
+  },
+  {
+    "name": "Onion-green chilli parantha/paratha (Pyaaz aur hari mirch ka parantha/paratha)",
+    "calories": "191.27",
+    "carbohydrates": "26.37",
+    "protein": "4.37",
+    "fat": "7.27",
+    "fibre": "5.16"
+  },
+  {
+    "name": "Methi parantha/paratha",
+    "calories": "148.36",
+    "carbohydrates": "22.19",
+    "protein": "4.27",
+    "fat": "4.34",
+    "fibre": "5.09"
+  },
+  {
+    "name": "Bathua poori",
+    "calories": "598.79",
+    "carbohydrates": "13.85",
+    "protein": "2.35",
+    "fat": "59.14",
+    "fibre": "1.87"
+  },
+  {
+    "name": "Gram flour poori (Besan poori)",
+    "calories": "697.66",
+    "carbohydrates": "10.93",
+    "protein": "2.59",
+    "fat": "71.51",
+    "fibre": "1.94"
+  },
+  {
+    "name": "Beetroot poori (Chukandar ki poori)",
+    "calories": "527.66",
+    "carbohydrates": "12.29",
+    "protein": "1.91",
+    "fat": "52.18",
+    "fibre": "1.40"
+  },
+  {
+    "name": "Peas poori (Matar ki poori)",
+    "calories": "592.83",
+    "carbohydrates": "14.92",
+    "protein": "3.04",
+    "fat": "57.69",
+    "fibre": "2.25"
+  },
+  {
+    "name": "Peas kachori (Matar kachori)",
+    "calories": "584.68",
+    "carbohydrates": "13.25",
+    "protein": "3.21",
+    "fat": "57.51",
+    "fibre": "2.03"
+  },
+  {
+    "name": "Pizza",
+    "calories": "146.77",
+    "carbohydrates": "9.94",
+    "protein": "6.85",
+    "fat": "8.72",
+    "fibre": "1.71"
+  },
+  {
+    "name": "Bacon and mushroom pancake",
+    "calories": "157.67",
+    "carbohydrates": "8.47",
+    "protein": "6.82",
+    "fat": "10.60",
+    "fibre": "1.59"
+  },
+  {
+    "name": "Cheese and tomato pancake",
+    "calories": "147.39",
+    "carbohydrates": "10.66",
+    "protein": "5.15",
+    "fat": "9.28",
+    "fibre": "1.06"
+  },
+  {
+    "name": "Minced meat pancake (with chicken)",
+    "calories": "116.04",
+    "carbohydrates": "8.18",
+    "protein": "12.01",
+    "fat": "10.48",
+    "fibre": "0.70"
+  },
+  {
+    "name": "Eggplant/Brinjal rice (Vangi bhat)",
+    "calories": "184.80",
+    "carbohydrates": "31.74",
+    "protein": "5.28",
+    "fat": "3.67",
+    "fibre": "4.44"
+  },
+  {
+    "name": "Kashmiri 'tahar'",
+    "calories": "98.21",
+    "carbohydrates": "19.11",
+    "protein": "1.95",
+    "fat": "1.37",
+    "fibre": "0.98"
+  },
+  {
+    "name": "Cumin pulao (Jeera/Zeera pulao)",
+    "calories": "135.24",
+    "carbohydrates": "23.61",
+    "protein": "2.47",
+    "fat": "3.20",
+    "fibre": "1.40"
+  },
+  {
+    "name": "Peas pulao (Matar pulao)",
+    "calories": "108.87",
+    "carbohydrates": "18.42",
+    "protein": "3.89",
+    "fat": "1.90",
+    "fibre": "3.21"
+  },
+  {
+    "name": "Split bengal gram dal and vegetable pulao (Channa dal and vegetable pulao)",
+    "calories": "116.53",
+    "carbohydrates": "19.72",
+    "protein": "3.60",
+    "fat": "2.30",
+    "fibre": "3.16"
+  },
+  {
+    "name": "Black channa pulao/ Bengal gram pulao (Kale chane ka pulao)",
+    "calories": "125.51",
+    "carbohydrates": "21.55",
+    "protein": "3.44",
+    "fat": "2.58",
+    "fibre": "2.69"
+  },
+  {
+    "name": "Mutton pulao",
+    "calories": "130.77",
+    "carbohydrates": "11.26",
+    "protein": "6.52",
+    "fat": "10.78",
+    "fibre": "1.65"
+  },
+  {
+    "name": "Chicken pulao",
+    "calories": "108.24",
+    "carbohydrates": "11.17",
+    "protein": "6.07",
+    "fat": "8.48",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Mexican rice",
+    "calories": "120.57",
+    "carbohydrates": "14.21",
+    "protein": "4.62",
+    "fat": "4.88",
+    "fibre": "1.64"
+  },
+  {
+    "name": "Plain khitchdi (Plain khichri/khichdi)",
+    "calories": "57.03",
+    "carbohydrates": "10.04",
+    "protein": "1.72",
+    "fat": "1.01",
+    "fibre": "0.85"
+  },
+  {
+    "name": "Instant idli (with semolina)",
+    "calories": "247.29",
+    "carbohydrates": "43.40",
+    "protein": "9.16",
+    "fat": "3.61",
+    "fibre": "7.13"
+  },
+  {
+    "name": "Plain dosa",
+    "calories": "380.91",
+    "carbohydrates": "64.08",
+    "protein": "10.34",
+    "fat": "8.43",
+    "fibre": "5.23"
+  },
+  {
+    "name": "Masala dosa mixed vegetable fillings",
+    "calories": "144.53",
+    "carbohydrates": "23.02",
+    "protein": "4.84",
+    "fat": "3.26",
+    "fibre": "4.31"
+  },
+  {
+    "name": "Masala dosa paneer fillings",
+    "calories": "243.12",
+    "carbohydrates": "29.76",
+    "protein": "10.31",
+    "fat": "8.84",
+    "fibre": "3.11"
+  },
+  {
+    "name": "Uttapam",
+    "calories": "255.95",
+    "carbohydrates": "36.28",
+    "protein": "6.18",
+    "fat": "9.03",
+    "fibre": "4.40"
+  },
+  {
+    "name": "Appam",
+    "calories": "267.70",
+    "carbohydrates": "13.28",
+    "protein": "3.12",
+    "fat": "22.63",
+    "fibre": "6.19"
+  },
+  {
+    "name": "Beans and macaroni",
+    "calories": "136.08",
+    "carbohydrates": "14.24",
+    "protein": "4.58",
+    "fat": "7.01",
+    "fibre": "2.05"
+  },
+  {
+    "name": "Spaghetti bolognese",
+    "calories": "97.43",
+    "carbohydrates": "10.04",
+    "protein": "9.35",
+    "fat": "9.51",
+    "fibre": "1.08"
+  },
+  {
+    "name": "Meat and macaroni casserole",
+    "calories": "161.55",
+    "carbohydrates": "16.12",
+    "protein": "9.15",
+    "fat": "10.17",
+    "fibre": "1.19"
+  },
+  {
+    "name": "Spaghetti with meat balls and tomato sauce",
+    "calories": "158.13",
+    "carbohydrates": "10.46",
+    "protein": "5.61",
+    "fat": "10.64",
+    "fibre": "1.11"
+  },
+  {
+    "name": "Spaghetti with paneer balls and tomato sauce",
+    "calories": "158.54",
+    "carbohydrates": "12.72",
+    "protein": "3.95",
+    "fat": "10.44",
+    "fibre": "1.25"
+  },
+  {
+    "name": "Lasagne with meat sauce",
+    "calories": "63.38",
+    "carbohydrates": "5.38",
+    "protein": "2.90",
+    "fat": "3.43",
+    "fibre": "0.47"
+  },
+  {
+    "name": "Lasagne with vegetables",
+    "calories": "49.23",
+    "carbohydrates": "5.90",
+    "protein": "1.71",
+    "fat": "2.16",
+    "fibre": "0.66"
+  },
+  {
+    "name": "Home made egg noodles",
+    "calories": "240.84",
+    "carbohydrates": "42.92",
+    "protein": "6.55",
+    "fat": "4.37",
+    "fibre": "1.60"
+  },
+  {
+    "name": "Sour lentils (Khatti dal)",
+    "calories": "34.79",
+    "carbohydrates": "6.04",
+    "protein": "2.22",
+    "fat": "0.12",
+    "fibre": "1.22"
+  },
+  {
+    "name": "Urad special dehusked",
+    "calories": "69.43",
+    "carbohydrates": "8.86",
+    "protein": "3.14",
+    "fat": "2.17",
+    "fibre": "2.50"
+  },
+  {
+    "name": "Arhar with spinach (Arhar dal aur palak)",
+    "calories": "52.84",
+    "carbohydrates": "4.77",
+    "protein": "2.05",
+    "fat": "2.76",
+    "fibre": "1.30"
+  },
+  {
+    "name": "Moong dal with vadi",
+    "calories": "24.08",
+    "carbohydrates": "1.00",
+    "protein": "0.40",
+    "fat": "2.05",
+    "fibre": "0.39"
+  },
+  {
+    "name": "Rasam with tamarind (Puli rasam/ Chintapandu rasam/ Charu/Saaru)",
+    "calories": "26.74",
+    "carbohydrates": "3.37",
+    "protein": "1.13",
+    "fat": "0.88",
+    "fibre": "1.60"
+  },
+  {
+    "name": "Rasam with lemon (Nimmakaya rasam/Nimmakaya charu/Elumichai rasam/Nimbe hannina saaru)",
+    "calories": "24.41",
+    "carbohydrates": "2.85",
+    "protein": "1.11",
+    "fat": "0.87",
+    "fibre": "1.54"
+  },
+  {
+    "name": "Green gram whole with baghar (Sabut moong dal with tadka)",
+    "calories": "63.43",
+    "carbohydrates": "6.80",
+    "protein": "3.23",
+    "fat": "2.48",
+    "fibre": "3.02"
+  },
+  {
+    "name": "Urad sabut special",
+    "calories": "79.39",
+    "carbohydrates": "5.03",
+    "protein": "2.33",
+    "fat": "5.46",
+    "fibre": "2.15"
+  },
+  {
+    "name": "Kabuli channa curry",
+    "calories": "68.57",
+    "carbohydrates": "7.63",
+    "protein": "2.92",
+    "fat": "3.06",
+    "fibre": "1.12"
+  },
+  {
+    "name": "Besan gatte curry",
+    "calories": "189.38",
+    "carbohydrates": "16.26",
+    "protein": "7.75",
+    "fat": "10.72",
+    "fibre": "3.25"
+  },
+  {
+    "name": "Dry masala chops",
+    "calories": "135.07",
+    "carbohydrates": "3.30",
+    "protein": "9.08",
+    "fat": "9.54",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Mutton korma",
+    "calories": "115.64",
+    "carbohydrates": "2.53",
+    "protein": "7.09",
+    "fat": "8.54",
+    "fibre": "0.78"
+  },
+  {
+    "name": "Shahi keema kofta curry",
+    "calories": "418.13",
+    "carbohydrates": "1.73",
+    "protein": "4.14",
+    "fat": "43.83",
+    "fibre": "0.91"
+  },
+  {
+    "name": "Minced meat ball curry",
+    "calories": "109.79",
+    "carbohydrates": "2.86",
+    "protein": "6.82",
+    "fat": "7.85",
+    "fibre": "1.49"
+  },
+  {
+    "name": "Boti kebab",
+    "calories": "132.86",
+    "carbohydrates": "3.06",
+    "protein": "9.22",
+    "fat": "9.27",
+    "fibre": "0.76"
+  },
+  {
+    "name": "Mutton seekh kebab",
+    "calories": "133.94",
+    "carbohydrates": "3.11",
+    "protein": "11.25",
+    "fat": "8.43",
+    "fibre": "1.88"
+  },
+  {
+    "name": "Indian lamb and egg curry (Nargisi kofta)",
+    "calories": "335.75",
+    "carbohydrates": "2.07",
+    "protein": "3.84",
+    "fat": "34.70",
+    "fibre": "0.60"
+  },
+  {
+    "name": "Soya chunks sweet and sour (Nutrinugget sweet and sour)",
+    "calories": "500.94",
+    "carbohydrates": "3.27",
+    "protein": "2.85",
+    "fat": "55.99",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Soya chunks korma (Nutrinugget korma)",
+    "calories": "131.43",
+    "carbohydrates": "7.67",
+    "protein": "3.86",
+    "fat": "9.50",
+    "fibre": "2.57"
+  },
+  {
+    "name": "Mushroom matar",
+    "calories": "70.77",
+    "carbohydrates": "5.33",
+    "protein": "2.79",
+    "fat": "4.11",
+    "fibre": "3.13"
+  },
+  {
+    "name": "Soya chunks and peas (Nutrinugget matar)",
+    "calories": "82.62",
+    "carbohydrates": "5.82",
+    "protein": "3.03",
+    "fat": "5.11",
+    "fibre": "2.86"
+  },
+  {
+    "name": "Vegetable yakhni",
+    "calories": "406.06",
+    "carbohydrates": "1.94",
+    "protein": "1.18",
+    "fat": "43.80",
+    "fibre": "0.61"
+  },
+  {
+    "name": "Spinach mushroom (Palak mushroom)",
+    "calories": "47.63",
+    "carbohydrates": "2.95",
+    "protein": "1.94",
+    "fat": "2.96",
+    "fibre": "2.27"
+  },
+  {
+    "name": "Vegetarian nargisi kofta curry",
+    "calories": "332.15",
+    "carbohydrates": "6.58",
+    "protein": "2.29",
+    "fat": "32.94",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Roast chicken",
+    "calories": "199.90",
+    "carbohydrates": "0.10",
+    "protein": "20.49",
+    "fat": "13.06",
+    "fibre": "0.03"
+  },
+  {
+    "name": "Shahi chicken masala",
+    "calories": "163.70",
+    "carbohydrates": "4.07",
+    "protein": "9.82",
+    "fat": "12.02",
+    "fibre": "0.96"
+  },
+  {
+    "name": "Tomato chicken",
+    "calories": "111.68",
+    "carbohydrates": "2.13",
+    "protein": "10.57",
+    "fat": "6.71",
+    "fibre": "1.42"
+  },
+  {
+    "name": "Creamy chicken",
+    "calories": "152.87",
+    "carbohydrates": "3.13",
+    "protein": "13.52",
+    "fat": "9.57",
+    "fibre": "0.69"
+  },
+  {
+    "name": "Broccoli chicken ala king",
+    "calories": "119.56",
+    "carbohydrates": "5.34",
+    "protein": "7.97",
+    "fat": "7.57",
+    "fibre": "1.92"
+  },
+  {
+    "name": "Ginger chicken",
+    "calories": "129.17",
+    "carbohydrates": "5.60",
+    "protein": "8.24",
+    "fat": "8.24",
+    "fibre": "1.21"
+  },
+  {
+    "name": "Chicken sweet and sour",
+    "calories": "445.09",
+    "carbohydrates": "2.67",
+    "protein": "6.92",
+    "fat": "47.59",
+    "fibre": "0.58"
+  },
+  {
+    "name": "Chicken korma",
+    "calories": "147.96",
+    "carbohydrates": "5.43",
+    "protein": "9.83",
+    "fat": "9.67",
+    "fibre": "1.82"
+  },
+  {
+    "name": "Bengal fish curry (Bengali machli curry)",
+    "calories": "109.43",
+    "carbohydrates": "4.42",
+    "protein": "7.26",
+    "fat": "7.03",
+    "fibre": "1.93"
+  },
+  {
+    "name": "Fish finger",
+    "calories": "542.90",
+    "carbohydrates": "4.47",
+    "protein": "5.66",
+    "fat": "55.82",
+    "fibre": "0.34"
+  },
+  {
+    "name": "Fish in coconut milk (Nariyal ke doodh ke saath machli)",
+    "calories": "86.21",
+    "carbohydrates": "2.73",
+    "protein": "8.66",
+    "fat": "4.43",
+    "fibre": "1.52"
+  },
+  {
+    "name": "Prawn curry (with coconut) (Jhinga curry)",
+    "calories": "109.55",
+    "carbohydrates": "3.10",
+    "protein": "8.54",
+    "fat": "6.93",
+    "fibre": "1.56"
+  },
+  {
+    "name": "Baked stuffed fish",
+    "calories": "121.96",
+    "carbohydrates": "2.12",
+    "protein": "16.14",
+    "fat": "5.43",
+    "fibre": "0.38"
+  },
+  {
+    "name": "Fish pie",
+    "calories": "120.90",
+    "carbohydrates": "7.74",
+    "protein": "9.25",
+    "fat": "5.77",
+    "fibre": "0.76"
+  },
+  {
+    "name": "Crispy baked fish",
+    "calories": "138.40",
+    "carbohydrates": "9.59",
+    "protein": "10.95",
+    "fat": "6.41",
+    "fibre": "1.21"
+  },
+  {
+    "name": "Fish souffle",
+    "calories": "139.71",
+    "carbohydrates": "5.14",
+    "protein": "10.51",
+    "fat": "8.55",
+    "fibre": "0.19"
+  },
+  {
+    "name": "Potato curry (Aloo ki sabzi)",
+    "calories": "89.56",
+    "carbohydrates": "10.42",
+    "protein": "1.52",
+    "fat": "4.47",
+    "fibre": "2.42"
+  },
+  {
+    "name": "Egg curry (Anda curry)",
+    "calories": "117.52",
+    "carbohydrates": "4.03",
+    "protein": "5.38",
+    "fat": "8.81",
+    "fibre": "2.09"
+  },
+  {
+    "name": "Vegetable curry with coconut ",
+    "calories": "83.07",
+    "carbohydrates": "7.19",
+    "protein": "2.77",
+    "fat": "4.66",
+    "fibre": "3.35"
+  },
+  {
+    "name": "Curd with potatoes (Dahi aloo)",
+    "calories": "59.90",
+    "carbohydrates": "7.15",
+    "protein": "1.56",
+    "fat": "2.72",
+    "fibre": "1.19"
+  },
+  {
+    "name": "Potato kofta curry (Aloo kofta curry)",
+    "calories": "455.40",
+    "carbohydrates": "2.78",
+    "protein": "0.56",
+    "fat": "49.08",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Yam kofta curry (Zimikand/Suran kofta curry)",
+    "calories": "322.88",
+    "carbohydrates": "3.75",
+    "protein": "0.71",
+    "fat": "33.84",
+    "fibre": "1.04"
+  },
+  {
+    "name": "Jackfruit kofta curry (Kathal ka kofta curry)",
+    "calories": "321.08",
+    "carbohydrates": "3.17",
+    "protein": "0.80",
+    "fat": "33.83",
+    "fibre": "0.96"
+  },
+  {
+    "name": "Spinach and potato (Palak aloo)",
+    "calories": "57.17",
+    "carbohydrates": "5.91",
+    "protein": "1.63",
+    "fat": "2.82",
+    "fibre": "2.04"
+  },
+  {
+    "name": "Mooli bhujia",
+    "calories": "91.20",
+    "carbohydrates": "4.74",
+    "protein": "1.69",
+    "fat": "7.25",
+    "fibre": "2.36"
+  },
+  {
+    "name": "Bathua bhujia",
+    "calories": "90.90",
+    "carbohydrates": "3.63",
+    "protein": "2.26",
+    "fat": "7.29",
+    "fibre": "3.80"
+  },
+  {
+    "name": "Cabbage rolls (dry) ((Pattagobhi rolls) (dry))",
+    "calories": "142.48",
+    "carbohydrates": "6.09",
+    "protein": "8.21",
+    "fat": "9.36",
+    "fibre": "1.84"
+  },
+  {
+    "name": "Cabbage rolls (curry) ((Pattagobhi rolls)(curry))",
+    "calories": "124.63",
+    "carbohydrates": "7.03",
+    "protein": "5.76",
+    "fat": "8.17",
+    "fibre": "2.35"
+  },
+  {
+    "name": "Dry arbi (Sookhi arbi)",
+    "calories": "134.95",
+    "carbohydrates": "11.11",
+    "protein": "2.12",
+    "fat": "8.97",
+    "fibre": "2.47"
+  },
+  {
+    "name": "Masala arbi",
+    "calories": "185.38",
+    "carbohydrates": "16.16",
+    "protein": "3.01",
+    "fat": "11.90",
+    "fibre": "3.10"
+  },
+  {
+    "name": "Peas brinjal bhartha (Matar baingan bhartha)",
+    "calories": "84.55",
+    "carbohydrates": "5.02",
+    "protein": "2.05",
+    "fat": "6.05",
+    "fibre": "3.63"
+  },
+  {
+    "name": "Okra/Lady's fingers fry (Bhindi sabzi/sabji/subji)",
+    "calories": "110.81",
+    "carbohydrates": "4.50",
+    "protein": "1.83",
+    "fat": "9.27",
+    "fibre": "3.57"
+  },
+  {
+    "name": "Crispy okra/Crispy lady's fingers (Karare bhindi)",
+    "calories": "657.76",
+    "carbohydrates": "4.35",
+    "protein": "1.91",
+    "fat": "70.40",
+    "fibre": "1.75"
+  },
+  {
+    "name": "Beans foogath",
+    "calories": "105.06",
+    "carbohydrates": "3.26",
+    "protein": "2.03",
+    "fat": "9.22",
+    "fibre": "4.15"
+  },
+  {
+    "name": "Stuffed bittergourd (wet) (Bharwa karele)",
+    "calories": "162.36",
+    "carbohydrates": "4.68",
+    "protein": "1.36",
+    "fat": "15.24",
+    "fibre": "2.86"
+  },
+  {
+    "name": "Jackfruit/Kathal (dry)",
+    "calories": "488.97",
+    "carbohydrates": "4.56",
+    "protein": "0.93",
+    "fat": "51.78",
+    "fibre": "1.33"
+  },
+  {
+    "name": "Yam fried (Zimikand/Suran fried)",
+    "calories": "491.76",
+    "carbohydrates": "5.47",
+    "protein": "0.79",
+    "fat": "51.79",
+    "fibre": "1.44"
+  },
+  {
+    "name": "Cauliflower, pea and potato bhujia (Phoolgobhi, matar aur aloo bhujia)",
+    "calories": "95.67",
+    "carbohydrates": "8.23",
+    "protein": "2.75",
+    "fat": "5.54",
+    "fibre": "3.26"
+  },
+  {
+    "name": "Vegetable jalfrezi",
+    "calories": "68.48",
+    "carbohydrates": "5.43",
+    "protein": "1.40",
+    "fat": "4.38",
+    "fibre": "2.97"
+  },
+  {
+    "name": "Vegetables stir fry ",
+    "calories": "30.78",
+    "carbohydrates": "3.19",
+    "protein": "1.04",
+    "fat": "1.47",
+    "fibre": "1.37"
+  },
+  {
+    "name": "Broccoli delight",
+    "calories": "40.70",
+    "carbohydrates": "2.34",
+    "protein": "2.49",
+    "fat": "2.48",
+    "fibre": "2.83"
+  },
+  {
+    "name": "Dhansak (vegetarian)",
+    "calories": "82.80",
+    "carbohydrates": "7.28",
+    "protein": "3.32",
+    "fat": "4.18",
+    "fibre": "4.17"
+  },
+  {
+    "name": "Cauliflower basket",
+    "calories": "90.95",
+    "carbohydrates": "3.97",
+    "protein": "5.21",
+    "fat": "5.88",
+    "fibre": "2.40"
+  },
+  {
+    "name": "Stuffed bottle gourd (Stuffed ghiya/lauki)",
+    "calories": "93.19",
+    "carbohydrates": "4.36",
+    "protein": "5.84",
+    "fat": "5.80",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Ducheese potato",
+    "calories": "140.54",
+    "carbohydrates": "10.94",
+    "protein": "3.60",
+    "fat": "9.01",
+    "fibre": "1.29"
+  },
+  {
+    "name": "Roast potatoes ",
+    "calories": "87.32",
+    "carbohydrates": "14.52",
+    "protein": "1.53",
+    "fat": "2.35",
+    "fibre": "1.71"
+  },
+  {
+    "name": "Stuffed baked potatoes ",
+    "calories": "100.20",
+    "carbohydrates": "11.03",
+    "protein": "3.82",
+    "fat": "4.39",
+    "fibre": "1.31"
+  },
+  {
+    "name": "Potato nests",
+    "calories": "111.62",
+    "carbohydrates": "11.05",
+    "protein": "5.71",
+    "fat": "4.77",
+    "fibre": "2.49"
+  },
+  {
+    "name": "Parsley potato",
+    "calories": "119.51",
+    "carbohydrates": "13.81",
+    "protein": "1.49",
+    "fat": "6.28",
+    "fibre": "1.59"
+  },
+  {
+    "name": "Creamed spinach and mushroom",
+    "calories": "419.62",
+    "carbohydrates": "3.17",
+    "protein": "2.28",
+    "fat": "44.14",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Fricassee of Mushroom",
+    "calories": "106.66",
+    "carbohydrates": "8.13",
+    "protein": "3.65",
+    "fat": "6.63",
+    "fibre": "1.23"
+  },
+  {
+    "name": "Cauliflower au gratin",
+    "calories": "145.90",
+    "carbohydrates": "9.13",
+    "protein": "4.45",
+    "fat": "10.20",
+    "fibre": "1.44"
+  },
+  {
+    "name": "Vegetable and cheese pie",
+    "calories": "126.88",
+    "carbohydrates": "8.76",
+    "protein": "4.03",
+    "fat": "8.28",
+    "fibre": "1.91"
+  },
+  {
+    "name": "Spinach souffle ",
+    "calories": "150.18",
+    "carbohydrates": "6.27",
+    "protein": "7.36",
+    "fat": "10.52",
+    "fibre": "1.44"
+  },
+  {
+    "name": "Beetroot and egg salad (Chukandar aur ande ka salad)",
+    "calories": "84.92",
+    "carbohydrates": "3.40",
+    "protein": "3.36",
+    "fat": "6.45",
+    "fibre": "0.55"
+  },
+  {
+    "name": "Sour cream potato salad",
+    "calories": "121.90",
+    "carbohydrates": "9.05",
+    "protein": "2.89",
+    "fat": "8.13",
+    "fibre": "1.21"
+  },
+  {
+    "name": "Tossed green salad",
+    "calories": "49.88",
+    "carbohydrates": "3.82",
+    "protein": "1.33",
+    "fat": "3.24",
+    "fibre": "1.33"
+  },
+  {
+    "name": "Spring basket salad",
+    "calories": "160.46",
+    "carbohydrates": "11.61",
+    "protein": "3.36",
+    "fat": "11.30",
+    "fibre": "3.09"
+  },
+  {
+    "name": "Cucumber and yogurt salad (Kheere aur dahi ka salad)",
+    "calories": "36.13",
+    "carbohydrates": "4.72",
+    "protein": "2.09",
+    "fat": "0.93",
+    "fibre": "1.66"
+  },
+  {
+    "name": "Chicken and tomato towers",
+    "calories": "100.55",
+    "carbohydrates": "2.36",
+    "protein": "6.90",
+    "fat": "6.99",
+    "fibre": "1.14"
+  },
+  {
+    "name": "Jellied sunshine fruit salad",
+    "calories": "48.86",
+    "carbohydrates": "4.21",
+    "protein": "5.85",
+    "fat": "0.85",
+    "fibre": "1.80"
+  },
+  {
+    "name": "Tomato aspic",
+    "calories": "50.37",
+    "carbohydrates": "5.02",
+    "protein": "6.87",
+    "fat": "0.26",
+    "fibre": "1.58"
+  },
+  {
+    "name": "Frozen frosty fruit salad (Phalon ka salaad)",
+    "calories": "103.51",
+    "carbohydrates": "15.61",
+    "protein": "1.68",
+    "fat": "4.17",
+    "fibre": "0.26"
+  },
+  {
+    "name": "French dressing",
+    "calories": "733.77",
+    "carbohydrates": "3.68",
+    "protein": "0.32",
+    "fat": "79.65",
+    "fibre": "0.22"
+  },
+  {
+    "name": "Mayonnaise without eggs",
+    "calories": "329.05",
+    "carbohydrates": "3.98",
+    "protein": "2.13",
+    "fat": "33.84",
+    "fibre": "0.04"
+  },
+  {
+    "name": "Curd dressing ",
+    "calories": "78.80",
+    "carbohydrates": "8.03",
+    "protein": "5.59",
+    "fat": "2.90",
+    "fibre": "0.22"
+  },
+  {
+    "name": "Carrot raita (Gajar ka raita)",
+    "calories": "64.78",
+    "carbohydrates": "7.19",
+    "protein": "4.14",
+    "fat": "2.19",
+    "fibre": "1.69"
+  },
+  {
+    "name": "Pumpkin raita (Kaddu ka raita)",
+    "calories": "55.60",
+    "carbohydrates": "6.02",
+    "protein": "3.74",
+    "fat": "1.88",
+    "fibre": "1.04"
+  },
+  {
+    "name": "Mint and peanut raita (Pudinay aur moongfali ka raita)",
+    "calories": "112.05",
+    "carbohydrates": "7.31",
+    "protein": "7.05",
+    "fat": "6.19",
+    "fibre": "1.79"
+  },
+  {
+    "name": "Spinach raita (Palak ka raita)",
+    "calories": "52.75",
+    "carbohydrates": "5.06",
+    "protein": "3.95",
+    "fat": "1.86",
+    "fibre": "1.39"
+  },
+  {
+    "name": "Bathua raita",
+    "calories": "54.40",
+    "carbohydrates": "5.31",
+    "protein": "4.13",
+    "fat": "1.76",
+    "fibre": "2.19"
+  },
+  {
+    "name": "Pineapple raita (Ananas ka raita)",
+    "calories": "67.74",
+    "carbohydrates": "8.62",
+    "protein": "3.90",
+    "fat": "2.02",
+    "fibre": "1.39"
+  },
+  {
+    "name": "Banana raita (Kele ka raita)",
+    "calories": "89.03",
+    "carbohydrates": "13.51",
+    "protein": "4.13",
+    "fat": "2.07",
+    "fibre": "1.00"
+  },
+  {
+    "name": "Mango raita (Aam ka raita)",
+    "calories": "67.37",
+    "carbohydrates": "8.23",
+    "protein": "3.90",
+    "fat": "2.14",
+    "fibre": "0.89"
+  },
+  {
+    "name": "Guava raita (Amarood ka raita)",
+    "calories": "64.36",
+    "carbohydrates": "7.27",
+    "protein": "4.19",
+    "fat": "2.07",
+    "fibre": "3.00"
+  },
+  {
+    "name": "Grapes raita (Angoor ka raita)",
+    "calories": "72.59",
+    "carbohydrates": "9.66",
+    "protein": "3.98",
+    "fat": "2.07",
+    "fibre": "0.71"
+  },
+  {
+    "name": "Bottle gourd kheer (Ghiya/Lauki kheer)",
+    "calories": "84.07",
+    "carbohydrates": "10.00",
+    "protein": "2.70",
+    "fat": "3.86",
+    "fibre": "0.55"
+  },
+  {
+    "name": "Pumpkin kheer (Kaddu ki kheer)",
+    "calories": "86.35",
+    "carbohydrates": "10.44",
+    "protein": "2.76",
+    "fat": "3.86",
+    "fibre": "0.63"
+  },
+  {
+    "name": "Apple kheer (Seb ki kheer)",
+    "calories": "81.30",
+    "carbohydrates": "11.34",
+    "protein": "2.14",
+    "fat": "3.18",
+    "fibre": "0.51"
+  },
+  {
+    "name": "Caramel custard (baked)",
+    "calories": "122.70",
+    "carbohydrates": "14.95",
+    "protein": "5.11",
+    "fat": "5.01",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Vanilla ice cream without egg",
+    "calories": "228.67",
+    "carbohydrates": "14.21",
+    "protein": "2.69",
+    "fat": "18.15",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Vanilla ice cream with egg",
+    "calories": "214.85",
+    "carbohydrates": "11.71",
+    "protein": "4.16",
+    "fat": "17.02",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Strawberry ice cream",
+    "calories": "215.61",
+    "carbohydrates": "12.26",
+    "protein": "4.15",
+    "fat": "16.96",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Chocochip ice cream",
+    "calories": "241.45",
+    "carbohydrates": "16.75",
+    "protein": "4.23",
+    "fat": "17.93",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Choconut ice cream",
+    "calories": "273.96",
+    "carbohydrates": "23.13",
+    "protein": "5.04",
+    "fat": "18.49",
+    "fibre": "0.51"
+  },
+  {
+    "name": "Pear chocholate sunday",
+    "calories": "183.49",
+    "carbohydrates": "15.02",
+    "protein": "2.08",
+    "fat": "13.11",
+    "fibre": "0.07"
+  },
+  {
+    "name": "Chocolate sauce",
+    "calories": "263.20",
+    "carbohydrates": "43.21",
+    "protein": "1.91",
+    "fat": "10.39",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Coffee ice cream",
+    "calories": "150.62",
+    "carbohydrates": "14.09",
+    "protein": "3.15",
+    "fat": "9.43",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Coffee pear alaska",
+    "calories": "203.99",
+    "carbohydrates": "19.36",
+    "protein": "2.88",
+    "fat": "13.22",
+    "fibre": "0.15"
+  },
+  {
+    "name": "Crunchy butterscotch",
+    "calories": "277.32",
+    "carbohydrates": "19.92",
+    "protein": "3.11",
+    "fat": "20.99",
+    "fibre": "0.47"
+  },
+  {
+    "name": "Peach melba ice cream",
+    "calories": "200.85",
+    "carbohydrates": "16.31",
+    "protein": "2.06",
+    "fat": "14.51",
+    "fibre": "0.06"
+  },
+  {
+    "name": "Vanilla ice cream with apples in hot cherry sauce",
+    "calories": "196.32",
+    "carbohydrates": "22.75",
+    "protein": "1.73",
+    "fat": "11.45",
+    "fibre": "0.26"
+  },
+  {
+    "name": "Grape and orange whip",
+    "calories": "57.39",
+    "carbohydrates": "6.72",
+    "protein": "1.41",
+    "fat": "2.62",
+    "fibre": "0.97"
+  },
+  {
+    "name": "Honey banana cream",
+    "calories": "125.49",
+    "carbohydrates": "13.64",
+    "protein": "2.78",
+    "fat": "6.68",
+    "fibre": "0.70"
+  },
+  {
+    "name": "Raspberry bavarian cream",
+    "calories": "150.10",
+    "carbohydrates": "17.82",
+    "protein": "3.34",
+    "fat": "7.88",
+    "fibre": "2.19"
+  },
+  {
+    "name": "Fruit delight",
+    "calories": "107.09",
+    "carbohydrates": "9.11",
+    "protein": "2.09",
+    "fat": "7.09",
+    "fibre": "0.09"
+  },
+  {
+    "name": "Creamy chocolate mousse",
+    "calories": "230.52",
+    "carbohydrates": "9.53",
+    "protein": "6.85",
+    "fat": "18.16",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cold lemon souffle",
+    "calories": "169.87",
+    "carbohydrates": "15.62",
+    "protein": "5.89",
+    "fat": "9.78",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cold orange souffle",
+    "calories": "173.19",
+    "carbohydrates": "16.27",
+    "protein": "5.94",
+    "fat": "9.82",
+    "fibre": "0.11"
+  },
+  {
+    "name": "Cold pineapple souffle",
+    "calories": "181.22",
+    "carbohydrates": "16.85",
+    "protein": "6.23",
+    "fat": "10.39",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cold vanilla souffle",
+    "calories": "179.54",
+    "carbohydrates": "16.29",
+    "protein": "6.22",
+    "fat": "10.32",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Cold chocolate souffle",
+    "calories": "187.53",
+    "carbohydrates": "17.22",
+    "protein": "6.37",
+    "fat": "10.86",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Stewed fruit (with pear)",
+    "calories": "74.32",
+    "carbohydrates": "18.22",
+    "protein": "0.25",
+    "fat": "0.32",
+    "fibre": "2.84"
+  },
+  {
+    "name": "Apricot fool",
+    "calories": "240.79",
+    "carbohydrates": "33.64",
+    "protein": "1.54",
+    "fat": "11.35",
+    "fibre": "1.00"
+  },
+  {
+    "name": "Pavlova",
+    "calories": "200.60",
+    "carbohydrates": "21.84",
+    "protein": "1.84",
+    "fat": "12.29",
+    "fibre": "0.06"
+  },
+  {
+    "name": "Apple crumb pudding",
+    "calories": "220.85",
+    "carbohydrates": "35.17",
+    "protein": "1.54",
+    "fat": "8.87",
+    "fibre": "1.33"
+  },
+  {
+    "name": "Steamed cake with chocolate sauce",
+    "calories": "301.91",
+    "carbohydrates": "29.06",
+    "protein": "4.49",
+    "fat": "19.01",
+    "fibre": "0.29"
+  },
+  {
+    "name": "Hot lemon souffle",
+    "calories": "155.25",
+    "carbohydrates": "16.31",
+    "protein": "5.29",
+    "fat": "7.93",
+    "fibre": "0.14"
+  },
+  {
+    "name": "Gulab jamun with milk powder",
+    "calories": "471.15",
+    "carbohydrates": "28.24",
+    "protein": "0.85",
+    "fat": "40.15",
+    "fibre": "0.05"
+  },
+  {
+    "name": "Chum chum",
+    "calories": "130.05",
+    "carbohydrates": "28.27",
+    "protein": "1.52",
+    "fat": "1.92",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Dil bahar",
+    "calories": "130.05",
+    "carbohydrates": "28.27",
+    "protein": "1.52",
+    "fat": "1.92",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Rasbhari",
+    "calories": "130.05",
+    "carbohydrates": "28.27",
+    "protein": "1.52",
+    "fat": "1.92",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Rajbogh",
+    "calories": "133.70",
+    "carbohydrates": "28.16",
+    "protein": "1.71",
+    "fat": "2.28",
+    "fibre": "0.11"
+  },
+  {
+    "name": "Rasgulla",
+    "calories": "118.64",
+    "carbohydrates": "25.79",
+    "protein": "1.38",
+    "fat": "1.75",
+    "fibre": "0.01"
+  },
+  {
+    "name": "Rasmalai",
+    "calories": "135.55",
+    "carbohydrates": "29.17",
+    "protein": "1.61",
+    "fat": "2.11",
+    "fibre": "0.07"
+  },
+  {
+    "name": "Khoa coconut burfi",
+    "calories": "411.45",
+    "carbohydrates": "36.55",
+    "protein": "9.98",
+    "fat": "26.01",
+    "fibre": "4.07"
+  },
+  {
+    "name": "Danedar burfi",
+    "calories": "102.68",
+    "carbohydrates": "12.33",
+    "protein": "3.24",
+    "fat": "4.72",
+    "fibre": "0.09"
+  },
+  {
+    "name": "Semolina burfi (Suji/Rava burfi)",
+    "calories": "348.67",
+    "carbohydrates": "47.10",
+    "protein": "3.47",
+    "fat": "16.86",
+    "fibre": "2.80"
+  },
+  {
+    "name": "Pumpkin coconut burfi (Kaddu aur nariyal ki burfi)",
+    "calories": "186.18",
+    "carbohydrates": "17.02",
+    "protein": "1.75",
+    "fat": "12.66",
+    "fibre": "4.29"
+  },
+  {
+    "name": "Khoa ladoo",
+    "calories": "396.02",
+    "carbohydrates": "34.43",
+    "protein": "12.21",
+    "fat": "24.09",
+    "fibre": "3.08"
+  },
+  {
+    "name": "Wheat and gram flour ladoo (Atta besan ladoo)",
+    "calories": "501.70",
+    "carbohydrates": "50.50",
+    "protein": "9.38",
+    "fat": "29.86",
+    "fibre": "6.01"
+  },
+  {
+    "name": "Semolina ladoo with nuts (Suji/Rava ladoo with nuts)",
+    "calories": "441.84",
+    "carbohydrates": "48.02",
+    "protein": "5.44",
+    "fat": "25.45",
+    "fibre": "4.27"
+  },
+  {
+    "name": "Sesame chickpeas brittle (Til aur channe ki chikki)",
+    "calories": "282.74",
+    "carbohydrates": "50.49",
+    "protein": "8.50",
+    "fat": "4.66",
+    "fibre": "5.54"
+  },
+  {
+    "name": "Murmura chikki",
+    "calories": "253.82",
+    "carbohydrates": "59.59",
+    "protein": "2.12",
+    "fat": "0.32",
+    "fibre": "0.37"
+  },
+  {
+    "name": "Masala onion pakora/pakoda (Pyaaz ke pakode)",
+    "calories": "551.64",
+    "carbohydrates": "6.48",
+    "protein": "2.05",
+    "fat": "57.61",
+    "fibre": "1.44"
+  },
+  {
+    "name": "Masala green chilli pakora/pakoda (Hari mirch kay pakode)",
+    "calories": "668.76",
+    "carbohydrates": "5.55",
+    "protein": "2.22",
+    "fat": "71.01",
+    "fibre": "1.34"
+  },
+  {
+    "name": "Chicken pakora/pakoda",
+    "calories": "590.09",
+    "carbohydrates": "4.55",
+    "protein": "6.03",
+    "fat": "60.98",
+    "fibre": "0.96"
+  },
+  {
+    "name": "Fish pakora/pakoda",
+    "calories": "577.03",
+    "carbohydrates": "4.55",
+    "protein": "5.97",
+    "fat": "59.52",
+    "fibre": "0.96"
+  },
+  {
+    "name": "Paneer cutlet",
+    "calories": "672.20",
+    "carbohydrates": "7.62",
+    "protein": "4.59",
+    "fat": "69.38",
+    "fibre": "0.39"
+  },
+  {
+    "name": "Sago cutlet/vadas (Sabudana cutlet/vadas)",
+    "calories": "558.76",
+    "carbohydrates": "11.23",
+    "protein": "0.56",
+    "fat": "56.97",
+    "fibre": "0.54"
+  },
+  {
+    "name": "Poshtik cutlet",
+    "calories": "496.45",
+    "carbohydrates": "7.39",
+    "protein": "2.00",
+    "fat": "50.94",
+    "fibre": "1.35"
+  },
+  {
+    "name": "Egg cutlet (Anda cutlet)",
+    "calories": "575.02",
+    "carbohydrates": "5.77",
+    "protein": "2.45",
+    "fat": "60.25",
+    "fibre": "0.58"
+  },
+  {
+    "name": "Minced meat cutlet",
+    "calories": "531.86",
+    "carbohydrates": "5.61",
+    "protein": "5.10",
+    "fat": "54.47",
+    "fibre": "0.40"
+  },
+  {
+    "name": "Vegetable samosa",
+    "calories": "443.11",
+    "carbohydrates": "13.22",
+    "protein": "2.21",
+    "fat": "42.22",
+    "fibre": "1.52"
+  },
+  {
+    "name": "Plain urad dal vada (Uzunne vada/Minapa garelu/Ulundu vadai/Medu vada)",
+    "calories": "745.50",
+    "carbohydrates": "9.70",
+    "protein": "4.39",
+    "fat": "76.32",
+    "fibre": "2.27"
+  },
+  {
+    "name": "Masala urad dal vada",
+    "calories": "703.78",
+    "carbohydrates": "9.93",
+    "protein": "4.32",
+    "fat": "71.62",
+    "fibre": "2.71"
+  },
+  {
+    "name": "Khaman (dhokla)",
+    "calories": "54.73",
+    "carbohydrates": "5.36",
+    "protein": "1.92",
+    "fat": "2.80",
+    "fibre": "1.49"
+  },
+  {
+    "name": "Instant dhokla",
+    "calories": "207.11",
+    "carbohydrates": "24.11",
+    "protein": "7.66",
+    "fat": "9.37",
+    "fibre": "3.57"
+  },
+  {
+    "name": "Tomato ginger chutney (Tamatar adarak ki chutney)",
+    "calories": "44.66",
+    "carbohydrates": "9.11",
+    "protein": "1.05",
+    "fat": "0.32",
+    "fibre": "2.14"
+  },
+  {
+    "name": "Mint tomato chutney (Pudinay aur tamatar ki chutney)",
+    "calories": "43.65",
+    "carbohydrates": "8.22",
+    "protein": "1.53",
+    "fat": "0.36",
+    "fibre": "2.63"
+  },
+  {
+    "name": "Coriander chutney (Hare dhaniye ki chutney)",
+    "calories": "42.86",
+    "carbohydrates": "8.16",
+    "protein": "1.38",
+    "fat": "0.37",
+    "fibre": "2.47"
+  },
+  {
+    "name": "Gooseberry chutney (Amla chutney)",
+    "calories": "43.02",
+    "carbohydrates": "8.83",
+    "protein": "1.44",
+    "fat": "0.62",
+    "fibre": "4.58"
+  },
+  {
+    "name": "Walnut chutney (Akhrot ki chutney)",
+    "calories": "370.43",
+    "carbohydrates": "8.91",
+    "protein": "9.44",
+    "fat": "33.46",
+    "fibre": "3.04"
+  },
+  {
+    "name": "Saunth/Sonth chutney with ginger",
+    "calories": "84.22",
+    "carbohydrates": "20.62",
+    "protein": "0.28",
+    "fat": "0.11",
+    "fibre": "0.31"
+  },
+  {
+    "name": "Gun powder chutney",
+    "calories": "312.34",
+    "carbohydrates": "47.65",
+    "protein": "21.55",
+    "fat": "2.67",
+    "fibre": "13.95"
+  },
+  {
+    "name": "Dessicated coconut chutney (Sookhe kase nariyal ki chutney) ",
+    "calories": "346.36",
+    "carbohydrates": "36.72",
+    "protein": "12.88",
+    "fat": "15.88",
+    "fibre": "13.16"
+  },
+  {
+    "name": "Curd mint dip ",
+    "calories": "76.13",
+    "carbohydrates": "9.11",
+    "protein": "4.82",
+    "fat": "2.44",
+    "fibre": "0.77"
+  },
+  {
+    "name": "Curd vegetable dip",
+    "calories": "56.21",
+    "carbohydrates": "6.04",
+    "protein": "3.88",
+    "fat": "1.94",
+    "fibre": "0.63"
+  },
+  {
+    "name": "Mayonnaise vegetable dip",
+    "calories": "241.27",
+    "carbohydrates": "4.80",
+    "protein": "3.01",
+    "fat": "23.44",
+    "fibre": "0.41"
+  },
+  {
+    "name": "Tomato and cucumber sandwich (Tamatar aur kheere ka sandwich)",
+    "calories": "150.68",
+    "carbohydrates": "20.51",
+    "protein": "4.03",
+    "fat": "6.31",
+    "fibre": "2.10"
+  },
+  {
+    "name": "Tomato sandwich (grilled)",
+    "calories": "189.92",
+    "carbohydrates": "21.29",
+    "protein": "6.26",
+    "fat": "9.39",
+    "fibre": "1.91"
+  },
+  {
+    "name": "French sandwich (toasted)",
+    "calories": "186.75",
+    "carbohydrates": "14.82",
+    "protein": "6.82",
+    "fat": "11.51",
+    "fibre": "1.37"
+  },
+  {
+    "name": "Peanut butter cucumber sandwich",
+    "calories": "243.33",
+    "carbohydrates": "29.76",
+    "protein": "9.04",
+    "fat": "10.56",
+    "fibre": "3.35"
+  },
+  {
+    "name": "Mint and peanut sandwich",
+    "calories": "273.59",
+    "carbohydrates": "31.83",
+    "protein": "7.18",
+    "fat": "13.88",
+    "fibre": "3.67"
+  },
+  {
+    "name": "Spicy chutney sandwich",
+    "calories": "249.58",
+    "carbohydrates": "34.03",
+    "protein": "8.74",
+    "fat": "9.58",
+    "fibre": "3.73"
+  },
+  {
+    "name": "Chicken walnut sandwich (Chicken aur akhrot ke sandwich)",
+    "calories": "285.78",
+    "carbohydrates": "22.62",
+    "protein": "12.58",
+    "fat": "16.77",
+    "fibre": "1.53"
+  },
+  {
+    "name": "Rolled sandwich",
+    "calories": "293.07",
+    "carbohydrates": "34.69",
+    "protein": "6.45",
+    "fat": "15.29",
+    "fibre": "2.07"
+  },
+  {
+    "name": "Ribbon sandwich",
+    "calories": "239.26",
+    "carbohydrates": "24.76",
+    "protein": "6.26",
+    "fat": "13.37",
+    "fibre": "2.92"
+  },
+  {
+    "name": "Checker board sandwich",
+    "calories": "348.37",
+    "carbohydrates": "25.94",
+    "protein": "7.37",
+    "fat": "24.65",
+    "fibre": "2.22"
+  },
+  {
+    "name": "Submarine sandwich",
+    "calories": "216.92",
+    "carbohydrates": "13.60",
+    "protein": "6.09",
+    "fat": "15.32",
+    "fibre": "1.24"
+  },
+  {
+    "name": "Cheese open sandwich",
+    "calories": "274.07",
+    "carbohydrates": "28.42",
+    "protein": "9.84",
+    "fat": "14.24",
+    "fibre": "1.74"
+  },
+  {
+    "name": "Sunset and sunrise open sandwich",
+    "calories": "241.31",
+    "carbohydrates": "18.89",
+    "protein": "8.58",
+    "fat": "15.14",
+    "fibre": "1.39"
+  },
+  {
+    "name": "Danish luncheon sandwich",
+    "calories": "193.82",
+    "carbohydrates": "17.77",
+    "protein": "9.03",
+    "fat": "10.10",
+    "fibre": "1.52"
+  },
+  {
+    "name": "Chicken and corn open sandwich",
+    "calories": "188.16",
+    "carbohydrates": "19.21",
+    "protein": "8.63",
+    "fat": "8.83",
+    "fibre": "1.67"
+  },
+  {
+    "name": "Chocolate sponge cake",
+    "calories": "239.86",
+    "carbohydrates": "39.54",
+    "protein": "9.13",
+    "fat": "5.51",
+    "fibre": "0.52"
+  },
+  {
+    "name": "Chocolate swiss roll",
+    "calories": "306.08",
+    "carbohydrates": "26.97",
+    "protein": "6.01",
+    "fat": "19.76",
+    "fibre": "0.29"
+  },
+  {
+    "name": "Lemon curd filling",
+    "calories": "225.62",
+    "carbohydrates": "26.41",
+    "protein": "3.43",
+    "fat": "12.58",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Jam filling",
+    "calories": "184.62",
+    "carbohydrates": "46.15",
+    "protein": "0.00",
+    "fat": "0.00",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Chocolate pastry",
+    "calories": "243.37",
+    "carbohydrates": "32.24",
+    "protein": "7.05",
+    "fat": "10.12",
+    "fibre": "0.32"
+  },
+  {
+    "name": "Assorted pastry",
+    "calories": "230.74",
+    "carbohydrates": "31.99",
+    "protein": "6.78",
+    "fat": "8.91",
+    "fibre": "0.43"
+  },
+  {
+    "name": "Orange gateau",
+    "calories": "178.05",
+    "carbohydrates": "27.01",
+    "protein": "4.78",
+    "fat": "6.02",
+    "fibre": "0.68"
+  },
+  {
+    "name": "Black forest gateau",
+    "calories": "217.82",
+    "carbohydrates": "30.57",
+    "protein": "5.94",
+    "fat": "8.58",
+    "fibre": "0.28"
+  },
+  {
+    "name": "Lemon cake",
+    "calories": "373.85",
+    "carbohydrates": "43.10",
+    "protein": "5.29",
+    "fat": "20.63",
+    "fibre": "0.62"
+  },
+  {
+    "name": "Dundee cake",
+    "calories": "396.62",
+    "carbohydrates": "41.40",
+    "protein": "7.78",
+    "fat": "22.70",
+    "fibre": "1.81"
+  },
+  {
+    "name": "Victorian sandwich cake",
+    "calories": "373.09",
+    "carbohydrates": "44.74",
+    "protein": "5.18",
+    "fat": "19.83",
+    "fibre": "0.59"
+  },
+  {
+    "name": "Chocolate eggless cake",
+    "calories": "312.01",
+    "carbohydrates": "43.45",
+    "protein": "6.66",
+    "fat": "13.19",
+    "fibre": "0.32"
+  },
+  {
+    "name": "Orange eggless cake",
+    "calories": "355.62",
+    "carbohydrates": "52.65",
+    "protein": "7.16",
+    "fat": "13.82",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Chocolate glace icing",
+    "calories": "436.29",
+    "carbohydrates": "62.43",
+    "protein": "3.22",
+    "fat": "20.80",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Butter icing",
+    "calories": "500.72",
+    "carbohydrates": "71.64",
+    "protein": "0.19",
+    "fat": "25.37",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Chocolate butter icing",
+    "calories": "469.59",
+    "carbohydrates": "61.72",
+    "protein": "3.21",
+    "fat": "24.77",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Almond biscuit (Badam ke biscuit)",
+    "calories": "407.74",
+    "carbohydrates": "52.14",
+    "protein": "6.25",
+    "fat": "19.70",
+    "fibre": "1.50"
+  },
+  {
+    "name": "Orange biscuit",
+    "calories": "354.78",
+    "carbohydrates": "62.11",
+    "protein": "3.63",
+    "fat": "11.01",
+    "fibre": "0.75"
+  },
+  {
+    "name": "Gingerman biscuit",
+    "calories": "357.43",
+    "carbohydrates": "55.24",
+    "protein": "6.26",
+    "fat": "12.73",
+    "fibre": "2.00"
+  },
+  {
+    "name": "Coffee drops",
+    "calories": "443.07",
+    "carbohydrates": "43.06",
+    "protein": "7.57",
+    "fat": "27.16",
+    "fibre": "1.88"
+  },
+  {
+    "name": "Christmas biscuit",
+    "calories": "406.07",
+    "carbohydrates": "60.97",
+    "protein": "5.67",
+    "fat": "15.88",
+    "fibre": "2.17"
+  },
+  {
+    "name": "Christmas wreath biscuit",
+    "calories": "386.05",
+    "carbohydrates": "58.07",
+    "protein": "5.43",
+    "fat": "15.01",
+    "fibre": "2.28"
+  },
+  {
+    "name": "Christmas bell biscuit",
+    "calories": "404.85",
+    "carbohydrates": "60.79",
+    "protein": "5.66",
+    "fat": "15.84",
+    "fibre": "2.33"
+  },
+  {
+    "name": "Christmas star biscuit",
+    "calories": "392.03",
+    "carbohydrates": "74.54",
+    "protein": "3.54",
+    "fat": "10.04",
+    "fibre": "1.47"
+  },
+  {
+    "name": "Christmas tree biscuit",
+    "calories": "385.63",
+    "carbohydrates": "58.41",
+    "protein": "5.43",
+    "fat": "15.00",
+    "fibre": "2.65"
+  },
+  {
+    "name": "Chocolate cream shells",
+    "calories": "427.17",
+    "carbohydrates": "59.26",
+    "protein": "5.10",
+    "fat": "19.34",
+    "fibre": "0.90"
+  },
+  {
+    "name": "Jelly biscuit",
+    "calories": "404.61",
+    "carbohydrates": "55.24",
+    "protein": "4.23",
+    "fat": "19.33",
+    "fibre": "2.02"
+  },
+  {
+    "name": "Cherry and walnut cookies",
+    "calories": "422.60",
+    "carbohydrates": "59.35",
+    "protein": "5.63",
+    "fat": "18.75",
+    "fibre": "1.30"
+  },
+  {
+    "name": "Cheese straws",
+    "calories": "382.00",
+    "carbohydrates": "30.61",
+    "protein": "9.83",
+    "fat": "24.28",
+    "fibre": "1.29"
+  },
+  {
+    "name": "Butterfly biscuit",
+    "calories": "341.45",
+    "carbohydrates": "25.33",
+    "protein": "9.98",
+    "fat": "22.11",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Flan pastry",
+    "calories": "445.80",
+    "carbohydrates": "47.84",
+    "protein": "6.72",
+    "fat": "25.04",
+    "fibre": "1.58"
+  },
+  {
+    "name": "Fruit flan",
+    "calories": "261.35",
+    "carbohydrates": "34.71",
+    "protein": "3.30",
+    "fat": "12.48",
+    "fibre": "0.71"
+  },
+  {
+    "name": "Orange cream flan",
+    "calories": "280.28",
+    "carbohydrates": "36.16",
+    "protein": "4.73",
+    "fat": "13.59",
+    "fibre": "0.63"
+  },
+  {
+    "name": "Fruit puree tart",
+    "calories": "286.50",
+    "carbohydrates": "30.42",
+    "protein": "3.35",
+    "fat": "16.83",
+    "fibre": "1.31"
+  },
+  {
+    "name": "Apple banana pie",
+    "calories": "243.99",
+    "carbohydrates": "32.12",
+    "protein": "3.13",
+    "fat": "11.39",
+    "fibre": "1.89"
+  },
+  {
+    "name": "Lemon chiffon pie",
+    "calories": "259.31",
+    "carbohydrates": "27.63",
+    "protein": "4.88",
+    "fat": "14.52",
+    "fibre": "0.66"
+  },
+  {
+    "name": "Orange chiffon pie",
+    "calories": "207.57",
+    "carbohydrates": "23.14",
+    "protein": "3.89",
+    "fat": "11.16",
+    "fibre": "0.70"
+  },
+  {
+    "name": "Cream buns",
+    "calories": "215.74",
+    "carbohydrates": "14.16",
+    "protein": "4.45",
+    "fat": "15.81",
+    "fibre": "0.31"
+  },
+  {
+    "name": "Savoury puffs",
+    "calories": "190.79",
+    "carbohydrates": "10.80",
+    "protein": "9.51",
+    "fat": "15.24",
+    "fibre": "0.33"
+  },
+  {
+    "name": "Choux swans",
+    "calories": "216.34",
+    "carbohydrates": "14.92",
+    "protein": "4.35",
+    "fat": "15.60",
+    "fibre": "0.35"
+  },
+  {
+    "name": "Potato aigrettes",
+    "calories": "530.03",
+    "carbohydrates": "8.01",
+    "protein": "2.35",
+    "fat": "54.24",
+    "fibre": "0.45"
+  },
+  {
+    "name": "Cream horns",
+    "calories": "408.23",
+    "carbohydrates": "23.12",
+    "protein": "3.42",
+    "fat": "33.55",
+    "fibre": "0.60"
+  },
+  {
+    "name": "Savoury cheese horns",
+    "calories": "295.15",
+    "carbohydrates": "21.38",
+    "protein": "5.66",
+    "fat": "20.71",
+    "fibre": "0.73"
+  },
+  {
+    "name": "Paneer patties",
+    "calories": "338.58",
+    "carbohydrates": "22.79",
+    "protein": "7.60",
+    "fat": "23.96",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Vegetable patties ",
+    "calories": "261.92",
+    "carbohydrates": "20.98",
+    "protein": "4.01",
+    "fat": "17.74",
+    "fibre": "2.62"
+  },
+  {
+    "name": "Pearl millet infant food (Bajra shishu aahaar)",
+    "calories": "362.44",
+    "carbohydrates": "62.10",
+    "protein": "11.98",
+    "fat": "6.62",
+    "fibre": "7.84"
+  },
+  {
+    "name": "Sajina",
+    "calories": "345.26",
+    "carbohydrates": "66.87",
+    "protein": "10.81",
+    "fat": "3.03",
+    "fibre": "7.62"
+  },
+  {
+    "name": "Cereal mix ",
+    "calories": "120.81",
+    "carbohydrates": "21.84",
+    "protein": "3.32",
+    "fat": "2.02",
+    "fibre": "2.03"
+  },
+  {
+    "name": "Pulse mix",
+    "calories": "83.29",
+    "carbohydrates": "16.00",
+    "protein": "3.16",
+    "fat": "0.54",
+    "fibre": "2.25"
+  },
+  {
+    "name": "Shishu ahar",
+    "calories": "93.37",
+    "carbohydrates": "17.42",
+    "protein": "2.61",
+    "fat": "1.43",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Cereal pulse mix with amylase rice flour",
+    "calories": "151.57",
+    "carbohydrates": "27.80",
+    "protein": "4.27",
+    "fat": "2.74",
+    "fibre": "3.47"
+  },
+  {
+    "name": "Banana groundnut paste/puree",
+    "calories": "213.19",
+    "carbohydrates": "36.15",
+    "protein": "4.27",
+    "fat": "5.45",
+    "fibre": "1.70"
+  },
+  {
+    "name": "Rice dal porridge (Chawal dal ki khichdi/khichri)",
+    "calories": "383.33",
+    "carbohydrates": "65.04",
+    "protein": "10.80",
+    "fat": "8.33",
+    "fibre": "4.51"
+  },
+  {
+    "name": "Lentils and semolina porridge (Dal suji porridge/daliya)",
+    "calories": "117.29",
+    "carbohydrates": "23.19",
+    "protein": "3.26",
+    "fat": "1.06",
+    "fibre": "1.44"
+  },
+  {
+    "name": "Spinach khichri (Palak khichri/khichdi)",
+    "calories": "102.18",
+    "carbohydrates": "17.35",
+    "protein": "3.43",
+    "fat": "1.91",
+    "fibre": "1.56"
+  },
+  {
+    "name": "Vegetable mix",
+    "calories": "174.21",
+    "carbohydrates": "36.02",
+    "protein": "4.70",
+    "fat": "0.94",
+    "fibre": "1.93"
+  },
+  {
+    "name": "Lentils and wheat porridge (Dal wheat porridge/daliya )",
+    "calories": "52.54",
+    "carbohydrates": "8.36",
+    "protein": "2.71",
+    "fat": "0.94",
+    "fibre": "1.28"
+  },
+  {
+    "name": "Maize porridge",
+    "calories": "89.57",
+    "carbohydrates": "15.64",
+    "protein": "2.14",
+    "fat": "1.89",
+    "fibre": "1.68"
+  },
+  {
+    "name": "Spinach peanut burfi (Palak aur mungfali ki burfi)",
+    "calories": "105.37",
+    "carbohydrates": "13.59",
+    "protein": "3.36",
+    "fat": "4.39",
+    "fibre": "2.07"
+  },
+  {
+    "name": "Split bengal gram burfi/fudge (Channa dal burfi)",
+    "calories": "287.36",
+    "carbohydrates": "54.63",
+    "protein": "4.65",
+    "fat": "7.09",
+    "fibre": "2.06"
+  },
+  {
+    "name": "Chickpea flour cookies (Sweet besan rounds/cookies)",
+    "calories": "207.01",
+    "carbohydrates": "39.64",
+    "protein": "4.29",
+    "fat": "3.42",
+    "fibre": "2.56"
+  },
+  {
+    "name": "Pearl millet mathri (Bajra mathri)",
+    "calories": "785.08",
+    "carbohydrates": "7.42",
+    "protein": "1.82",
+    "fat": "83.12",
+    "fibre": "1.36"
+  },
+  {
+    "name": "Sesame biscuit (Til ke biscuit)",
+    "calories": "424.03",
+    "carbohydrates": "53.65",
+    "protein": "8.27",
+    "fat": "19.34",
+    "fibre": "6.83"
+  },
+  {
+    "name": "Fermented bengal gram vada (Khameerikrit/Ufna hua channa dal ka vada)",
+    "calories": "657.57",
+    "carbohydrates": "8.68",
+    "protein": "4.05",
+    "fat": "67.19",
+    "fibre": "2.65"
+  },
+  {
+    "name": "Poshtik namak paras",
+    "calories": "613.39",
+    "carbohydrates": "19.52",
+    "protein": "6.49",
+    "fat": "56.58",
+    "fibre": "4.55"
+  },
+  {
+    "name": "Soya chikki",
+    "calories": "423.70",
+    "carbohydrates": "62.89",
+    "protein": "7.18",
+    "fat": "15.51",
+    "fibre": "3.55"
+  },
+  {
+    "name": "Besan bathua chilla/cheela",
+    "calories": "373.82",
+    "carbohydrates": "40.65",
+    "protein": "11.48",
+    "fat": "18.57",
+    "fibre": "7.79"
+  },
+  {
+    "name": "Wheat flour and nuts ladoos (Atta nuts ladoos)",
+    "calories": "391.90",
+    "carbohydrates": "44.31",
+    "protein": "9.46",
+    "fat": "19.19",
+    "fibre": "7.30"
+  },
+  {
+    "name": "Gram flour and semolina dhokla (Besan suji dhokla)",
+    "calories": "198.91",
+    "carbohydrates": "25.92",
+    "protein": "8.52",
+    "fat": "7.10",
+    "fibre": "4.59"
+  },
+  {
+    "name": "Atta dal burfi ",
+    "calories": "298.80",
+    "carbohydrates": "40.64",
+    "protein": "6.66",
+    "fat": "12.47",
+    "fibre": "4.08"
+  },
+  {
+    "name": "Soya roti",
+    "calories": "283.96",
+    "carbohydrates": "40.03",
+    "protein": "9.18",
+    "fat": "9.23",
+    "fibre": "8.71"
+  },
+  {
+    "name": "Poshtik khichdi/khichri",
+    "calories": "93.37",
+    "carbohydrates": "15.64",
+    "protein": "3.04",
+    "fat": "1.88",
+    "fibre": "2.00"
+  },
+  {
+    "name": "Namkeen daliya",
+    "calories": "295.11",
+    "carbohydrates": "49.32",
+    "protein": "8.29",
+    "fat": "7.99",
+    "fibre": "8.57"
+  },
+  {
+    "name": "Sprouts upma ",
+    "calories": "316.25",
+    "carbohydrates": "44.96",
+    "protein": "9.50",
+    "fat": "10.44",
+    "fibre": "7.16"
+  },
+  {
+    "name": "Semolina idli (Suji/Rava idli)",
+    "calories": "206.39",
+    "carbohydrates": "33.67",
+    "protein": "9.34",
+    "fat": "3.47",
+    "fibre": "5.85"
+  },
+  {
+    "name": "Poshtik chilla/cheela",
+    "calories": "159.53",
+    "carbohydrates": "27.47",
+    "protein": "4.85",
+    "fat": "3.04",
+    "fibre": "4.91"
+  },
+  {
+    "name": "Stuffed bittergourd (dry) (Bharwa karela)",
+    "calories": "217.65",
+    "carbohydrates": "2.49",
+    "protein": "1.29",
+    "fat": "22.38",
+    "fibre": "3.00"
+  },
+  {
+    "name": "Cauliflower potato canjee",
+    "calories": "16.79",
+    "carbohydrates": "2.63",
+    "protein": "0.57",
+    "fat": "0.39",
+    "fibre": "0.69"
+  },
+  {
+    "name": "Creamed spinach",
+    "calories": "96.91",
+    "carbohydrates": "4.44",
+    "protein": "5.18",
+    "fat": "6.39",
+    "fibre": "1.33"
+  },
+  {
+    "name": "Mango milkshake with ice cream (Aam milkshake ice cream ke saath)",
+    "calories": "68.35",
+    "carbohydrates": "9.18",
+    "protein": "1.93",
+    "fat": "2.80",
+    "fibre": "0.23"
+  },
+  {
+    "name": "Pineapple milkshake with ice cream (Ananas milkshake ice cream ke saath)",
+    "calories": "68.49",
+    "carbohydrates": "9.33",
+    "protein": "1.93",
+    "fat": "2.75",
+    "fibre": "0.42"
+  },
+  {
+    "name": "Orange milkshake with ice cream (Narangi milkshake ice cream ke saath)",
+    "calories": "67.82",
+    "carbohydrates": "9.15",
+    "protein": "1.95",
+    "fat": "2.75",
+    "fibre": "0.16"
+  },
+  {
+    "name": "Woodapple juice (Bel ka sharbat)",
+    "calories": "34.18",
+    "carbohydrates": "6.51",
+    "protein": "0.63",
+    "fat": "0.70",
+    "fibre": "1.03"
+  },
+  {
+    "name": "Sattu drink",
+    "calories": "23.38",
+    "carbohydrates": "5.16",
+    "protein": "0.56",
+    "fat": "0.14",
+    "fibre": "0.40"
+  },
+  {
+    "name": "Apple and honey sorbet (Seb aur shehad ka sharbat)",
+    "calories": "121.30",
+    "carbohydrates": "30.74",
+    "protein": "0.15",
+    "fat": "0.29",
+    "fibre": "1.13"
+  },
+  {
+    "name": "Thandai",
+    "calories": "101.18",
+    "carbohydrates": "9.13",
+    "protein": "3.59",
+    "fat": "5.89",
+    "fibre": "0.80"
+  },
+  {
+    "name": "Cucumber sharbat (Kheere ka sharbat)",
+    "calories": "27.28",
+    "carbohydrates": "6.64",
+    "protein": "0.26",
+    "fat": "0.06",
+    "fibre": "0.78"
+  },
+  {
+    "name": "Apple oats chia seed smoothie",
+    "calories": "85.64",
+    "carbohydrates": "13.07",
+    "protein": "3.49",
+    "fat": "2.48",
+    "fibre": "1.44"
+  },
+  {
+    "name": "Nannari sharbat",
+    "calories": "88.79",
+    "carbohydrates": "23.62",
+    "protein": "0.01",
+    "fat": "0.01",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Semolina milk drink (Thari kanji)",
+    "calories": "44.16",
+    "carbohydrates": "6.93",
+    "protein": "0.98",
+    "fat": "1.36",
+    "fibre": "0.72"
+  },
+  {
+    "name": "Saffron milk (Kesariya doodh)",
+    "calories": "102.18",
+    "carbohydrates": "12.64",
+    "protein": "3.17",
+    "fat": "4.57",
+    "fibre": "0.14"
+  },
+  {
+    "name": "Black rice kheer (Chak-hao kheer)",
+    "calories": "147.94",
+    "carbohydrates": "22.93",
+    "protein": "4.37",
+    "fat": "4.91",
+    "fibre": "0.76"
+  },
+  {
+    "name": "Coconut kheer (Nariyal ki kheer)",
+    "calories": "162.61",
+    "carbohydrates": "14.42",
+    "protein": "3.40",
+    "fat": "10.55",
+    "fibre": "1.53"
+  },
+  {
+    "name": "Apple sago payasam (Seb aur sabudana ki kheer)",
+    "calories": "136.50",
+    "carbohydrates": "14.40",
+    "protein": "3.13",
+    "fat": "7.66",
+    "fibre": "0.38"
+  },
+  {
+    "name": "Kesari bath",
+    "calories": "244.57",
+    "carbohydrates": "31.38",
+    "protein": "2.40",
+    "fat": "12.59",
+    "fibre": "1.65"
+  },
+  {
+    "name": "Putharekulu",
+    "calories": "318.30",
+    "carbohydrates": "59.61",
+    "protein": "3.66",
+    "fat": "7.55",
+    "fibre": "1.75"
+  },
+  {
+    "name": "Mango malpua",
+    "calories": "334.64",
+    "carbohydrates": "12.84",
+    "protein": "1.65",
+    "fat": "30.67",
+    "fibre": "2.08"
+  },
+  {
+    "name": "Mango vanilla custard",
+    "calories": "147.63",
+    "carbohydrates": "18.41",
+    "protein": "3.43",
+    "fat": "7.04",
+    "fibre": "0.99"
+  },
+  {
+    "name": "Kiwi granola pudding",
+    "calories": "280.99",
+    "carbohydrates": "32.33",
+    "protein": "5.60",
+    "fat": "15.36",
+    "fibre": "3.71"
+  },
+  {
+    "name": "Oats burfi",
+    "calories": "425.19",
+    "carbohydrates": "62.47",
+    "protein": "8.89",
+    "fat": "17.27",
+    "fibre": "4.96"
+  },
+  {
+    "name": "Lotus seed halwa (Kamal gattay ka halwa)",
+    "calories": "370.55",
+    "carbohydrates": "39.56",
+    "protein": "7.79",
+    "fat": "20.69",
+    "fibre": "0.42"
+  },
+  {
+    "name": "Amaranth ladoo (Rajgira ladoo)",
+    "calories": "454.15",
+    "carbohydrates": "51.33",
+    "protein": "10.12",
+    "fat": "22.70",
+    "fibre": "5.11"
+  },
+  {
+    "name": "Chhena poda",
+    "calories": "344.57",
+    "carbohydrates": "33.64",
+    "protein": "13.68",
+    "fat": "17.94",
+    "fibre": "1.40"
+  },
+  {
+    "name": "Sweet couscous dessert",
+    "calories": "196.20",
+    "carbohydrates": "29.69",
+    "protein": "3.81",
+    "fat": "7.69",
+    "fibre": "2.18"
+  },
+  {
+    "name": "Sweetened yogurt (Shrikhand)",
+    "calories": "107.18",
+    "carbohydrates": "16.02",
+    "protein": "5.27",
+    "fat": "2.89",
+    "fibre": "0.08"
+  },
+  {
+    "name": "Thickened sweetened milk (Rabri)",
+    "calories": "102.79",
+    "carbohydrates": "10.55",
+    "protein": "3.52",
+    "fat": "5.35",
+    "fibre": "0.19"
+  },
+  {
+    "name": "Gram flour halwa (Besan halwa)",
+    "calories": "276.79",
+    "carbohydrates": "25.78",
+    "protein": "5.88",
+    "fat": "17.30",
+    "fibre": "1.82"
+  },
+  {
+    "name": "Prawn sandwich",
+    "calories": "169.65",
+    "carbohydrates": "11.89",
+    "protein": "10.36",
+    "fat": "9.27",
+    "fibre": "1.55"
+  },
+  {
+    "name": "Watercress sandwich",
+    "calories": "229.42",
+    "carbohydrates": "28.03",
+    "protein": "5.17",
+    "fat": "11.47",
+    "fibre": "2.26"
+  },
+  {
+    "name": "Fish sandwich ",
+    "calories": "150.20",
+    "carbohydrates": "10.09",
+    "protein": "4.72",
+    "fat": "10.37",
+    "fibre": "1.23"
+  },
+  {
+    "name": "Kidney bean sandwich with cottage cheese",
+    "calories": "176.64",
+    "carbohydrates": "18.86",
+    "protein": "9.85",
+    "fat": "6.84",
+    "fibre": "3.66"
+  },
+  {
+    "name": "Finger millet biscuit (Ragi biscuit)",
+    "calories": "458.56",
+    "carbohydrates": "52.69",
+    "protein": "4.03",
+    "fat": "25.79",
+    "fibre": "5.97"
+  },
+  {
+    "name": "Buttermilk biscuit",
+    "calories": "322.54",
+    "carbohydrates": "34.93",
+    "protein": "5.76",
+    "fat": "17.50",
+    "fibre": "1.18"
+  },
+  {
+    "name": "Lemon cookies",
+    "calories": "394.48",
+    "carbohydrates": "42.19",
+    "protein": "5.63",
+    "fat": "23.02",
+    "fibre": "0.78"
+  },
+  {
+    "name": "Sweet potato biscuit (Shakarkand ke biscuit)",
+    "calories": "296.40",
+    "carbohydrates": "38.13",
+    "protein": "5.14",
+    "fat": "13.31",
+    "fibre": "2.27"
+  },
+  {
+    "name": "Raspberry shortbread cookies",
+    "calories": "441.12",
+    "carbohydrates": "61.25",
+    "protein": "3.00",
+    "fat": "21.25",
+    "fibre": "0.75"
+  },
+  {
+    "name": "Pumpkin cookies ",
+    "calories": "218.40",
+    "carbohydrates": "44.69",
+    "protein": "2.51",
+    "fat": "3.93",
+    "fibre": "1.06"
+  },
+  {
+    "name": "Greenpea cookies",
+    "calories": "159.42",
+    "carbohydrates": "23.07",
+    "protein": "6.53",
+    "fat": "4.24",
+    "fibre": "5.32"
+  },
+  {
+    "name": "Sunflower cookies",
+    "calories": "520.62",
+    "carbohydrates": "40.06",
+    "protein": "9.49",
+    "fat": "36.28",
+    "fibre": "3.95"
+  },
+  {
+    "name": "Cardamom cookies (Elaichi cookies)",
+    "calories": "400.49",
+    "carbohydrates": "53.99",
+    "protein": "5.10",
+    "fat": "19.12",
+    "fibre": "2.79"
+  },
+  {
+    "name": "Hazelnut cookies",
+    "calories": "493.32",
+    "carbohydrates": "39.44",
+    "protein": "6.25",
+    "fat": "34.97",
+    "fibre": "2.45"
+  },
+  {
+    "name": "Milk cookies",
+    "calories": "459.43",
+    "carbohydrates": "48.43",
+    "protein": "10.49",
+    "fat": "24.96",
+    "fibre": "0.99"
+  },
+  {
+    "name": "Cranberry cookies",
+    "calories": "272.48",
+    "carbohydrates": "36.39",
+    "protein": "3.92",
+    "fat": "12.66",
+    "fibre": "1.13"
+  },
+  {
+    "name": "Olive biscuit",
+    "calories": "438.29",
+    "carbohydrates": "55.01",
+    "protein": "3.20",
+    "fat": "23.75",
+    "fibre": "0.82"
+  },
+  {
+    "name": "Tutti fruitti biscuit",
+    "calories": "420.78",
+    "carbohydrates": "53.12",
+    "protein": "5.21",
+    "fat": "17.90",
+    "fibre": "5.43"
+  },
+  {
+    "name": "Peach blueberry preserves",
+    "calories": "177.38",
+    "carbohydrates": "45.76",
+    "protein": "0.53",
+    "fat": "0.20",
+    "fibre": "1.14"
+  },
+  {
+    "name": "Pear preserves (Naashpati ka murabba)",
+    "calories": "101.24",
+    "carbohydrates": "25.67",
+    "protein": "0.25",
+    "fat": "0.19",
+    "fibre": "3.06"
+  },
+  {
+    "name": "Starfruit preserves ",
+    "calories": "128.93",
+    "carbohydrates": "33.62",
+    "protein": "0.24",
+    "fat": "0.12",
+    "fibre": "0.78"
+  },
+  {
+    "name": "Gooseberry pickle (Amla ka achaar)",
+    "calories": "278.58",
+    "carbohydrates": "7.61",
+    "protein": "1.55",
+    "fat": "27.61",
+    "fibre": "3.70"
+  },
+  {
+    "name": "Lotus stem pickle (Kamal kakdi ka achar)",
+    "calories": "102.69",
+    "carbohydrates": "20.07",
+    "protein": "1.44",
+    "fat": "1.60",
+    "fibre": "8.58"
+  },
+  {
+    "name": "Date pickle (Khajoor ka achaar)",
+    "calories": "182.29",
+    "carbohydrates": "34.66",
+    "protein": "1.68",
+    "fat": "4.21",
+    "fibre": "5.20"
+  },
+  {
+    "name": "Garlic pickle (Lahasun ka achar)",
+    "calories": "413.62",
+    "carbohydrates": "9.75",
+    "protein": "3.72",
+    "fat": "39.88",
+    "fibre": "5.13"
+  },
+  {
+    "name": "Fermented bamboo shoot pickle (Mesu pickle)",
+    "calories": "59.83",
+    "carbohydrates": "1.73",
+    "protein": "1.58",
+    "fat": "5.59",
+    "fibre": "2.24"
+  },
+  {
+    "name": "Sweet peach pickle (Aadoo ka achaar)",
+    "calories": "144.64",
+    "carbohydrates": "37.01",
+    "protein": "0.46",
+    "fat": "0.20",
+    "fibre": "1.32"
+  },
+  {
+    "name": "Pickled mustard greens ",
+    "calories": "13.12",
+    "carbohydrates": "1.05",
+    "protein": "1.51",
+    "fat": "0.22",
+    "fibre": "1.70"
+  },
+  {
+    "name": "Small onion pickle ",
+    "calories": "16.86",
+    "carbohydrates": "2.76",
+    "protein": "1.65",
+    "fat": "0.64",
+    "fibre": "1.09"
+  },
+  {
+    "name": "Green tomato pickle (Haray tamatar ka achaar)",
+    "calories": "193.26",
+    "carbohydrates": "2.87",
+    "protein": "1.23",
+    "fat": "19.67",
+    "fibre": "1.74"
+  },
+  {
+    "name": "Pickled cabbage ",
+    "calories": "13.69",
+    "carbohydrates": "2.56",
+    "protein": "0.39",
+    "fat": "0.14",
+    "fibre": "0.61"
+  },
+  {
+    "name": "Coconut pickle (Nariyal ka aachar)",
+    "calories": "517.26",
+    "carbohydrates": "11.53",
+    "protein": "3.02",
+    "fat": "51.71",
+    "fibre": "6.35"
+  },
+  {
+    "name": "Potato pickle (Aloo ka achaar)",
+    "calories": "369.14",
+    "carbohydrates": "7.87",
+    "protein": "2.07",
+    "fat": "36.46",
+    "fibre": "2.21"
+  },
+  {
+    "name": "Mango murabba candy",
+    "calories": "293.35",
+    "carbohydrates": "77.32",
+    "protein": "0.27",
+    "fat": "0.05",
+    "fibre": "0.95"
+  },
+  {
+    "name": "Afghani chicken",
+    "calories": "151.51",
+    "carbohydrates": "1.95",
+    "protein": "15.66",
+    "fat": "9.07",
+    "fibre": "0.31"
+  },
+  {
+    "name": "Fish orly",
+    "calories": "563.70",
+    "carbohydrates": "4.27",
+    "protein": "5.87",
+    "fat": "58.18",
+    "fibre": "0.33"
+  },
+  {
+    "name": "Hariyali Fish Tikka",
+    "calories": "150.24",
+    "carbohydrates": "2.21",
+    "protein": "14.01",
+    "fat": "9.41",
+    "fibre": "0.99"
+  },
+  {
+    "name": "Chicken manchurian",
+    "calories": "142.34",
+    "carbohydrates": "6.06",
+    "protein": "9.53",
+    "fat": "11.96",
+    "fibre": "0.41"
+  },
+  {
+    "name": "Handi chicken",
+    "calories": "166.02",
+    "carbohydrates": "1.49",
+    "protein": "12.32",
+    "fat": "12.46",
+    "fibre": "0.67"
+  },
+  {
+    "name": "Lemon chicken",
+    "calories": "169.79",
+    "carbohydrates": "0.55",
+    "protein": "20.20",
+    "fat": "9.66",
+    "fibre": "0.16"
+  },
+  {
+    "name": "Lemon butter fish",
+    "calories": "160.25",
+    "carbohydrates": "0.75",
+    "protein": "16.38",
+    "fat": "10.26",
+    "fibre": "0.36"
+  },
+  {
+    "name": "Baked eggs in tomato sauce",
+    "calories": "80.05",
+    "carbohydrates": "3.78",
+    "protein": "4.92",
+    "fat": "5.22",
+    "fibre": "0.01"
+  },
+  {
+    "name": "Egg in a pepper",
+    "calories": "128.78",
+    "carbohydrates": "0.17",
+    "protein": "12.64",
+    "fat": "8.68",
+    "fibre": "0.17"
+  },
+  {
+    "name": "Spinach mushroom scrambled egg (Palak mushroom bhurji)",
+    "calories": "158.85",
+    "carbohydrates": "0.59",
+    "protein": "13.28",
+    "fat": "11.51",
+    "fibre": "0.39"
+  },
+  {
+    "name": "Corn omelette/omlet",
+    "calories": "166.93",
+    "carbohydrates": "1.57",
+    "protein": "11.37",
+    "fat": "12.89",
+    "fibre": "0.02"
+  },
+  {
+    "name": "Cajun chicken",
+    "calories": "184.94",
+    "carbohydrates": "1.94",
+    "protein": "12.69",
+    "fat": "13.99",
+    "fibre": "0.89"
+  },
+  {
+    "name": "Paaner do pyaza",
+    "calories": "127.70",
+    "carbohydrates": "3.41",
+    "protein": "4.22",
+    "fat": "10.87",
+    "fibre": "0.84"
+  },
+  {
+    "name": "Cabbage manchurian (Pattagobhi manchurian)",
+    "calories": "224.26",
+    "carbohydrates": "4.85",
+    "protein": "0.64",
+    "fat": "22.48",
+    "fibre": "0.37"
+  },
+  {
+    "name": "Gobi 65",
+    "calories": "278.29",
+    "carbohydrates": "3.59",
+    "protein": "0.56",
+    "fat": "29.11",
+    "fibre": "0.57"
+  },
+  {
+    "name": "Paneer lababdar",
+    "calories": "105.48",
+    "carbohydrates": "3.37",
+    "protein": "3.98",
+    "fat": "8.46",
+    "fibre": "1.16"
+  },
+  {
+    "name": "Roasted cauliflower steak",
+    "calories": "78.68",
+    "carbohydrates": "2.02",
+    "protein": "2.05",
+    "fat": "6.70",
+    "fibre": "3.53"
+  },
+  {
+    "name": "Sauteed radishes with green beans",
+    "calories": "94.32",
+    "carbohydrates": "6.04",
+    "protein": "2.41",
+    "fat": "6.61",
+    "fibre": "3.52"
+  },
+  {
+    "name": "Garlic chutney/Poondu chutney (Lahasun ki chutney)",
+    "calories": "255.51",
+    "carbohydrates": "20.44",
+    "protein": "3.34",
+    "fat": "17.55",
+    "fibre": "5.15"
+  },
+  {
+    "name": "Schezwan chutney",
+    "calories": "205.19",
+    "carbohydrates": "10.79",
+    "protein": "3.33",
+    "fat": "17.72",
+    "fibre": "5.72"
+  },
+  {
+    "name": "Onion chutney (Pyaaz ki chutney/Vengaya chutney)",
+    "calories": "143.94",
+    "carbohydrates": "13.52",
+    "protein": "2.97",
+    "fat": "8.38",
+    "fibre": "4.60"
+  },
+  {
+    "name": "Dates chutney (Khajoor ki chutney)",
+    "calories": "103.57",
+    "carbohydrates": "21.69",
+    "protein": "1.07",
+    "fat": "1.12",
+    "fibre": "3.41"
+  },
+  {
+    "name": "Chicken salad",
+    "calories": "338.19",
+    "carbohydrates": "1.30",
+    "protein": "15.33",
+    "fat": "30.26",
+    "fibre": "2.00"
+  },
+  {
+    "name": "Macaroni salad",
+    "calories": "262.19",
+    "carbohydrates": "21.63",
+    "protein": "5.02",
+    "fat": "17.78",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Cabbage raita (Pattagobhi raita)",
+    "calories": "84.84",
+    "carbohydrates": "5.25",
+    "protein": "3.24",
+    "fat": "5.76",
+    "fibre": "0.93"
+  },
+  {
+    "name": "Pomegranate raita (Anaar ka raita)",
+    "calories": "72.64",
+    "carbohydrates": "7.15",
+    "protein": "4.05",
+    "fat": "3.24",
+    "fibre": "0.60"
+  },
+  {
+    "name": "Onion raita (Pyaaz ka raita)",
+    "calories": "71.56",
+    "carbohydrates": "7.86",
+    "protein": "4.86",
+    "fat": "2.43",
+    "fibre": "0.65"
+  },
+  {
+    "name": "Green chilli raita (Hari mirch ka raita)",
+    "calories": "77.13",
+    "carbohydrates": "7.66",
+    "protein": "5.58",
+    "fat": "2.92",
+    "fibre": "0.26"
+  },
+  {
+    "name": "Kale salad",
+    "calories": "177.71",
+    "carbohydrates": "5.01",
+    "protein": "4.86",
+    "fat": "15.33",
+    "fibre": "1.36"
+  },
+  {
+    "name": "Spinach and paneer souffle ",
+    "calories": "186.19",
+    "carbohydrates": "9.64",
+    "protein": "7.56",
+    "fat": "13.49",
+    "fibre": "1.07"
+  },
+  {
+    "name": "Masala souffle ",
+    "calories": "123.51",
+    "carbohydrates": "8.02",
+    "protein": "6.38",
+    "fat": "7.37",
+    "fibre": "1.24"
+  },
+  {
+    "name": "Chicken and cheese souffle",
+    "calories": "182.35",
+    "carbohydrates": "3.47",
+    "protein": "9.07",
+    "fat": "14.74",
+    "fibre": "0.26"
+  },
+  {
+    "name": "Tamarind chutney (Chintapandu pachadi/Puli chutney)",
+    "calories": "109.15",
+    "carbohydrates": "25.07",
+    "protein": "0.88",
+    "fat": "0.48",
+    "fibre": "1.65"
+  },
+  {
+    "name": "Pav bhaji masala",
+    "calories": "230.47",
+    "carbohydrates": "29.15",
+    "protein": "9.13",
+    "fat": "10.96",
+    "fibre": "24.30"
+  },
+  {
+    "name": "Green chutney",
+    "calories": "79.42",
+    "carbohydrates": "10.01",
+    "protein": "5.42",
+    "fat": "1.60",
+    "fibre": "5.84"
+  },
+  {
+    "name": "Sago khitchdi/khichri (Sabudana khitchdi/khichri)",
+    "calories": "187.16",
+    "carbohydrates": "22.41",
+    "protein": "2.72",
+    "fat": "10.10",
+    "fibre": "1.82"
+  },
+  {
+    "name": "Gram flour chilla/cheela (Besan chilla/cheela)",
+    "calories": "135.93",
+    "carbohydrates": "21.03",
+    "protein": "7.80",
+    "fat": "2.85",
+    "fibre": "4.25"
+  },
+  {
+    "name": "Vegetable namkeen jave",
+    "calories": "112.23",
+    "carbohydrates": "18.98",
+    "protein": "2.93",
+    "fat": "2.51",
+    "fibre": "2.86"
+  },
+  {
+    "name": "Khakhra",
+    "calories": "178.50",
+    "carbohydrates": "27.66",
+    "protein": "4.78",
+    "fat": "5.32",
+    "fibre": "5.43"
+  },
+  {
+    "name": "Moong bean dosa (Pesarattu)",
+    "calories": "285.96",
+    "carbohydrates": "31.91",
+    "protein": "12.32",
+    "fat": "11.67",
+    "fibre": "6.04"
+  },
+  {
+    "name": "Methi thepla",
+    "calories": "346.16",
+    "carbohydrates": "41.34",
+    "protein": "8.98",
+    "fat": "15.95",
+    "fibre": "7.56"
+  },
+  {
+    "name": "Rice puttu (Ari puttu)",
+    "calories": "81.98",
+    "carbohydrates": "11.82",
+    "protein": "1.26",
+    "fat": "3.13",
+    "fibre": "0.76"
+  },
+  {
+    "name": "Buckwheat pancake (Khura)",
+    "calories": "263.30",
+    "carbohydrates": "27.28",
+    "protein": "2.91",
+    "fat": "16.43",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Quinoa khichdi/khichri",
+    "calories": "64.01",
+    "carbohydrates": "8.83",
+    "protein": "3.18",
+    "fat": "1.59",
+    "fibre": "2.58"
+  },
+  {
+    "name": "Khakhra chaat",
+    "calories": "358.66",
+    "carbohydrates": "16.64",
+    "protein": "4.52",
+    "fat": "30.65",
+    "fibre": "3.04"
+  },
+  {
+    "name": "Banana appam",
+    "calories": "469.81",
+    "carbohydrates": "20.06",
+    "protein": "1.17",
+    "fat": "42.53",
+    "fibre": "0.67"
+  },
+  {
+    "name": "Veg manchurian",
+    "calories": "585.64",
+    "carbohydrates": "6.82",
+    "protein": "0.89",
+    "fat": "61.65",
+    "fibre": "1.16"
+  },
+  {
+    "name": "Pav bhaji",
+    "calories": "96.53",
+    "carbohydrates": "11.99",
+    "protein": "2.66",
+    "fat": "4.32",
+    "fibre": "1.98"
+  },
+  {
+    "name": "Rice murukku",
+    "calories": "593.99",
+    "carbohydrates": "33.29",
+    "protein": "5.41",
+    "fat": "48.22",
+    "fibre": "2.18"
+  },
+  {
+    "name": "Bhel puri ",
+    "calories": "509.89",
+    "carbohydrates": "16.47",
+    "protein": "3.52",
+    "fat": "47.91",
+    "fibre": "2.24"
+  },
+  {
+    "name": "Semolina dhokla (Suji/Rava dhokla)",
+    "calories": "194.91",
+    "carbohydrates": "30.86",
+    "protein": "5.44",
+    "fat": "5.20",
+    "fibre": "5.12"
+  },
+  {
+    "name": "Spicy corn chaat ",
+    "calories": "479.80",
+    "carbohydrates": "11.45",
+    "protein": "4.61",
+    "fat": "46.55",
+    "fibre": "2.17"
+  },
+  {
+    "name": "Jackfruit fritters (Ponsa mulik/Kathal ka pakora)",
+    "calories": "597.79",
+    "carbohydrates": "24.00",
+    "protein": "2.34",
+    "fat": "54.41",
+    "fibre": "1.50"
+  },
+  {
+    "name": "Banana chips (Kele ke chips)",
+    "calories": "665.67",
+    "carbohydrates": "7.32",
+    "protein": "0.37",
+    "fat": "70.46",
+    "fibre": "0.65"
+  },
+  {
+    "name": "Wheat cake",
+    "calories": "314.63",
+    "carbohydrates": "41.13",
+    "protein": "4.79",
+    "fat": "14.95",
+    "fibre": "2.76"
+  },
+  {
+    "name": "Mango cheesecake",
+    "calories": "152.46",
+    "carbohydrates": "20.06",
+    "protein": "2.39",
+    "fat": "7.30",
+    "fibre": "1.14"
+  },
+  {
+    "name": "Carrot cake (Gajar ka cake)",
+    "calories": "255.59",
+    "carbohydrates": "35.98",
+    "protein": "5.60",
+    "fat": "10.27",
+    "fibre": "2.93"
+  },
+  {
+    "name": "Semolina cake (Suji/Rava cake)",
+    "calories": "374.14",
+    "carbohydrates": "31.32",
+    "protein": "6.58",
+    "fat": "25.18",
+    "fibre": "5.37"
+  },
+  {
+    "name": "Finger millet cake (Ragi cake)",
+    "calories": "279.46",
+    "carbohydrates": "38.93",
+    "protein": "3.96",
+    "fat": "12.27",
+    "fibre": "2.35"
+  },
+  {
+    "name": "Honey cake",
+    "calories": "333.59",
+    "carbohydrates": "49.04",
+    "protein": "3.08",
+    "fat": "14.70",
+    "fibre": "0.51"
+  },
+  {
+    "name": "Almond cardamom cake (Badam elaichi cake)",
+    "calories": "356.35",
+    "carbohydrates": "34.53",
+    "protein": "7.18",
+    "fat": "21.36",
+    "fibre": "2.35"
+  },
+  {
+    "name": "Tutti frutti cake",
+    "calories": "347.72",
+    "carbohydrates": "52.94",
+    "protein": "4.49",
+    "fat": "12.68",
+    "fibre": "0.85"
+  },
+  {
+    "name": "Ham and Bean soup",
+    "calories": "96.04",
+    "carbohydrates": "4.18",
+    "protein": "10.61",
+    "fat": "4.15",
+    "fibre": "0.54"
+  },
+  {
+    "name": "Whey soup",
+    "calories": "68.91",
+    "carbohydrates": "6.26",
+    "protein": "3.45",
+    "fat": "3.34",
+    "fibre": "0.84"
+  },
+  {
+    "name": "Bottle gourd soup (Ghiya/Lauki soup)",
+    "calories": "23.05",
+    "carbohydrates": "1.16",
+    "protein": "0.45",
+    "fat": "1.79",
+    "fibre": "0.96"
+  },
+  {
+    "name": "Baked potato soup",
+    "calories": "147.05",
+    "carbohydrates": "5.85",
+    "protein": "5.73",
+    "fat": "11.21",
+    "fibre": "0.30"
+  },
+  {
+    "name": "Pumpkin soup",
+    "calories": "40.05",
+    "carbohydrates": "2.08",
+    "protein": "0.47",
+    "fat": "3.20",
+    "fibre": "1.19"
+  },
+  {
+    "name": "Sweet corn soup",
+    "calories": "32.25",
+    "carbohydrates": "3.56",
+    "protein": "0.99",
+    "fat": "1.63",
+    "fibre": "0.31"
+  },
+  {
+    "name": "Paneer soup",
+    "calories": "47.85",
+    "carbohydrates": "2.42",
+    "protein": "3.22",
+    "fat": "2.80",
+    "fibre": "0.28"
+  },
+  {
+    "name": "Curried Cauliflower soup",
+    "calories": "37.32",
+    "carbohydrates": "3.12",
+    "protein": "6.72",
+    "fat": "9.77",
+    "fibre": "2.34"
+  },
+  {
+    "name": "Millet soup",
+    "calories": "55.99",
+    "carbohydrates": "8.22",
+    "protein": "11.26",
+    "fat": "12.57",
+    "fibre": "2.82"
+  },
+  {
+    "name": "Lemon coriander soup",
+    "calories": "108.06",
+    "carbohydrates": "10.32",
+    "protein": "2.27",
+    "fat": "6.26",
+    "fibre": "6.77"
+  },
+  {
+    "name": "Garlic soup",
+    "calories": "194.86",
+    "carbohydrates": "6.99",
+    "protein": "2.38",
+    "fat": "17.62",
+    "fibre": "1.66"
+  },
+  {
+    "name": "Dal makhani",
+    "calories": "74.04",
+    "carbohydrates": "7.96",
+    "protein": "3.32",
+    "fat": "3.06",
+    "fibre": "2.27"
+  },
+  {
+    "name": "Dalma",
+    "calories": "118.93",
+    "carbohydrates": "15.04",
+    "protein": "4.91",
+    "fat": "4.58",
+    "fibre": "2.16"
+  },
+  {
+    "name": "Split bengal gram dal (Channa dal)",
+    "calories": "99.67",
+    "carbohydrates": "9.99",
+    "protein": "4.15",
+    "fat": "4.62",
+    "fibre": "3.72"
+  },
+  {
+    "name": "Horsegram dal (Kulthi dal) ",
+    "calories": "55.65",
+    "carbohydrates": "8.21",
+    "protein": "2.91",
+    "fat": "1.13",
+    "fibre": "1.52"
+  },
+  {
+    "name": "Panchmel dal",
+    "calories": "111.22",
+    "carbohydrates": "10.71",
+    "protein": "4.63",
+    "fat": "5.36",
+    "fibre": "3.20"
+  },
+  {
+    "name": "Dal dhokli",
+    "calories": "68.74",
+    "carbohydrates": "8.55",
+    "protein": "2.96",
+    "fat": "2.47",
+    "fibre": "1.86"
+  },
+  {
+    "name": "Gujarati handvo ",
+    "calories": "207.09",
+    "carbohydrates": "31.86",
+    "protein": "8.24",
+    "fat": "4.80",
+    "fibre": "4.95"
+  },
+  {
+    "name": "Sev (Omapodi/Karapusa)",
+    "calories": "609.14",
+    "carbohydrates": "12.87",
+    "protein": "5.12",
+    "fat": "60.08",
+    "fibre": "2.35"
+  },
+  {
+    "name": "Papdi",
+    "calories": "708.96",
+    "carbohydrates": "12.89",
+    "protein": "1.83",
+    "fat": "72.11",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Jowar dosa",
+    "calories": "294.35",
+    "carbohydrates": "40.53",
+    "protein": "8.50",
+    "fat": "10.28",
+    "fibre": "5.56"
+  },
+  {
+    "name": "Bread roll",
+    "calories": "435.46",
+    "carbohydrates": "16.12",
+    "protein": "2.85",
+    "fat": "40.25",
+    "fibre": "1.45"
+  },
+  {
+    "name": "Soya seekh kebab",
+    "calories": "115.05",
+    "carbohydrates": "10.00",
+    "protein": "5.40",
+    "fat": "5.88",
+    "fibre": "2.24"
+  },
+  {
+    "name": "Classic seasoned black beans",
+    "calories": "28.78",
+    "carbohydrates": "7.66",
+    "protein": "8.01",
+    "fat": "8.28",
+    "fibre": "3.51"
+  },
+  {
+    "name": "Maa chaane ki dal",
+    "calories": "344.67",
+    "carbohydrates": "43.11",
+    "protein": "19.80",
+    "fat": "9.50",
+    "fibre": "13.45"
+  },
+  {
+    "name": "Garlic chickpea soup (Lahasun aur chane ka shoraba)",
+    "calories": "89.53",
+    "carbohydrates": "13.92",
+    "protein": "4.45",
+    "fat": "2.01",
+    "fibre": "2.84"
+  },
+  {
+    "name": "White sauce (thin)",
+    "calories": "115.17",
+    "carbohydrates": "6.58",
+    "protein": "3.31",
+    "fat": "8.41",
+    "fibre": "0.07"
+  },
+  {
+    "name": "White sauce (medium)",
+    "calories": "151.27",
+    "carbohydrates": "7.98",
+    "protein": "3.36",
+    "fat": "11.76",
+    "fibre": "0.14"
+  },
+  {
+    "name": "White sauce (thick)",
+    "calories": "209.69",
+    "carbohydrates": "10.24",
+    "protein": "3.43",
+    "fat": "17.19",
+    "fibre": "0.24"
+  },
+  {
+    "name": "Cheese sauce",
+    "calories": "194.76",
+    "carbohydrates": "7.08",
+    "protein": "7.68",
+    "fat": "15.12",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Egg sauce",
+    "calories": "146.85",
+    "carbohydrates": "5.88",
+    "protein": "5.97",
+    "fat": "11.08",
+    "fibre": "0.12"
+  },
+  {
+    "name": "Mushroom sauce",
+    "calories": "137.56",
+    "carbohydrates": "7.31",
+    "protein": "3.39",
+    "fat": "10.51",
+    "fibre": "0.47"
+  },
+  {
+    "name": "Mustard sauce",
+    "calories": "158.58",
+    "carbohydrates": "8.29",
+    "protein": "3.98",
+    "fat": "12.17",
+    "fibre": "0.13"
+  },
+  {
+    "name": "Brown sauce",
+    "calories": "109.18",
+    "carbohydrates": "5.38",
+    "protein": "11.92",
+    "fat": "23.67",
+    "fibre": "1.69"
+  },
+  {
+    "name": "Classic italian pasta",
+    "calories": "42.12",
+    "carbohydrates": "4.40",
+    "protein": "0.57",
+    "fat": "2.45",
+    "fibre": "1.36"
+  },
+  {
+    "name": "Pasta spinach sauce",
+    "calories": "85.46",
+    "carbohydrates": "1.76",
+    "protein": "1.76",
+    "fat": "7.90",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Pasta cheese sauce",
+    "calories": "149.26",
+    "carbohydrates": "9.00",
+    "protein": "4.33",
+    "fat": "10.84",
+    "fibre": "0.14"
+  },
+  {
+    "name": "Mayonnaise",
+    "calories": "774.86",
+    "carbohydrates": "1.65",
+    "protein": "1.86",
+    "fat": "84.52",
+    "fibre": "0.11"
+  },
+  {
+    "name": "Low calorie quick mayonnaise",
+    "calories": "242.89",
+    "carbohydrates": "4.71",
+    "protein": "1.41",
+    "fat": "24.35",
+    "fibre": "0.06"
+  },
+  {
+    "name": "Thousand island dressing",
+    "calories": "407.87",
+    "carbohydrates": "4.49",
+    "protein": "1.37",
+    "fat": "42.87",
+    "fibre": "0.46"
+  },
+  {
+    "name": "Curd dip",
+    "calories": "79.95",
+    "carbohydrates": "7.95",
+    "protein": "5.04",
+    "fat": "3.36",
+    "fibre": "0.10"
+  },
+  {
+    "name": "Short crust pastry",
+    "calories": "422.10",
+    "carbohydrates": "44.72",
+    "protein": "6.11",
+    "fat": "23.98",
+    "fibre": "1.58"
+  },
+  {
+    "name": "Choux pastry",
+    "calories": "222.37",
+    "carbohydrates": "16.20",
+    "protein": "5.55",
+    "fat": "14.96",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Flaky pastry",
+    "calories": "443.94",
+    "carbohydrates": "33.61",
+    "protein": "4.69",
+    "fat": "31.99",
+    "fibre": "1.25"
+  },
+  {
+    "name": "Sponge cake ",
+    "calories": "253.77",
+    "carbohydrates": "44.63",
+    "protein": "9.18",
+    "fat": "4.74",
+    "fibre": "0.69"
+  },
+  {
+    "name": "Glace icing",
+    "calories": "323.51",
+    "carbohydrates": "86.31",
+    "protein": "0.01",
+    "fat": "0.01",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Royal icing",
+    "calories": "332.58",
+    "carbohydrates": "86.53",
+    "protein": "1.74",
+    "fat": "0.02",
+    "fibre": "0.00"
+  },
+  {
+    "name": "American frosting",
+    "calories": "257.57",
+    "carbohydrates": "67.48",
+    "protein": "1.05",
+    "fat": "0.01",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Gum icing",
+    "calories": "223.07",
+    "carbohydrates": "53.19",
+    "protein": "5.94",
+    "fat": "0.00",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Channa murmura premix",
+    "calories": "339.09",
+    "carbohydrates": "72.59",
+    "protein": "10.59",
+    "fat": "3.28",
+    "fibre": "8.21"
+  },
+  {
+    "name": "Cracked wheat and green gram dal premix (Dalia moong dal premix)",
+    "calories": "362.16",
+    "carbohydrates": "64.75",
+    "protein": "15.89",
+    "fat": "5.11",
+    "fibre": "11.66"
+  },
+  {
+    "name": "Rice flakes and roasted channa ",
+    "calories": "333.40",
+    "carbohydrates": "71.94",
+    "protein": "10.57",
+    "fat": "2.94",
+    "fibre": "8.84"
+  },
+  {
+    "name": "Spinach soup in milk ",
+    "calories": "56.72",
+    "carbohydrates": "3.98",
+    "protein": "2.89",
+    "fat": "3.20",
+    "fibre": "0.79"
+  },
+  {
+    "name": "Vegetable soup",
+    "calories": "55.21",
+    "carbohydrates": "7.60",
+    "protein": "2.22",
+    "fat": "1.55",
+    "fibre": "3.01"
+  },
+  {
+    "name": "Mashed banana with milk",
+    "calories": "95.43",
+    "carbohydrates": "14.62",
+    "protein": "2.51",
+    "fat": "2.99",
+    "fibre": "0.71"
+  },
+  {
+    "name": "Poha with curd (Poha aur dahi)",
+    "calories": "173.32",
+    "carbohydrates": "26.72",
+    "protein": "6.01",
+    "fat": "4.65",
+    "fibre": "1.09"
+  },
+  {
+    "name": "Potato with curd",
+    "calories": "73.18",
+    "carbohydrates": "12.01",
+    "protein": "3.19",
+    "fat": "1.33",
+    "fibre": "1.02"
+  },
+  {
+    "name": "Sweet wheat porridge (Sweet dalia)",
+    "calories": "140.66",
+    "carbohydrates": "23.77",
+    "protein": "5.11",
+    "fat": "2.79",
+    "fibre": "2.37"
+  },
+  {
+    "name": "Vegetable khichdi/khichri",
+    "calories": "143.17",
+    "carbohydrates": "19.57",
+    "protein": "5.61",
+    "fat": "4.53",
+    "fibre": "2.45"
+  },
+  {
+    "name": "Moong dal mixture",
+    "calories": "158.84",
+    "carbohydrates": "33.93",
+    "protein": "4.62",
+    "fat": "1.00",
+    "fibre": "1.90"
+  },
+  {
+    "name": "Cracked wheat khichri/khichdi (Dalia khichri/khichdi)",
+    "calories": "167.45",
+    "carbohydrates": "22.35",
+    "protein": "7.56",
+    "fat": "5.52",
+    "fibre": "3.74"
+  },
+  {
+    "name": "Stewed apple",
+    "calories": "91.93",
+    "carbohydrates": "22.49",
+    "protein": "0.17",
+    "fat": "0.37",
+    "fibre": "1.48"
+  },
+  {
+    "name": "Lemon squash (Nimbu ka squash)",
+    "calories": "184.56",
+    "carbohydrates": "48.88",
+    "protein": "0.15",
+    "fat": "0.06",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Orange squash (Santre ka squash)",
+    "calories": "193.26",
+    "carbohydrates": "50.88",
+    "protein": "0.22",
+    "fat": "0.04",
+    "fibre": "0.40"
+  },
+  {
+    "name": "Lichi squash",
+    "calories": "198.33",
+    "carbohydrates": "51.96",
+    "protein": "0.30",
+    "fat": "0.08",
+    "fibre": "0.41"
+  },
+  {
+    "name": "Mango squash (Aam ka squash)",
+    "calories": "194.66",
+    "carbohydrates": "50.96",
+    "protein": "0.17",
+    "fat": "0.17",
+    "fibre": "0.58"
+  },
+  {
+    "name": "Pineapple squash (Ananas ka squash)",
+    "calories": "195.02",
+    "carbohydrates": "51.34",
+    "protein": "0.16",
+    "fat": "0.05",
+    "fibre": "1.06"
+  },
+  {
+    "name": "Lemon and ginger squash (Nimbu aur adrak ka squash)",
+    "calories": "170.34",
+    "carbohydrates": "44.06",
+    "protein": "0.54",
+    "fat": "0.21",
+    "fibre": "1.07"
+  },
+  {
+    "name": "Apple jam (Seb ka murabba)",
+    "calories": "188.79",
+    "carbohydrates": "48.56",
+    "protein": "0.14",
+    "fat": "0.32",
+    "fibre": "1.29"
+  },
+  {
+    "name": "Plum jam (Aloo bukhara jam)",
+    "calories": "178.89",
+    "carbohydrates": "46.20",
+    "protein": "0.31",
+    "fat": "0.19",
+    "fibre": "1.00"
+  },
+  {
+    "name": "Pineapple jam ",
+    "calories": "149.18",
+    "carbohydrates": "38.27",
+    "protein": "0.32",
+    "fat": "0.15",
+    "fibre": "2.20"
+  },
+  {
+    "name": "Guava jelly (Amrood ki jelly)",
+    "calories": "115.74",
+    "carbohydrates": "28.18",
+    "protein": "1.11",
+    "fat": "0.25",
+    "fibre": "6.61"
+  },
+  {
+    "name": "Orange marmalade (Santray ka murabba)",
+    "calories": "104.17",
+    "carbohydrates": "25.94",
+    "protein": "0.66",
+    "fat": "0.13",
+    "fibre": "1.97"
+  },
+  {
+    "name": "Carrot murabba (Gajar ka murabba)",
+    "calories": "175.24",
+    "carbohydrates": "45.60",
+    "protein": "0.32",
+    "fat": "0.16",
+    "fibre": "1.39"
+  },
+  {
+    "name": "Gooseberry marmalade (Amla murabba)",
+    "calories": "123.16",
+    "carbohydrates": "32.34",
+    "protein": "0.14",
+    "fat": "0.03",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Ginger candy (Adrak ki candy)",
+    "calories": "195.71",
+    "carbohydrates": "50.38",
+    "protein": "0.69",
+    "fat": "0.27",
+    "fibre": "1.67"
+  },
+  {
+    "name": "Mango pickle (Aam ka achaar)",
+    "calories": "192.12",
+    "carbohydrates": "8.11",
+    "protein": "1.60",
+    "fat": "17.89",
+    "fibre": "3.68"
+  },
+  {
+    "name": "Mixed vegetable pickle (Sabziyoon ka achaar)",
+    "calories": "211.20",
+    "carbohydrates": "7.48",
+    "protein": "1.90",
+    "fat": "19.68",
+    "fibre": "2.76"
+  },
+  {
+    "name": "Sweet lemon pickle (Neembu ka meetha achaar)",
+    "calories": "69.54",
+    "carbohydrates": "16.87",
+    "protein": "1.22",
+    "fat": "0.21",
+    "fibre": "2.13"
+  },
+  {
+    "name": "Plum chutney (Aloo bukhara ki chutney)",
+    "calories": "177.11",
+    "carbohydrates": "44.95",
+    "protein": "0.47",
+    "fat": "0.29",
+    "fibre": "1.37"
+  },
+  {
+    "name": "Raw mango chutney (Kachhe aam/Kairi ki chutney)",
+    "calories": "193.13",
+    "carbohydrates": "49.94",
+    "protein": "0.51",
+    "fat": "0.16",
+    "fibre": "2.17"
+  },
+  {
+    "name": "Tomato sauce",
+    "calories": "34.33",
+    "carbohydrates": "7.23",
+    "protein": "0.81",
+    "fat": "0.27",
+    "fibre": "1.79"
+  },
+  {
+    "name": "Tomato puree",
+    "calories": "20.62",
+    "carbohydrates": "3.68",
+    "protein": "0.75",
+    "fat": "0.25",
+    "fibre": "1.56"
+  },
+  {
+    "name": "Garam masala",
+    "calories": "254.21",
+    "carbohydrates": "26.20",
+    "protein": "9.89",
+    "fat": "10.97",
+    "fibre": "35.56"
+  },
+  {
+    "name": "Chat masala",
+    "calories": "222.58",
+    "carbohydrates": "23.87",
+    "protein": "8.19",
+    "fat": "9.91",
+    "fibre": "18.62"
+  },
+  {
+    "name": "Kashmiri masala",
+    "calories": "389.02",
+    "carbohydrates": "23.16",
+    "protein": "8.26",
+    "fat": "31.03",
+    "fibre": "12.12"
+  },
+  {
+    "name": "Rasam powder (Rasam masala)",
+    "calories": "267.96",
+    "carbohydrates": "25.19",
+    "protein": "12.04",
+    "fat": "11.80",
+    "fibre": "35.71"
+  },
+  {
+    "name": "Sambar powder (Sambar masala)",
+    "calories": "297.46",
+    "carbohydrates": "23.38",
+    "protein": "12.50",
+    "fat": "15.58",
+    "fibre": "34.56"
+  },
+  {
+    "name": "Tartare sauce",
+    "calories": "610.93",
+    "carbohydrates": "2.96",
+    "protein": "1.44",
+    "fat": "66.12",
+    "fibre": "0.42"
+  },
+  {
+    "name": "Barbeque sauce",
+    "calories": "121.93",
+    "carbohydrates": "20.46",
+    "protein": "0.96",
+    "fat": "4.51",
+    "fibre": "0.69"
+  },
+  {
+    "name": "Bread sauce",
+    "calories": "111.04",
+    "carbohydrates": "8.69",
+    "protein": "3.46",
+    "fat": "7.05",
+    "fibre": "0.56"
+  },
+  {
+    "name": "Green chilli sauce",
+    "calories": "46.06",
+    "carbohydrates": "7.36",
+    "protein": "1.25",
+    "fat": "0.27",
+    "fibre": "1.77"
+  },
+  {
+    "name": "Home made plain noodles",
+    "calories": "238.78",
+    "carbohydrates": "44.50",
+    "protein": "6.21",
+    "fat": "3.56",
+    "fibre": "1.65"
+  },
+  {
+    "name": "Dal moong",
+    "calories": "43.69",
+    "carbohydrates": "4.92",
+    "protein": "2.20",
+    "fat": "1.62",
+    "fibre": "1.08"
+  },
+  {
+    "name": "Cumin seeds baghar (Jeera baghar/tadka)",
+    "calories": "736.81",
+    "carbohydrates": "5.22",
+    "protein": "3.34",
+    "fat": "78.77",
+    "fibre": "6.01"
+  },
+  {
+    "name": "Onion tomato baghar (Pyaaz tamatar ka tadka)",
+    "calories": "137.52",
+    "carbohydrates": "6.17",
+    "protein": "1.26",
+    "fat": "11.98",
+    "fibre": "2.12"
+  },
+  {
+    "name": "Mustard seeds baghar (Mustard seed tadka)",
+    "calories": "552.59",
+    "carbohydrates": "10.45",
+    "protein": "4.73",
+    "fat": "54.30",
+    "fibre": "9.74"
+  },
+  {
+    "name": "Hot cherry sauce",
+    "calories": "252.74",
+    "carbohydrates": "67.95",
+    "protein": "0.13",
+    "fat": "0.07",
+    "fibre": "0.00"
+  },
+  {
+    "name": "Apple jelly (Seb ki jelly)",
+    "calories": "152.13",
+    "carbohydrates": "39.37",
+    "protein": "0.10",
+    "fat": "0.21",
+    "fibre": "0.86"
+  },
+  {
+    "name": "Marmalade (Murabba)",
+    "calories": "143.76",
+    "carbohydrates": "37.64",
+    "protein": "0.23",
+    "fat": "0.04",
+    "fibre": "0.43"
+  },
+  {
+    "name": "Plum squash (Aloo bukhara squash)",
+    "calories": "211.17",
+    "carbohydrates": "55.51",
+    "protein": "0.16",
+    "fat": "0.10",
+    "fibre": "0.52"
+  },
+  {
+    "name": "Lemon green chilli pickle (Nimboo aur hari mirch ka achaar)",
+    "calories": "14.07",
+    "carbohydrates": "2.14",
+    "protein": "0.85",
+    "fat": "0.24",
+    "fibre": "1.07"
+  },
+  {
+    "name": "Brinjal pickle (Baingan ka achaar)",
+    "calories": "139.01",
+    "carbohydrates": "4.23",
+    "protein": "2.24",
+    "fat": "12.98",
+    "fibre": "4.62"
+  },
+  {
+    "name": "Sweet and sour tomato pickle (Khatta meetha tamatar ka achaar)",
+    "calories": "60.88",
+    "carbohydrates": "6.55",
+    "protein": "1.26",
+    "fat": "3.24",
+    "fibre": "2.20"
+  },
+  {
+    "name": "Jhatpat achar with carrot (Jhatpat achaar gajar ke saath)",
+    "calories": "91.21",
+    "carbohydrates": "6.32",
+    "protein": "1.98",
+    "fat": "6.55",
+    "fibre": "5.08"
+  },
+  {
+    "name": "Tomato chutney (Tamatar ki chutney)",
+    "calories": "176.07",
+    "carbohydrates": "31.85",
+    "protein": "0.97",
+    "fat": "6.01",
+    "fibre": "1.49"
+  },
+  {
+    "name": "Tomato ketchup",
+    "calories": "33.07",
+    "carbohydrates": "6.48",
+    "protein": "0.91",
+    "fat": "0.30",
+    "fibre": "1.90"
+  },
+  {
+    "name": "Bengal 5 Spice Blend (Panch Phoran)",
+    "calories": "289.79",
+    "carbohydrates": "20.00",
+    "protein": "18.26",
+    "fat": "22.16",
+    "fibre": "18.40"
+  }
+]
