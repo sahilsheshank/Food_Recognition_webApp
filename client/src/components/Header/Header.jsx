@@ -20,7 +20,7 @@ function Header() {
         </div>
         <div className='flex justify-center gap-6 w-3/5 items-center'>
           <div className='text-xl hover:bg-white rounded-2xl transition-all ease-in-out p-4 font-medium cursor-pointer font-sans '>
-            <Link to={'/'}>home</Link>
+            <Link to={'/home'}>home</Link>
           </div>
           <div className='text-xl hover:bg-white rounded-2xl transition-all ease-in-out p-4 font-medium cursor-pointer font-sans '>
             <Link to={'/recipes'}>recipes</Link>
@@ -29,10 +29,13 @@ function Header() {
             <Link to={'/caloriecalculator'}>Count Calories</Link>
           </div>
           <div className='text-xl hover:bg-white rounded-2xl transition-all ease-in-out p-4 font-medium cursor-pointer font-sans '>
-            <Link to={'/track'}>Nutrition Analysis</Link>
+            <Link to={'/track'}>Log Food</Link>
           </div>
           <div className='text-xl hover:bg-white rounded-2xl transition-all ease-in-out p-4 font-medium cursor-pointer font-sans '>
             <Link to={'/history'}>History</Link>
+          </div>
+          <div className='text-xl hover:bg-white rounded-2xl transition-all ease-in-out p-4 font-medium cursor-pointer font-sans '>
+            <Link to={'/blogs'}>Blogs</Link>
           </div>
         </div>
         <div className='w-1/5 justify-center gap-5 flex items-center'>

@@ -18,7 +18,7 @@ function Signup() {
     }
     const handleSubmit = (e) => {
         e.preventDefault();
-        fetch("http://localhost:8000/api/Auth/register", {
+        fetch("http://localhost:8001/api/Auth/register", {
             method: 'POST',
             body: JSON.stringify(form),
             headers: {
@@ -37,6 +37,7 @@ function Signup() {
                     password: "",
                     age: ""
                 })
+                window.location.href = '/login';
             })
             .catch((err) => {
                 console.log(err);

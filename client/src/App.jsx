@@ -19,10 +19,11 @@ import Private from './components/Private/Private';
 import Track from './components/Track/Track';
 import CalorieCalculator from './pages/CalorieCalculator/CalorieCalc';
 import HistoryPage from './pages/History/History';
+import Blogs from './pages/Blogs/Blogs';
 function App() {
   const navigate = useNavigate();
   const [count, setCount] = useState(0)
-
+  const [refreshKey, setRefreshKey] = useState(0); // NEW
   const [loggedUser, setLoggedUser] = useState(JSON.parse(localStorage.getItem("nutrify-app")));
   const [calGoal, setCalGoal] = useState({
     calories: null,
@@ -32,7 +33,7 @@ function App() {
   });
   return (
     <>
-      <UserContext.Provider value={{ calGoal, setCalGoal, loggedUser, setLoggedUser }}>
+      <UserContext.Provider value={{ calGoal, setCalGoal, loggedUser, refreshKey, setRefreshKey, setLoggedUser }}>
         <div class="fixed top-0 z-[-2] h-screen w-screen bg-neutral-950 bg-[radial-gradient(ellipse_80%_80%_at_50%_-20%,rgba(120,119,198,0.3),rgba(255,255,255,0))]"></div>
         <Routes>
           <Route path='/' element={<Signup />} />
@@ -42,8 +43,9 @@ function App() {
           <Route path='/track' element={<Private Component={Track} />} />
           <Route path='/history' element={<Private Component={HistoryPage} />} />
           <Route path='/recipes' element={<Recipes />} />
+          <Route path='/blogs' element={<Blogs />} />
           <Route path='/login' element={<Login />} />
-          <Route path='/signin' element={<Signin />} />
+          <Route path='/signup' element={<Signin />} />
         </Routes>
       </UserContext.Provider>
     </>
