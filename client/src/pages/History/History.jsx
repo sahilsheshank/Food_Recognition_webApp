@@ -1,128 +1,315 @@
-import React, { useContext, useState } from 'react';
+import React, { useContext, useState, useEffect } from 'react';
 import { UserContext } from '../../contexts/UserContext';
 import Layout from '../../components/Layout/Layout';
+import { API_BASE } from '../../constants/constant';
+import { Bar } from 'react-chartjs-2';
+import { Chart as ChartJS, CategoryScale, LinearScale, BarElement, Tooltip, Legend } from 'chart.js';
+import { CalendarDays, ChevronLeft, ChevronRight, Flame, Wheat, Beef, Droplets, TrendingUp } from 'lucide-react';
+
+ChartJS.register(CategoryScale, LinearScale, BarElement, Tooltip, Legend);
+
+// ── Timezone-safe date helpers ─────────────────────────────────────────────
+function getTodayISO() {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+}
+
+function addDaysToISO(isoDate, days) {
+    const [y, m, d] = isoDate.split('-').map(Number);
+    const date = new Date(y, m - 1, d); // local constructor — no timezone shift
+    date.setDate(date.getDate() + days);
+    return `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+}
+
+function formatForAPI(isoDate) {
+    const [y, m, d] = isoDate.split('-');
+    return `${d}-${m}-${y}`; // DD-MM-YYYY for backend URL
+}
+
+function displayLabel(isoDate) {
+    const [y, m, d] = isoDate.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('en-US', {
+        weekday: 'long', month: 'long', day: 'numeric',
+    });
+}
+
+function shortLabel(isoDate) {
+    const [y, m, d] = isoDate.split('-').map(Number);
+    return new Date(y, m - 1, d).toLocaleDateString('en-US', { weekday: 'short' });
+}
+// ─────────────────────────────────────────────────────────────────────────────
 
 function HistoryPage() {
-  const [history, setHistory] = useState([]);
-  const [date, setDate] = useState('');
-  const [totalCalories, setTotalCalories] = useState(0);
+    const todayISO = getTodayISO();
+    const [history, setHistory] = useState([]);
+    const [date, setDate] = useState(todayISO);
+    const [totalCalories, setTotalCalories] = useState(0);
+    const [macros, setMacros] = useState({ carbs: 0, protein: 0, fat: 0 });
+    const [weekData, setWeekData] = useState([]);
+    const [loading, setLoading] = useState(false);
+    const [weekLoading, setWeekLoading] = useState(true);
+    const [visible, setVisible] = useState(false); // animation trigger
 
-  const loggedData = useContext(UserContext);
-  const dailyGoal = localStorage.getItem('calorieGoal') || 2000; // default if not set
+    const loggedData = useContext(UserContext);
+    const dailyGoal = loggedData.calGoal || JSON.parse(localStorage.getItem('calorieGoal')) || 2000;
 
-  const formatDate = (date) => {
-    const day = ("0" + date.getDate()).slice(-2);
-    const month = ("0" + (date.getMonth() + 1)).slice(-2);
-    const year = date.getFullYear();
-    return `${day}-${month}-${year}`;
-  };
+    const fetchForDate = async (isoDate) => {
+        const formatted = formatForAPI(isoDate);
+        const res = await fetch(
+            `${API_BASE}/api/Tracking/getfood/${loggedData.loggedUser.userid}/${formatted}`,
+            { headers: { "Authorization": `Bearer ${loggedData.loggedUser.token}` } }
+        );
+        return res.json();
+    };
 
-  const fetchHistory = () => {
-    if (!date) {
-      alert('Please enter a Date.');
-      return;
-    }
+    // Trigger entrance animation
+    useEffect(() => {
+        const t = setTimeout(() => setVisible(true), 50);
+        return () => clearTimeout(t);
+    }, []);
 
-    const formattedDate = formatDate(new Date(date));
+    // Fetch selected date
+    useEffect(() => {
+        if (!date) return;
+        setLoading(true);
+        fetchForDate(date)
+            .then(data => {
+                const items = Array.isArray(data) ? data : [];
+                setHistory(items);
+                let cals = 0, carbs = 0, protein = 0, fat = 0;
+                items.forEach(item => {
+                    const q = item.quantity / 100;
+                    cals  += item.foodId.calories * q;
+                    carbs += (item.foodId.carbohydrates || 0) * q;
+                    protein += (item.foodId.protein || 0) * q;
+                    fat   += (item.foodId.fat || 0) * q;
+                });
+                setTotalCalories(cals);
+                setMacros({ carbs: Math.round(carbs), protein: Math.round(protein), fat: Math.round(fat) });
+            })
+            .catch(() => setHistory([]))
+            .finally(() => setLoading(false));
+    }, [date]);
 
-    fetch(`http://localhost:8001/api/Tracking/getfood/${loggedData.loggedUser.userid}/${formattedDate}`, {
-      method: 'GET',
-      headers: {
-        "Authorization": `Bearer ${loggedData.loggedUser.token}`,
-      },
-      cache: 'no-store',
-    })
-      .then((response) => response.json())
-      .then((data) => {
-        setHistory(data);
-        const caloriesSum = data.reduce((sum, item) => sum + (item.foodId.calories / 100 * item.quantity), 0);
-        setTotalCalories(caloriesSum);
-      })
-      .catch((err) => {
-        console.error('Error fetching history:', err);
-        alert('Failed to fetch history.');
-      });
-  };
+    // Fetch last 7 days for weekly chart
+    useEffect(() => {
+        const fetchWeek = async () => {
+            setWeekLoading(true);
+            const results = [];
+            for (let i = 6; i >= 0; i--) {
+                const iso = addDaysToISO(todayISO, -i);
+                try {
+                    const data = await fetchForDate(iso);
+                    const cals = Array.isArray(data)
+                        ? data.reduce((s, item) => s + item.foodId.calories * item.quantity / 100, 0)
+                        : 0;
+                    results.push({ label: shortLabel(iso), calories: Math.round(cals), iso });
+                } catch {
+                    results.push({ label: shortLabel(iso), calories: 0, iso });
+                }
+            }
+            setWeekData(results);
+            setWeekLoading(false);
+        };
+        fetchWeek();
+    }, []);
 
-  const changeDate = (days) => {
-    if (!date) return;
-    const newDate = new Date(date);
-    newDate.setDate(newDate.getDate() + days);
-    setDate(newDate.toISOString().split('T')[0]);
+    const changeDate = (days) => {
+        const next = addDaysToISO(date, days);
+        if (next > todayISO) return; // no future dates
+        setDate(next);
+    };
 
-  };
+    const isToday = date === todayISO;
+    const progressPct = Math.min((totalCalories / dailyGoal) * 100, 100);
 
-  return (
-    <Layout>
-      <div className="flex justify-center">
-        <div className="max-w-4xl w-full p-6 bg-white shadow-xl rounded-lg space-y-6">
+    const chartData = {
+        labels: weekData.map(d => d.label),
+        datasets: [{
+            label: 'Calories',
+            data: weekData.map(d => d.calories),
+            backgroundColor: weekData.map(d =>
+                d.iso === date ? 'rgba(16,185,129,0.9)' : 'rgba(16,185,129,0.2)'
+            ),
+            borderRadius: 6,
+            borderSkipped: false,
+        }],
+    };
 
-          {/* Title */}
-          <h1 className="text-3xl font-bold text-gray-800 text-center">🍽 Meal History</h1>
+    const chartOptions = {
+        responsive: true,
+        onClick: (_, elements) => {
+            if (elements.length > 0 && weekData[elements[0].index]) {
+                setDate(weekData[elements[0].index].iso);
+            }
+        },
+        plugins: {
+            legend: { display: false },
+            tooltip: {
+                callbacks: { label: (ctx) => ` ${ctx.parsed.y} kcal` },
+                backgroundColor: '#18181b', borderColor: '#3f3f46', borderWidth: 1,
+                titleColor: '#a1a1aa', bodyColor: '#f4f4f5',
+            },
+        },
+        scales: {
+            x: { grid: { display: false }, ticks: { color: '#71717a', font: { size: 11 } }, border: { display: false } },
+            y: {
+                grid: { color: 'rgba(63,63,70,0.4)' },
+                ticks: { color: '#71717a', font: { size: 11 } },
+                border: { display: false },
+                suggestedMax: dailyGoal * 1.2,
+            },
+        },
+        cursor: 'pointer',
+    };
 
-          {/* Date Picker & Controls */}
-          <div className="flex flex-col items-center gap-4">
-            <div className="w-full">
-              <label className="block text-gray-700 font-bold text-center mb-1">Select Date</label>
-              <input
-                type="date"
-                value={date}
-                onChange={(e) => setDate(e.target.value)}
-                required
-                className="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring focus:ring-blue-300"
-              />
+    return (
+        <Layout>
+            <div className={`max-w-4xl mx-auto px-4 py-8 transition-all duration-500 ${visible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-4'}`}>
+                <div className="mb-8">
+                    <h1 className="text-2xl font-bold text-white">History</h1>
+                    <p className="text-zinc-500 text-sm mt-1">Track your progress over time</p>
+                </div>
+
+                {/* Weekly Chart */}
+                <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-5 mb-5 transition-all duration-300 hover:border-zinc-700">
+                    <div className="flex items-center gap-2 mb-1">
+                        <TrendingUp className="w-4 h-4 text-emerald-400" />
+                        <h2 className="text-white font-semibold text-sm">Last 7 Days</h2>
+                        <span className="text-xs text-zinc-600 ml-auto">Click a bar to view that day</span>
+                    </div>
+                    {weekLoading ? (
+                        <div className="h-28 flex items-center justify-center">
+                            <div className="animate-spin rounded-full h-5 w-5 border-b-2 border-emerald-500" />
+                        </div>
+                    ) : (
+                        <Bar data={chartData} options={chartOptions} height={70} />
+                    )}
+                    <p className="text-xs text-zinc-600 mt-1 text-right">Goal: {dailyGoal} kcal/day</p>
+                </div>
+
+                {/* Date Navigator */}
+                <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-4 mb-5 transition-all duration-300 hover:border-zinc-700">
+                    <div className="flex items-center gap-3">
+                        <button
+                            onClick={() => changeDate(-1)}
+                            className="w-9 h-9 flex items-center justify-center rounded-xl bg-zinc-800 hover:bg-zinc-700 text-zinc-400 hover:text-white transition-all active:scale-95"
+                        >
+                            <ChevronLeft className="w-4 h-4" />
+                        </button>
+
+                        <div className="flex-1 text-center">
+                            <p className="text-white font-semibold text-sm">
+                                {isToday ? 'Today' : displayLabel(date)}
+                            </p>
+                            {isToday && (
+                                <p className="text-zinc-500 text-xs mt-0.5">{displayLabel(date)}</p>
+                            )}
+                        </div>
+
+                        <button
+                            onClick={() => changeDate(1)}
+                            disabled={isToday}
+                            className="w-9 h-9 flex items-center justify-center rounded-xl bg-zinc-800 hover:bg-zinc-700 disabled:opacity-25 disabled:cursor-not-allowed text-zinc-400 hover:text-white transition-all active:scale-95"
+                        >
+                            <ChevronRight className="w-4 h-4" />
+                        </button>
+
+                        <input
+                            type="date"
+                            value={date}
+                            max={todayISO}
+                            onChange={(e) => { if (e.target.value <= todayISO) setDate(e.target.value); }}
+                            className="nutrify-input w-auto text-xs px-3 py-2"
+                        />
+                    </div>
+                </div>
+
+                {loading ? (
+                    <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-10 flex items-center justify-center">
+                        <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-emerald-500" />
+                    </div>
+                ) : (
+                    <div className={`space-y-4 transition-all duration-300 ${loading ? 'opacity-0' : 'opacity-100'}`}>
+                        {/* Summary */}
+                        {history.length > 0 && (
+                            <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-5 animate-fade-in">
+                                <h3 className="text-white font-semibold mb-4 text-sm">Daily Summary</h3>
+                                <div className="mb-4">
+                                    <div className="flex justify-between items-center mb-1.5">
+                                        <div className="flex items-center gap-1.5">
+                                            <Flame className="w-3.5 h-3.5 text-orange-400" />
+                                            <span className="text-sm text-zinc-300">Calories</span>
+                                        </div>
+                                        <span className={`text-sm font-bold ${totalCalories > dailyGoal ? 'text-red-400' : 'text-emerald-400'}`}>
+                                            {Math.round(totalCalories)} <span className="text-zinc-600 font-normal">/ {dailyGoal} kcal</span>
+                                        </span>
+                                    </div>
+                                    <div className="w-full bg-zinc-800 rounded-full h-2 overflow-hidden">
+                                        <div
+                                            className={`h-2 rounded-full transition-all duration-700 ease-out ${totalCalories > dailyGoal ? 'bg-red-400' : 'bg-emerald-400'}`}
+                                            style={{ width: `${progressPct}%` }}
+                                        />
+                                    </div>
+                                </div>
+                                <div className="grid grid-cols-3 gap-3">
+                                    {[
+                                        { label: 'Carbs', value: macros.carbs, icon: Wheat, color: 'text-amber-400', bg: 'bg-amber-400/10' },
+                                        { label: 'Protein', value: macros.protein, icon: Beef, color: 'text-emerald-400', bg: 'bg-emerald-400/10' },
+                                        { label: 'Fat', value: macros.fat, icon: Droplets, color: 'text-blue-400', bg: 'bg-blue-400/10' },
+                                    ].map(({ label, value, icon: Icon, color, bg }) => (
+                                        <div key={label} className={`${bg} rounded-xl p-3 text-center`}>
+                                            <Icon className={`w-4 h-4 ${color} mx-auto mb-1`} />
+                                            <p className={`font-bold ${color}`}>{value}g</p>
+                                            <p className="text-xs text-zinc-500">{label}</p>
+                                        </div>
+                                    ))}
+                                </div>
+                            </div>
+                        )}
+
+                        {/* Food list */}
+                        <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-5">
+                            <div className="flex items-center gap-2 mb-4">
+                                <CalendarDays className="w-4 h-4 text-zinc-500" />
+                                <h3 className="text-white font-semibold text-sm">Meals logged</h3>
+                                {history.length > 0 && (
+                                    <span className="ml-auto text-xs bg-zinc-800 text-zinc-400 px-2 py-0.5 rounded-full">
+                                        {history.length} items
+                                    </span>
+                                )}
+                            </div>
+                            {history.length > 0 ? (
+                                <div className="space-y-2">
+                                    {history.map((item, i) => (
+                                        <div
+                                            key={i}
+                                            className="flex items-center justify-between py-2.5 px-3 bg-zinc-800/40 rounded-xl border border-zinc-800/60 hover:border-zinc-700 transition-all duration-200 hover:translate-x-0.5"
+                                            style={{ animationDelay: `${i * 60}ms` }}
+                                        >
+                                            <div>
+                                                <p className="text-sm font-medium text-white capitalize">{item.foodId.name}</p>
+                                                <p className="text-xs text-zinc-500 mt-0.5">{item.quantity}g</p>
+                                            </div>
+                                            <span className="text-sm font-semibold text-emerald-400">
+                                                {(item.foodId.calories / 100 * item.quantity).toFixed(0)} kcal
+                                            </span>
+                                        </div>
+                                    ))}
+                                </div>
+                            ) : (
+                                <div className="text-center py-12">
+                                    <CalendarDays className="w-8 h-8 text-zinc-700 mx-auto mb-3" />
+                                    <p className="text-zinc-500 text-sm">No meals logged for this day</p>
+                                    <p className="text-zinc-700 text-xs mt-1">Start adding your meals to see history here</p>
+                                </div>
+                            )}
+                        </div>
+                    </div>
+                )}
             </div>
-            <div className="flex gap-3">
-              <button onClick={() => changeDate(-1)} className="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300">⬅ Prev</button>
-              <button onClick={() => changeDate(1)} className="px-4 py-2 bg-gray-200 rounded hover:bg-gray-300">Next ➡</button>
-            </div>
-            <button
-              onClick={fetchHistory}
-              className="px-6 py-2 bg-blue-600 text-white font-bold rounded-lg hover:bg-blue-700"
-            >
-              Fetch History
-            </button>
-          </div>
-
-          {/* Summary */}
-          {history.length > 0 && (
-            <div className="bg-gray-100 p-4 rounded-lg shadow-sm text-center">
-              <h2 className="text-xl font-semibold mb-2">Daily Summary</h2>
-              <p className="mb-1"><span className="font-bold">Total Calories:</span> {totalCalories.toFixed(1)} kcal</p>
-              <div className="w-full bg-gray-300 rounded-full h-4">
-                <div
-                  className={`h-4 rounded-full ${totalCalories > dailyGoal ? 'bg-red-500' : 'bg-green-500'}`}
-                  style={{ width: `${Math.min((totalCalories / dailyGoal) * 100, 100)}%` }}
-                ></div>
-              </div>
-              <p className="text-sm mt-1 text-gray-600">Goal: {dailyGoal} kcal</p>
-            </div>
-          )}
-
-          {/* History List */}
-          <div>
-            {history.length > 0 ? (
-              <ul className="space-y-4">
-                {history.map((item, index) => (
-                  <li key={index} className="border-b pb-2 text-center">
-                    <p><span className="font-semibold">🥗 Food:</span> {item.foodId.name}</p>
-                    <p><span className="font-semibold">🔥 Calories:</span> {(item.foodId.calories / 100 * item.quantity).toFixed(1)} kcal</p>
-                    <p><span className="font-semibold">📅 Date:</span> {item.eatenDate}</p>
-                  </li>
-                ))}
-              </ul>
-            ) : (
-              <div className="text-center py-10 text-gray-500">
-                <p>No meals logged for this date. 🍳</p>
-                <p className="text-sm">Start adding your meals to see history here.</p>
-              </div>
-            )}
-          </div>
-
-        </div>
-      </div>
-    </Layout>
-  );
+        </Layout>
+    );
 }
 
 export default HistoryPage;

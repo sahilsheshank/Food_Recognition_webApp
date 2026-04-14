@@ -1,3 +1,23 @@
 /.vscode
 /helo.cpp
 /helo.exe
+
+# Environment files — never commit secrets
+.env
+.env.local
+.env.production
+api/.env
+
+# Dependencies
+node_modules/
+client/node_modules/
+api/node_modules/
+nexpro/node_modules/
+
+# Build outputs
+client/dist/
+nexpro/.next/
+
+# Misc
+.DS_Store
+*.log

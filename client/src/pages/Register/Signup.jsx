@@ -1,92 +1,153 @@
 import React, { useState } from 'react'
-import { Link } from 'react-router-dom';
-import Login from './Login';
+import { Link, useNavigate } from 'react-router-dom';
+import { Zap, Eye, EyeOff, AlertCircle, CheckCircle } from 'lucide-react';
+import { API_BASE } from '../../constants/constant';
+
 function Signup() {
-    const [form, setForm] = useState({
-        name: "",
-        email: "",
-        password: "",
-        age: ""
-    })
+    const navigate = useNavigate();
+    const [form, setForm] = useState({ name: "", email: "", password: "", age: "" });
+    const [showPassword, setShowPassword] = useState(false);
+    const [error, setError] = useState('');
+    const [loading, setLoading] = useState(false);
+
     const handleForm = (e) => {
-        e.preventDefault();
-        const { name } = e.target;
-        const { value } = e.target;
-        setForm((prevForm) => ({
-            ...prevForm, [name]: value
-        }))
+        const { name, value } = e.target;
+        setForm((prevForm) => ({ ...prevForm, [name]: value }));
+        setError('');
     }
-    const handleSubmit = (e) => {
+
+    const handleSubmit = async (e) => {
         e.preventDefault();
-        fetch("http://localhost:8001/api/Auth/register", {
-            method: 'POST',
-            body: JSON.stringify(form),
-            headers: {
-                "Content-Type": "application/json"
+        setLoading(true);
+        setError('');
+        try {
+            const res = await fetch(`${API_BASE}/api/Auth/register`, {
+                method: 'POST',
+                body: JSON.stringify(form),
+                headers: { "Content-Type": "application/json" }
+            });
+            const data = await res.json();
+            if (data === "user already exists") {
+                setError('This email is already registered. Please log in.');
+            } else {
+                navigate('/login');
             }
-        })
-            .then((res) =>
-                res.json()
-            )
-            .then((data) => {
-                console.log(data)
-                alert(data);
-                setForm({
-                    name: "",
-                    email: "",
-                    password: "",
-                    age: ""
-                })
-                window.location.href = '/login';
-            })
-            .catch((err) => {
-                console.log(err);
-            })
+        } catch {
+            setError('Something went wrong. Please try again.');
+        } finally {
+            setLoading(false);
+        }
     }
 
     return (
-        <>
-            <div>
+        <div className="min-h-screen flex items-center justify-center px-4 bg-zinc-950 py-12">
+            <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[500px] h-[300px] bg-emerald-500/6 rounded-full blur-3xl pointer-events-none" />
 
+            <div className="w-full max-w-md relative">
+                {/* Logo */}
+                <div className="flex items-center justify-center gap-2 mb-8">
+                    <div className="w-9 h-9 bg-emerald-500 rounded-xl flex items-center justify-center">
+                        <Zap className="w-5 h-5 text-black fill-black" />
+                    </div>
+                    <span className="text-xl font-bold text-white">Nutrify</span>
+                </div>
 
-                <section className="bg-gray-50 dark:bg-gray-900">
-                    <div className="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+                <div className="bg-zinc-900 border border-zinc-800 rounded-2xl p-8">
+                    <h1 className="text-2xl font-bold text-white mb-1">Create your account</h1>
+                    <p className="text-zinc-400 text-sm mb-7">Start tracking your nutrition for free</p>
 
-                        <div className="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
-                            <div className="p-6 space-y-4 md:space-y-6 sm:p-8">
-                                <h1 className="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
-                                    Create an account
-                                </h1>
-                                <form onSubmit={handleSubmit} className="space-y-4 md:space-y-6" action="#">
-                                    <div>
-                                        <label for="name" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your Name</label>
-                                        <input value={form.name} onChange={handleForm} type="name" name="name" id="name" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="john doe" required="" />
-                                    </div>
-                                    <div>
-                                        <label for="email" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your email</label>
-                                        <input value={form.email} onChange={handleForm} type="email" name="email" id="email" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="name@company.com" required="" />
-                                    </div>
-                                    <div>
-                                        <label for="password" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Password</label>
-                                        <input value={form.password} onChange={handleForm} type="password" name="password" id="password" placeholder="••••••••" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required="" />
-                                    </div>
-                                    <div>
-                                        <label value={form.age} for="age" className="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Your age</label>
-                                        <input onChange={handleForm} type="age" name="age" id="age" placeholder="18" className="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-primary-600 focus:border-primary-600 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" required="" />
-                                    </div>
-                                    <button type="submit" className="w-full text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:outline-none focus:ring-primary-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center dark:bg-primary-600 dark:hover:bg-primary-700 dark:focus:ring-primary-800">Create an account</button>
-                                    <Link to={'/login'}><p className="text-sm font-light text-gray-500 dark:text-gray-400">
-                                        Already have an account? <a href="#" className="font-medium text-primary-600 hover:underline dark:text-primary-500">Login here</a>
-                                    </p>
-                                    </Link>
-                                </form>
+                    {error && (
+                        <div className="flex items-center gap-2 bg-red-500/10 border border-red-500/20 rounded-xl px-4 py-3 mb-5">
+                            <AlertCircle className="w-4 h-4 text-red-400 flex-shrink-0" />
+                            <p className="text-sm text-red-400">{error}</p>
+                        </div>
+                    )}
+
+                    <form onSubmit={handleSubmit} className="space-y-4">
+                        <div>
+                            <label className="nutrify-label">Full name</label>
+                            <input
+                                value={form.name}
+                                onChange={handleForm}
+                                type="text"
+                                name="name"
+                                placeholder="John Doe"
+                                className="nutrify-input"
+                                required
+                            />
+                        </div>
+                        <div>
+                            <label className="nutrify-label">Email address</label>
+                            <input
+                                value={form.email}
+                                onChange={handleForm}
+                                type="email"
+                                name="email"
+                                placeholder="you@example.com"
+                                className="nutrify-input"
+                                required
+                            />
+                        </div>
+                        <div>
+                            <label className="nutrify-label">Password</label>
+                            <div className="relative">
+                                <input
+                                    value={form.password}
+                                    onChange={handleForm}
+                                    type={showPassword ? "text" : "password"}
+                                    name="password"
+                                    placeholder="••••••••"
+                                    className="nutrify-input pr-11"
+                                    required
+                                />
+                                <button
+                                    type="button"
+                                    onClick={() => setShowPassword(!showPassword)}
+                                    className="absolute right-3 top-1/2 -translate-y-1/2 text-zinc-500 hover:text-zinc-300 transition-colors"
+                                >
+                                    {showPassword ? <EyeOff className="w-4 h-4" /> : <Eye className="w-4 h-4" />}
+                                </button>
                             </div>
                         </div>
-                    </div>
-                </section>
-            </div>
-        </>
+                        <div>
+                            <label className="nutrify-label">Age</label>
+                            <input
+                                onChange={handleForm}
+                                type="number"
+                                name="age"
+                                placeholder="25"
+                                min="12"
+                                max="120"
+                                className="nutrify-input"
+                                required
+                            />
+                        </div>
 
+                        <button
+                            type="submit"
+                            disabled={loading}
+                            className="w-full bg-emerald-500 hover:bg-emerald-400 disabled:opacity-50 disabled:cursor-not-allowed text-black font-semibold py-3 rounded-xl transition-all text-sm mt-2"
+                        >
+                            {loading ? 'Creating account...' : 'Create account'}
+                        </button>
+                    </form>
+
+                    <div className="mt-5 pt-5 border-t border-zinc-800">
+                        <div className="flex items-center gap-2 text-xs text-zinc-600 justify-center mb-1">
+                            <CheckCircle className="w-3.5 h-3.5 text-emerald-600" />
+                            Free forever — no credit card needed
+                        </div>
+                    </div>
+
+                    <p className="text-center text-sm text-zinc-500 mt-4">
+                        Already have an account?{' '}
+                        <Link to="/login" className="text-emerald-400 hover:text-emerald-300 font-medium transition-colors">
+                            Sign in
+                        </Link>
+                    </p>
+                </div>
+            </div>
+        </div>
     )
 }
 
