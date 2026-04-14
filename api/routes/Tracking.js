@@ -19,16 +19,12 @@ router.post('/trackFood', verifyToken, async (req, res) => {
 router.get("/getfood/:userid/:date", async (req, res) => {
     let userid = req.params.userid;
 
-    // Manually split the date and parse it as dd-mm-yyyy
     let [day, month, year] = req.params.date.split('-');
 
-    // Ensure single-digit days and months are zero-padded correctly
     day = day.padStart(2, '0');
     month = month.padStart(2, '0');
 
-    // Create a new Date object with correct formatting
     let strDate = `${day}/${month}/${year}`;
-    // For debugging
 
     try {
         let foods = await trackingModel.find({ userId: userid, eatenDate: strDate })
