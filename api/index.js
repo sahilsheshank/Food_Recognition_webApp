@@ -10,13 +10,10 @@ dotenv.config();
 
 const app = express();
 
-// Allow requests from the Vercel frontend domain and localhost
+// Open CORS — frontend and API share the same Vercel domain (same-origin),
+// so credentials flow naturally; allow all for local dev & any future domains.
 app.use(cors({
-    origin: [
-        'http://localhost:5173',
-        'http://localhost:4173',
-        process.env.FRONTEND_URL,
-    ].filter(Boolean),
+    origin: true,   // reflects the request origin (allows all, including same-origin)
     credentials: true,
 }));
 
