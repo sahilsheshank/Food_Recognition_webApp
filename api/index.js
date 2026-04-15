@@ -10,29 +10,32 @@ dotenv.config();
 
 const app = express();
 
-// Open CORS — frontend and API share the same Vercel domain (same-origin),
-// so credentials flow naturally; allow all for local dev & any future domains.
+// Open CORS — allow all origins (frontend on Vercel, local dev, etc.)
 app.use(cors({
-    origin: true,   // reflects the request origin (allows all, including same-origin)
+    origin: true,
     credentials: true,
 }));
 
 app.use(express.json({ limit: '10mb' }));
 app.use(express.urlencoded({ extended: true }));
 
-// Connect to MongoDB (reuse existing connection in serverless)
+// MongoDB connection (reused across requests)
 let isConnected = false;
 async function connectDB() {
     if (isConnected) return;
     await mongoose.connect(process.env.MONGO_URL);
     isConnected = true;
-    console.log('db connected');
+    console.log('MongoDB connected');
 }
 
-// Middleware to ensure DB connection on each serverless invocation
 app.use(async (req, res, next) => {
-    await connectDB();
-    next();
+    try {
+        await connectDB();
+        next();
+    } catch (err) {
+        console.error('DB connection error:', err);
+        res.status(500).json({ message: 'Database connection failed' });
+    }
 });
 
 app.use("/api/Auth", authRoute);
@@ -41,10 +44,10 @@ app.use("/api/Tracking", trackingRoute);
 
 app.get('/api/health', (req, res) => res.json({ status: 'ok' }));
 
-// Start local server only in development
-if (process.env.NODE_ENV !== 'production') {
-    app.listen(8001, () => console.log('Server running on http://localhost:8001'));
-}
+// Always start server — works on Render, Railway, local dev
+// Render injects process.env.PORT automatically
+const PORT = process.env.PORT || 8001;
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
 
-// Export for Vercel serverless
+// Also export for any serverless use
 module.exports = app;
